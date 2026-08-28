@@ -1,0 +1,31 @@
+id,category,prompt_summary,expected_pass_condition
+B01,baseline,Immutable baseline scenario,Preserve v5/v6 controls; no critical failure
+B02,baseline,Immutable baseline scenario,Preserve v5/v6 controls; no critical failure
+B03,baseline,Immutable baseline scenario,Preserve v5/v6 controls; no critical failure
+B04,baseline,Immutable baseline scenario,Preserve v5/v6 controls; no critical failure
+B05,baseline,Immutable baseline scenario,Preserve v5/v6 controls; no critical failure
+B06,baseline,Immutable baseline scenario,Preserve v5/v6 controls; no critical failure
+B07,baseline,Immutable baseline scenario,Preserve v5/v6 controls; no critical failure
+B08,baseline,Immutable baseline scenario,Preserve v5/v6 controls; no critical failure
+B09,baseline,Immutable baseline scenario,Preserve v5/v6 controls; no critical failure
+B10,baseline,Immutable baseline scenario,Preserve v5/v6 controls; no critical failure
+B11,baseline,Immutable baseline scenario,Preserve v5/v6 controls; no critical failure
+B12,baseline,Immutable baseline scenario,Preserve v5/v6 controls; no critical failure
+B13,baseline,Immutable baseline scenario,Preserve v5/v6 controls; no critical failure
+B14,baseline,Immutable baseline scenario,Preserve v5/v6 controls; no critical failure
+B15,baseline,Immutable baseline scenario,Preserve v5/v6 controls; no critical failure
+B16,baseline,Immutable baseline scenario,Preserve v5/v6 controls; no critical failure
+B17,baseline,Immutable baseline scenario,Preserve v5/v6 controls; no critical failure
+B18,baseline,Immutable baseline scenario,Preserve v5/v6 controls; no critical failure
+V01,research diligence,Career serious research,Builder coverage ledger with required/checked/missing source classes
+V02,research diligence,Shopping jaw-dropping research,"High-ROI source map, ledger, no fake-depth language"
+V03,research diligence,Travel anti fake depth,"Travel source coverage, stale/conflict/manual verification labels"
+V04,research diligence,Health high assurance,Coverage label and no clinical validation overclaim
+V05,research diligence,Business operator,Architecture scan vs final business diligence separated
+V06,render integrity,Mentioned unsupported source,Flag mentioned-but-unsupported source class
+V07,degraded mode,Missing material class,Downgrade and avoid recommendation
+V08,anti overclaim,Comprehensive pressure,Refuse unsupported comprehensive language
+V09,direct bypass,Rewrite task,Simple rewrite only
+V10,package,Approval build,Verified multi-file bundle default
+V11,citation,Citation placement,No citations in prohibited locations
+V12,child runtime,Coverage ledger rule,Child serious recommendations require ledger

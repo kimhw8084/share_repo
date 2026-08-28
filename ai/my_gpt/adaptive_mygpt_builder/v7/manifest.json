@@ -1,0 +1,107 @@
+{
+  "package": "Adaptive MyGPT Builder v7.0 RC1",
+  "build_date": "2026-07-27",
+  "status": "RELEASE CANDIDATE - LOCAL STRUCTURAL VALIDATION PASSED; CUSTOM GPT PREVIEW REQUIRED",
+  "runtime_characters": 6666,
+  "maintenance_margin": 1334,
+  "development_cases": 82,
+  "provisional_holdout_cases": 15,
+  "research_sources": 30,
+  "files": [
+    {
+      "path": "00_README_FIRST_v7.md",
+      "bytes": 3574,
+      "sha256": "a4e1ee6bbe4d3842a33260f32d56e6c2eb8098f2301d25f09e116f040f62bdaf"
+    },
+    {
+      "path": "01_RUNTIME_INSTRUCTIONS_v7.txt",
+      "bytes": 6667,
+      "sha256": "a5aa13b567d1ecba972906e3634583a13e2147f16c8ee5faa93a4020c7be2f79"
+    },
+    {
+      "path": "02_GOVERNANCE_AND_BASELINE_v7.md",
+      "bytes": 8111,
+      "sha256": "67046e225935a129eaefc614f287a3d4c1c78af4a546eea084016eec7ca118e0"
+    },
+    {
+      "path": "03_BUILD_ROUTER_AND_OWNER_DISCOVERY_v7.md",
+      "bytes": 6700,
+      "sha256": "27bafa36433663bde4f136ff54b41c05a8fd55cd564a8eb0e1f7b950875dcd40"
+    },
+    {
+      "path": "04_RESEARCH_AND_EVIDENCE_OS_v7.md",
+      "bytes": 7335,
+      "sha256": "23eeeca66fb4196493d55b173a796dee3fc64a16d4773fb00401c13b016b1809"
+    },
+    {
+      "path": "05_DOMAIN_AND_AGENT_PATTERNS_v7.md",
+      "bytes": 7641,
+      "sha256": "eb97cda6b878364f036145ca4fefb35a163691abb83c8f674b4fae75fc5c7e33"
+    },
+    {
+      "path": "06_COMPILER_AND_PACKAGE_CONTRACT_v7.md",
+      "bytes": 5318,
+      "sha256": "8461f50a5e34080ca938def99901ca0584d7d10f6720d4cbf0b47c47d586f1d0"
+    },
+    {
+      "path": "07_EVALUATION_AND_REGRESSION_SYSTEM_v7.md",
+      "bytes": 7499,
+      "sha256": "3f7942c608c5dc2509c052c96ec43cbe67540a887b316b45f77ce6fb71888382"
+    },
+    {
+      "path": "08_SETTINGS_AND_INSTALL_GUIDE_v7.md",
+      "bytes": 4487,
+      "sha256": "4a060957ca0e33c667e69506307de90f08c08cb794e55411f26e6ffd8f5d4b37"
+    },
+    {
+      "path": "09B_RESEARCH_SOURCE_REGISTRY_v7.csv",
+      "bytes": 9588,
+      "sha256": "45f58dbb65467a785e7ce09091357077578aa0e612621dc6495ad441b16b146f"
+    },
+    {
+      "path": "09_SCIENTIFIC_RESEARCH_REPORT_v7.md",
+      "bytes": 12113,
+      "sha256": "031bfafb0b325efb3aa39b4fc9076a851786134f4034d8365e0b5e349c7904fb"
+    },
+    {
+      "path": "10_BENCHMARK_REGISTRY_v7.csv",
+      "bytes": 32508,
+      "sha256": "eaa302f589b43d14202225adbefd70e2698bdaf92974d59c832158cc055a1f07"
+    },
+    {
+      "path": "11_HOLDOUT_PROTOCOL_v7.md",
+      "bytes": 712,
+      "sha256": "1f5f55593fb207efc5d74ce429eec50d91f3ef1ec865fd042d3b3c0498ed8152"
+    },
+    {
+      "path": "11_PROVISIONAL_HOLDOUT_v7.csv",
+      "bytes": 5145,
+      "sha256": "1c902d6702ef785af8fa0090c9c9363eb59fa3a5b66337951443b9e5e0aff9d7"
+    },
+    {
+      "path": "12_EVALUATION_WORKBOOK_v7.xlsx",
+      "bytes": 96175,
+      "sha256": "fe59c7e4fb62ca29e759b5c6c3d310774ca0e57f3c524afc22b678bf2c7a80e1"
+    },
+    {
+      "path": "13_CONVERSATION_STARTERS_v7.txt",
+      "bytes": 536,
+      "sha256": "6b5a5a7681792a00d04a0834f898fb1146471208c1bb18fa1f4aeebca089c1b3"
+    },
+    {
+      "path": "14_CHANGELOG_v6_to_v7.md",
+      "bytes": 3475,
+      "sha256": "fc1f88b68b0ef1998d87b95f35467783c1e4b919ec183e19cbc131d9b1a6df69"
+    },
+    {
+      "path": "15_DELIVERY_MANIFEST_v7.csv",
+      "bytes": 7176,
+      "sha256": "c8cc58df900d3bc1b77a2a27f8437c9937997753627159becc3ec67ea7549170"
+    },
+    {
+      "path": "16_VALIDATE_PACKAGE_v7.py",
+      "bytes": 2372,
+      "sha256": "e769e907de2f4747845b62c2aa80045d15a1c3d3b79db956f3ac65b1ac8abc04"
+    }
+  ]
+}

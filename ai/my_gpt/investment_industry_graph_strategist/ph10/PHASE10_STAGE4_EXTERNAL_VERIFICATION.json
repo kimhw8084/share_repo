@@ -1,0 +1,73 @@
+{
+  "schema_version": "phase10-stage4-external-verification-v1",
+  "generated_at": "2026-07-29T00:05:17.523735+00:00",
+  "engine_version": "0.10.0",
+  "engine_tests_passed": 68,
+  "engine_tests_failed": 0,
+  "standalone_archive": {
+    "path": "/mnt/data/PHASE10_STAGE4_INDUSTRIAL_ROBOTICS_FACTORY_AUTOMATION_HOLDOUT.zip",
+    "sha256": "faeb49acc5d0bd59f05293ea9cc639651511ecc290ff4c48747069241053e311",
+    "entry_count": 181,
+    "duplicate_entry_count": 0,
+    "crc_error": null,
+    "inspector_status": "review_required",
+    "inspector_hard_fail_count": 0,
+    "inspector_blocker_count": 0,
+    "inspector_review_required_count": 3
+  },
+  "migration_archive": {
+    "path": "/mnt/data/PHASE10_STAGE4_UNSEEN_ROBOTICS_HOLDOUT_MIGRATION.zip",
+    "sha256": "c72347203f6a1d5f93e8231ad06e36001ff31c1840e98a796c99b7f60dc20216",
+    "entry_count": 346,
+    "duplicate_entry_count": 0,
+    "crc_error": null,
+    "inspector_status": "review_required",
+    "inspector_hard_fail_count": 0,
+    "inspector_blocker_count": 0,
+    "inspector_review_required_count": 2
+  },
+  "holdout": {
+    "score": 89.1,
+    "accepted_sources": 22,
+    "eligible_evidence": 314,
+    "authoritative_recall_percent": 100.0,
+    "analytical_specificity_failures": 0,
+    "browser_checks": "27/27",
+    "hard_fails": 0,
+    "blockers": 0
+  },
+  "final_state_semantic_audit": {
+    "schema_version": "phase10-stage4-final-state-semantic-audit-v1",
+    "generated_at": "2026-07-29T00:05:17.523735+00:00",
+    "run_id": "run_industrial-robotics-and-factory-automation_a746c6d8",
+    "passed": false,
+    "release_gate_passed": false,
+    "validation_report": {
+      "overall_score": 89.1,
+      "production_claim": true,
+      "disposition": "pass_with_major_gaps"
+    },
+    "run_state": {
+      "status": "html_interactive_verified_pending_validation",
+      "production_claim": false,
+      "overall_score": 89.1
+    },
+    "engine_run_manifest": {
+      "artifact_state": "candidate",
+      "production_claim": true,
+      "score": 89.1
+    },
+    "conflicts": [
+      "validation_report.production_claim disagrees with run_state.production_claim",
+      "engine run manifest production_claim disagrees with run_state.production_claim",
+      "run_state status reverted to pending validation after final browser regeneration"
+    ],
+    "classification": "p0_final_state_semantic_atomicity_regression",
+    "required_action": "Patch finalization to reach a stable semantic fixed point after the last HTML regeneration, then rerun this sealed holdout without changing its research content."
+  },
+  "world_class_claim": false,
+  "external_human_review_pending": true,
+  "accepted_inspector_hard_fails": 0,
+  "accepted_inspector_blockers": 0,
+  "inspector_review_markers": "external-sidecar lifecycle and non-controlling manifest notices only"
+}

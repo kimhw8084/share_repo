@@ -1,0 +1,29 @@
+{
+  "schema_version": "phase10-stage4-final-state-semantic-audit-v1",
+  "generated_at": "2026-07-29T00:05:17.523735+00:00",
+  "run_id": "run_industrial-robotics-and-factory-automation_a746c6d8",
+  "passed": false,
+  "release_gate_passed": false,
+  "validation_report": {
+    "overall_score": 89.1,
+    "production_claim": true,
+    "disposition": "pass_with_major_gaps"
+  },
+  "run_state": {
+    "status": "html_interactive_verified_pending_validation",
+    "production_claim": false,
+    "overall_score": 89.1
+  },
+  "engine_run_manifest": {
+    "artifact_state": "candidate",
+    "production_claim": true,
+    "score": 89.1
+  },
+  "conflicts": [
+    "validation_report.production_claim disagrees with run_state.production_claim",
+    "engine run manifest production_claim disagrees with run_state.production_claim",
+    "run_state status reverted to pending validation after final browser regeneration"
+  ],
+  "classification": "p0_final_state_semantic_atomicity_regression",
+  "required_action": "Patch finalization to reach a stable semantic fixed point after the last HTML regeneration, then rerun this sealed holdout without changing its research content."
+}

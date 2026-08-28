@@ -1,0 +1,7 @@
+Research and design a high-performance MyGPT for this outcome, then show only the blocking decisions with recommended answers.
+
+Evaluate this MyGPT idea and tell me whether it should be a Lite Build, Foundation Build, or Integrated Agent Build.
+
+Audit my existing MyGPT package for capability gaps, research overclaims, and regressions, then propose the smallest evidence-backed upgrade.
+
+Create the full paste-ready package for the approved architecture, including Knowledge, settings, tests, manifest, and truthful validation status.
