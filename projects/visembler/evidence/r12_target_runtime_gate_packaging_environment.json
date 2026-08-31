@@ -1,0 +1,8 @@
+{
+  "failures": [
+    "NiceGUI import failed: No module named 'nicegui'"
+  ],
+  "packaging_environment_expected_failure": true,
+  "pass": false,
+  "reason": "NiceGUI is not installed in the packaging sandbox; setup_linux.sh installs and certifies nicegui==3.15.0 on the target."
+}

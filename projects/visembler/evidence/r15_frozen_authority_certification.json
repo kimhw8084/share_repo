@@ -1,0 +1,626 @@
+{
+  "pass": false,
+  "commands": 21,
+  "planned": 27,
+  "range": [
+    1,
+    27
+  ],
+  "isolated_per_command": true,
+  "golden_connector_sha256": "d8ebd4378f01b7c52a7a4be57c578c22adf29b899cc08a370cf084881195343e",
+  "vendor_files": 123,
+  "vendor_unchanged": true,
+  "elapsed_ms": 3295.65,
+  "results": [
+    {
+      "index": 1,
+      "name": "advanced_chart_engine",
+      "pass": true,
+      "returncode": 0,
+      "elapsed_ms": 75.04,
+      "payload": {
+        "pass": true,
+        "charts": 12,
+        "sizes": 5,
+        "renderCases": 60,
+        "deterministic": true,
+        "invalidInputBlocking": true
+      },
+      "stdout_tail": [
+        "{",
+        "  \"pass\": true,",
+        "  \"charts\": 12,",
+        "  \"sizes\": 5,",
+        "  \"renderCases\": 60,",
+        "  \"deterministic\": true,",
+        "  \"invalidInputBlocking\": true",
+        "}"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "index": 2,
+      "name": "core_chart_engine",
+      "pass": true,
+      "returncode": 0,
+      "elapsed_ms": 58.92,
+      "payload": {
+        "pass": true,
+        "types": 29,
+        "deterministic": true,
+        "typedEligibility": true,
+        "invalidInputBlocking": true
+      },
+      "stdout_tail": [
+        "{",
+        "  \"pass\": true,",
+        "  \"types\": 29,",
+        "  \"deterministic\": true,",
+        "  \"typedEligibility\": true,",
+        "  \"invalidInputBlocking\": true",
+        "}"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "index": 3,
+      "name": "editor_store",
+      "pass": true,
+      "returncode": 0,
+      "elapsed_ms": 61.49,
+      "payload": {
+        "pass": true,
+        "commands": 100,
+        "revision": 303,
+        "deterministic": true,
+        "atomic": true,
+        "frozenModel": true,
+        "groupedUndoExact": true
+      },
+      "stdout_tail": [
+        "{",
+        "  \"pass\": true,",
+        "  \"commands\": 100,",
+        "  \"revision\": 303,",
+        "  \"deterministic\": true,",
+        "  \"atomic\": true,",
+        "  \"frozenModel\": true,",
+        "  \"groupedUndoExact\": true",
+        "}"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "index": 4,
+      "name": "engineering_chart_engine",
+      "pass": true,
+      "returncode": 0,
+      "elapsed_ms": 68.41,
+      "payload": {
+        "pass": true,
+        "types": 13,
+        "renderCases": 39,
+        "deterministic": true,
+        "invalidInputBlocking": true
+      },
+      "stdout_tail": [
+        "{",
+        "  \"pass\": true,",
+        "  \"types\": 13,",
+        "  \"renderCases\": 39,",
+        "  \"deterministic\": true,",
+        "  \"invalidInputBlocking\": true",
+        "}"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "index": 5,
+      "name": "graph_semantics_engine",
+      "pass": true,
+      "returncode": 0,
+      "elapsed_ms": 196.41,
+      "payload": {
+        "pass": true,
+        "kinds": 5,
+        "deterministic": true,
+        "invalidGraphBlocking": true,
+        "hundredNodeIterations": 1000,
+        "elapsedMs": 133.032,
+        "fingerprint": "g1-f1b18dfb"
+      },
+      "stdout_tail": [
+        "{",
+        "  \"pass\": true,",
+        "  \"kinds\": 5,",
+        "  \"deterministic\": true,",
+        "  \"invalidGraphBlocking\": true,",
+        "  \"hundredNodeIterations\": 1000,",
+        "  \"elapsedMs\": 133.032,",
+        "  \"fingerprint\": \"g1-f1b18dfb\"",
+        "}"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "index": 6,
+      "name": "grid_layout_engine",
+      "pass": true,
+      "returncode": 0,
+      "elapsed_ms": 59.24,
+      "payload": {
+        "pass": true,
+        "deterministic": true,
+        "arbitraryPages": 2500,
+        "safeMiddleRegion": {
+          "x": 0,
+          "y": 0.96,
+          "width": 13.333,
+          "height": 6
+        },
+        "normalizedMapping": true
+      },
+      "stdout_tail": [
+        "{",
+        "  \"pass\": true,",
+        "  \"deterministic\": true,",
+        "  \"arbitraryPages\": 2500,",
+        "  \"safeMiddleRegion\": {",
+        "    \"x\": 0,",
+        "    \"y\": 0.96,",
+        "    \"width\": 13.333,",
+        "    \"height\": 6",
+        "  },",
+        "  \"normalizedMapping\": true",
+        "}"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "index": 7,
+      "name": "data_grid_engine",
+      "pass": true,
+      "returncode": 0,
+      "elapsed_ms": 70.83,
+      "payload": {
+        "pass": true,
+        "zeroVsMissing": true,
+        "missingLastAscDesc": true,
+        "rows": 100000,
+        "buildMs": 7.29,
+        "virtual10kMs": 1.24,
+        "maxVisibleWindow": 31
+      },
+      "stdout_tail": [
+        "{",
+        "  \"pass\": true,",
+        "  \"zeroVsMissing\": true,",
+        "  \"missingLastAscDesc\": true,",
+        "  \"rows\": 100000,",
+        "  \"buildMs\": 7.29,",
+        "  \"virtual10kMs\": 1.24,",
+        "  \"maxVisibleWindow\": 31",
+        "}"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "index": 8,
+      "name": "image_media_engine",
+      "pass": true,
+      "returncode": 0,
+      "elapsed_ms": 57.55,
+      "payload": {
+        "pass": true,
+        "roundTrips": 3000,
+        "maxError": 1.1102230246251565e-16,
+        "svgSanitized": true,
+        "pixelPolicy": true
+      },
+      "stdout_tail": [
+        "{",
+        "  \"pass\": true,",
+        "  \"roundTrips\": 3000,",
+        "  \"maxError\": 1.1102230246251565e-16,",
+        "  \"svgSanitized\": true,",
+        "  \"pixelPolicy\": true",
+        "}"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "index": 9,
+      "name": "wafer_fab_engine",
+      "pass": true,
+      "returncode": 0,
+      "elapsed_ms": 52.76,
+      "payload": {
+        "pass": true,
+        "registration": true,
+        "zeroVsMissing": true,
+        "unitMismatchBlocking": true,
+        "provenance": true
+      },
+      "stdout_tail": [
+        "{",
+        "  \"pass\": true,",
+        "  \"registration\": true,",
+        "  \"zeroVsMissing\": true,",
+        "  \"unitMismatchBlocking\": true,",
+        "  \"provenance\": true",
+        "}"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "index": 10,
+      "name": "statistics_engine",
+      "pass": true,
+      "returncode": 0,
+      "elapsed_ms": 65.77,
+      "payload": {
+        "pass": true,
+        "reference": "NumPy/SciPy/statsmodels",
+        "distribution": true,
+        "regression": true,
+        "doe": true,
+        "spc": true,
+        "transforms": true,
+        "invalidInputBlocking": true
+      },
+      "stdout_tail": [
+        "{",
+        "  \"pass\": true,",
+        "  \"reference\": \"NumPy/SciPy/statsmodels\",",
+        "  \"distribution\": true,",
+        "  \"regression\": true,",
+        "  \"doe\": true,",
+        "  \"spc\": true,",
+        "  \"transforms\": true,",
+        "  \"invalidInputBlocking\": true",
+        "}"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "index": 11,
+      "name": "table_pivot_engine",
+      "pass": true,
+      "returncode": 0,
+      "elapsed_ms": 279.87,
+      "payload": {
+        "pass": true,
+        "typedAggregation": true,
+        "rowSubtotals": true,
+        "columnSubtotals": true,
+        "grandTotals": true,
+        "expandCollapse": true,
+        "deterministicFingerprint": true,
+        "invalidInputBlocking": true,
+        "stress": {
+          "rows": 100000,
+          "buildMs": 193.99,
+          "visibleRows": 49,
+          "virtual10kMs": 0.97
+        }
+      },
+      "stdout_tail": [
+        "  \"columnSubtotals\": true,",
+        "  \"grandTotals\": true,",
+        "  \"expandCollapse\": true,",
+        "  \"deterministicFingerprint\": true,",
+        "  \"invalidInputBlocking\": true,",
+        "  \"stress\": {",
+        "    \"rows\": 100000,",
+        "    \"buildMs\": 193.99,",
+        "    \"visibleRows\": 49,",
+        "    \"virtual10kMs\": 0.97",
+        "  }",
+        "}"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "index": 12,
+      "name": "table_pivot_reference",
+      "pass": true,
+      "returncode": 0,
+      "elapsed_ms": 75.38,
+      "payload": {
+        "pass": true,
+        "oracle": "pandas 2.2.3",
+        "seed": 4172026,
+        "sourceRows": 1500,
+        "checkedCells": 423
+      },
+      "stdout_tail": [
+        "{",
+        "  \"pass\": true,",
+        "  \"oracle\": \"pandas 2.2.3\",",
+        "  \"seed\": 4172026,",
+        "  \"sourceRows\": 1500,",
+        "  \"checkedCells\": 423",
+        "}"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "index": 13,
+      "name": "timeline_semantics_engine",
+      "pass": true,
+      "returncode": 0,
+      "elapsed_ms": 64.21,
+      "payload": {
+        "pass": true,
+        "modes": 2,
+        "dependencyTypes": 4,
+        "noInventedDates": true,
+        "deterministic": true,
+        "invalidScheduleBlocking": true,
+        "fingerprint": "t1-8e00565e"
+      },
+      "stdout_tail": [
+        "{",
+        "  \"pass\": true,",
+        "  \"modes\": 2,",
+        "  \"dependencyTypes\": 4,",
+        "  \"noInventedDates\": true,",
+        "  \"deterministic\": true,",
+        "  \"invalidScheduleBlocking\": true,",
+        "  \"fingerprint\": \"t1-8e00565e\"",
+        "}"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "index": 14,
+      "name": "universal_renderer",
+      "pass": true,
+      "returncode": 0,
+      "elapsed_ms": 57.44,
+      "payload": {
+        "pass": true,
+        "elements": 248,
+        "engines": 17,
+        "interactive": 33,
+        "allNamed": true,
+        "ariaNamed": true,
+        "noInvalidNumbers": true
+      },
+      "stdout_tail": [
+        "{",
+        "  \"pass\": true,",
+        "  \"elements\": 248,",
+        "  \"engines\": 17,",
+        "  \"interactive\": 33,",
+        "  \"allNamed\": true,",
+        "  \"ariaNamed\": true,",
+        "  \"noInvalidNumbers\": true",
+        "}"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "index": 15,
+      "name": "ppt_mapping_catalog",
+      "pass": true,
+      "returncode": 0,
+      "elapsed_ms": 62.45,
+      "payload": {
+        "pass": true,
+        "contracts": 248,
+        "exportable": 225,
+        "editorOnly": 23,
+        "strategies": {
+          "editable_grouped_shapes": 56,
+          "editable_text_box": 15,
+          "editable_text_and_shapes": 14,
+          "native_chart_when_supported_else_editable_shapes": 42,
+          "editable_table": 9,
+          "editable_table_and_shapes": 12,
+          "editable_timeline_shapes": 11,
+          "editable_shapes_and_connectors": 33,
+          "native_image_plus_editable_annotations": 10,
+          "editable_shapes_plus_native_image_boundary": 13,
+          "flatten_selected_state_only": 10,
+          "not_exported_editor_only": 23
+        },
+        "noWholeReportRaster": true
+      },
+      "stdout_tail": [
+        "    \"native_chart_when_supported_else_editable_shapes\": 42,",
+        "    \"editable_table\": 9,",
+        "    \"editable_table_and_shapes\": 12,",
+        "    \"editable_timeline_shapes\": 11,",
+        "    \"editable_shapes_and_connectors\": 33,",
+        "    \"native_image_plus_editable_annotations\": 10,",
+        "    \"editable_shapes_plus_native_image_boundary\": 13,",
+        "    \"flatten_selected_state_only\": 10,",
+        "    \"not_exported_editor_only\": 23",
+        "  },",
+        "  \"noWholeReportRaster\": true",
+        "}"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "index": 16,
+      "name": "property_fuzz",
+      "pass": true,
+      "returncode": 0,
+      "elapsed_ms": 700.06,
+      "payload": {
+        "pass": true,
+        "seed": 1511506142,
+        "totalCases": 12500,
+        "statsCases": 3500,
+        "pivotCases": 3000,
+        "editorCases": 1500,
+        "chartCases": 2000,
+        "gridCases": 625,
+        "imageCases": 625,
+        "waferCases": 625,
+        "timelineCases": 625,
+        "invalidCases": 220,
+        "elapsedMs": 638.06
+      },
+      "stdout_tail": [
+        "  \"totalCases\": 12500,",
+        "  \"statsCases\": 3500,",
+        "  \"pivotCases\": 3000,",
+        "  \"editorCases\": 1500,",
+        "  \"chartCases\": 2000,",
+        "  \"gridCases\": 625,",
+        "  \"imageCases\": 625,",
+        "  \"waferCases\": 625,",
+        "  \"timelineCases\": 625,",
+        "  \"invalidCases\": 220,",
+        "  \"elapsedMs\": 638.06",
+        "}"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "index": 17,
+      "name": "static_p0_lint",
+      "pass": true,
+      "returncode": 0,
+      "elapsed_ms": 20.0,
+      "payload": {
+        "pass": true,
+        "errors": [],
+        "checks": {
+          "semantic_type_tokens": true,
+          "presentation_token_lint": true,
+          "accessibility_primitives": true,
+          "pointer_lifecycle": true,
+          "resize_observer": true,
+          "retained_canvas_scaffold": true
+        }
+      },
+      "stdout_tail": [
+        "{",
+        "  \"pass\": true,",
+        "  \"errors\": [],",
+        "  \"checks\": {",
+        "    \"semantic_type_tokens\": true,",
+        "    \"presentation_token_lint\": true,",
+        "    \"accessibility_primitives\": true,",
+        "    \"pointer_lifecycle\": true,",
+        "    \"resize_observer\": true,",
+        "    \"retained_canvas_scaffold\": true",
+        "  }",
+        "}"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "index": 18,
+      "name": "component_contracts",
+      "pass": true,
+      "returncode": 0,
+      "elapsed_ms": 24.02,
+      "payload": {
+        "pass": true,
+        "contracts": 248,
+        "runtimeRegistry": 248,
+        "engines": 17,
+        "errors": []
+      },
+      "stdout_tail": [
+        "{",
+        "  \"pass\": true,",
+        "  \"contracts\": 248,",
+        "  \"runtimeRegistry\": 248,",
+        "  \"engines\": 17,",
+        "  \"errors\": []",
+        "}"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "index": 19,
+      "name": "offline_runtime",
+      "pass": true,
+      "returncode": 0,
+      "elapsed_ms": 30.48,
+      "payload": {
+        "pass": true,
+        "external_urls": [],
+        "cdn_references": [],
+        "local_module_preview": true,
+        "runtime_node_required": false
+      },
+      "stdout_tail": [
+        "{",
+        "  \"pass\": true,",
+        "  \"external_urls\": [],",
+        "  \"cdn_references\": [],",
+        "  \"local_module_preview\": true,",
+        "  \"runtime_node_required\": false",
+        "}"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "index": 20,
+      "name": "ppt_template_adapter",
+      "pass": true,
+      "returncode": 0,
+      "elapsed_ms": 118.72,
+      "payload": {
+        "pass": true,
+        "originalShapesPreserved": true,
+        "target": {
+          "x": 0,
+          "y": 0.96,
+          "width": 13.333,
+          "height": 6.0
+        },
+        "added": 5,
+        "withinTarget": true,
+        "noCorporateOverlap": true,
+        "editableObjects": {
+          "chart": true,
+          "table": true,
+          "shapes": true
+        },
+        "output": "/private/var/folders/nz/6q2p_ldx3txdbw_gttbpnwjr0000gn/T/cui-auth-20-dgkwvqow/production_core/qa/ppt_middle_region_proof.pptx"
+      },
+      "stdout_tail": [
+        "    \"height\": 6.0",
+        "  },",
+        "  \"added\": 5,",
+        "  \"withinTarget\": true,",
+        "  \"noCorporateOverlap\": true,",
+        "  \"editableObjects\": {",
+        "    \"chart\": true,",
+        "    \"table\": true,",
+        "    \"shapes\": true",
+        "  },",
+        "  \"output\": \"/private/var/folders/nz/6q2p_ldx3txdbw_gttbpnwjr0000gn/T/cui-auth-20-dgkwvqow/production_core/qa/ppt_middle_region_proof.pptx\"",
+        "}"
+      ],
+      "stderr_tail": []
+    },
+    {
+      "index": 21,
+      "name": "browser_smoke",
+      "pass": false,
+      "returncode": 1,
+      "elapsed_ms": 477.61,
+      "payload": null,
+      "stdout_tail": [],
+      "stderr_tail": [
+        "  File \"/opt/anaconda3/lib/python3.11/site-packages/playwright/_impl/_browser_type.py\", line 97, in launch",
+        "    await self._channel.send(",
+        "  File \"/opt/anaconda3/lib/python3.11/site-packages/playwright/_impl/_connection.py\", line 76, in send",
+        "    return await self._connection.wrap_api_call(",
+        "           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^",
+        "  File \"/opt/anaconda3/lib/python3.11/site-packages/playwright/_impl/_connection.py\", line 632, in wrap_api_call",
+        "    raise rewrite_error(error, f\"{parsed_st['apiName']}: {error}\") from None",
+        "playwright._impl._errors.Error: BrowserType.launch: Failed to launch chromium because executable doesn't exist at /usr/bin/chromium"
+      ]
+    }
+  ]
+}

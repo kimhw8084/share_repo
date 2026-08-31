@@ -1,0 +1,48 @@
+{
+  "asset_graph": {
+    "missing": [],
+    "pass": true
+  },
+  "browser_matrix": {
+    "checks": 38,
+    "console_errors": [],
+    "page_errors": [],
+    "pass": true
+  },
+  "canonical_entrypoint": "app.py",
+  "company_ui_version": "3.0.0a1",
+  "elements": 248,
+  "engines": 17,
+  "frozen_authority": {
+    "commands": 27,
+    "files": 123,
+    "identity_pass": true,
+    "planned": 27,
+    "suite_pass": true,
+    "vendor_unchanged": true
+  },
+  "golden_connector_sha256": "d8ebd4378f01b7c52a7a4be57c578c22adf29b899cc08a370cf084881195343e",
+  "governance": {
+    "errors": 0,
+    "pass": true,
+    "warnings": 0
+  },
+  "python_tests_collected": 695,
+  "python_tests_status": "PASS",
+  "requirements": [
+    "nicegui==3.15.0",
+    "python-pptx==1.0.2",
+    "Pillow==12.3.0"
+  ],
+  "revision": "R12.2_SETUP_DISPATCH_SMOKE_HOTFIX",
+  "setup_hotfix": {
+    "framework_runtime_smoke_intentional_shutdown_signal": "SIGTERM",
+    "issue": "legacy macOS framework-lab runtime-smoke used SIGINT; Python 3.13/uvloop emitted CancelledError->KeyboardInterrupt after all routes passed 200",
+    "mac_product_setup_uses_exact_app_smoke": true,
+    "regression_tests": 5,
+    "root_setup_dispatch": "Darwin->product setup_mac.sh; Linux->product setup_linux.sh"
+  },
+  "target_nicegui_gate": "MANDATORY_IN_setup_linux.sh; not executable in packaging sandbox because nicegui is not installed",
+  "visualizer_authority": "97.1",
+  "wheel_source_parity": "PASS"
+}

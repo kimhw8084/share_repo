@@ -1,0 +1,77 @@
+{
+  "revision": "R13_UIUX_SYSTEM_REDESIGN_PRODUCTION",
+  "company_ui_version": "3.0.0a1",
+  "visualizer_authority": "97.1",
+  "canonical_entrypoint": "app.py",
+  "requirements": [
+    "nicegui==3.15.0",
+    "python-pptx==1.0.2",
+    "Pillow==12.3.0"
+  ],
+  "python_tests_collected": 699,
+  "python_tests_status": "PASS",
+  "governance": {
+    "pass": true,
+    "errors": 0,
+    "warnings": 0
+  },
+  "functional_browser_matrix": {
+    "pass": true,
+    "checks": 38,
+    "console_errors": [],
+    "page_errors": []
+  },
+  "visual_layout_matrix": {
+    "pass": true,
+    "checks": 44,
+    "viewports": [
+      "1600x1000",
+      "1440x900",
+      "1280x800"
+    ],
+    "console_errors": [],
+    "page_errors": []
+  },
+  "catalog_render_audit": {
+    "pass": true,
+    "elements": 248,
+    "unique_normalized_shapes": 248,
+    "duplicate_groups": 0,
+    "console_errors": [],
+    "page_errors": []
+  },
+  "element_capabilities": {
+    "pass": true,
+    "elements": 248,
+    "engines": 17,
+    "renderer_source": "integration"
+  },
+  "asset_graph": {
+    "pass": true,
+    "missing": []
+  },
+  "wheel_source_parity": "PASS",
+  "frozen_authority": {
+    "files": 123,
+    "embedded_release_evidence": "27/27 PASS",
+    "vendor_unchanged": true,
+    "latest_execution_note": "commands 1-26 passed sequentially; diagram connector benchmark passed independently after sandbox browser-orchestrator hang"
+  },
+  "golden_connector_sha256": "d8ebd4378f01b7c52a7a4be57c578c22adf29b899cc08a370cf084881195343e",
+  "runtime_hardening_inherited_from_r12_2": true,
+  "uiux": {
+    "semantic_library": true,
+    "readable_inspector": true,
+    "constraint_workspace": true,
+    "grouped_toolbars": true,
+    "direct_editing": true,
+    "data_driven_renderers": true,
+    "semantic_empty_states": true,
+    "diagnostic_noise_removed": true,
+    "minimap_contained": true,
+    "guide_cleanup": true,
+    "control_target_floor_certified": true,
+    "font_floor_certified": true
+  },
+  "target_nicegui_gate": "MANDATORY_IN_setup.sh/test_linux.sh after installing NiceGUI 3.15.0; not substituted by a fake runtime in packaging sandbox"
+}

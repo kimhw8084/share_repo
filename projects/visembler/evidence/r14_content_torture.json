@@ -1,0 +1,9445 @@
+{
+  "console_errors": [],
+  "elements": {
+    "100% Stacked Bar": {
+      "engine": "CoreChartEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "AI / Model Node": {
+      "engine": "DiagramEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Accomplishment List": {
+      "engine": "ProjectCompositeEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Accordion Detail": {
+      "engine": "SmartLayoutEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Action Tracker": {
+      "engine": "TableEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Adaptive Split": {
+      "engine": "SmartLayoutEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Alarm Timeline": {
+      "engine": "WaferFabEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Align / Distribute": {
+      "engine": "EditorInfrastructure",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Animated Count-up": {
+      "engine": "InteractionLayer",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Annotated Image": {
+      "engine": "ImageMediaEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Annotation": {
+      "engine": "TextEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Architecture Canvas": {
+      "engine": "DiagramEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Area Chart": {
+      "engine": "CoreChartEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "As-Is \u2192 To-Be": {
+      "engine": "ComparisonEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Auto-layout": {
+      "engine": "EditorInfrastructure",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Before/After Images": {
+      "engine": "ImageMediaEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Before/After KPI": {
+      "engine": "ComparisonEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Before/After Timeline": {
+      "engine": "TimelineEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Benchmark Matrix": {
+      "engine": "MatrixEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Body Narrative": {
+      "engine": "TextEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Box Plot": {
+      "engine": "CoreChartEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Brush / Range Selector": {
+      "engine": "InteractionLayer",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Bubble Plot": {
+      "engine": "CoreChartEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "CUSUM Chart": {
+      "engine": "EngineeringChartEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Calendar Heatmap": {
+      "engine": "TimelineEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Callout": {
+      "engine": "TextEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Capability Shift": {
+      "engine": "ComparisonEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Capacity Metric": {
+      "engine": "MetricEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Causal Chain": {
+      "engine": "DiagramEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Causal Chain Component": {
+      "engine": "EvidenceCompositeEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Causal DAG": {
+      "engine": "DiagramEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Change Since Last Period": {
+      "engine": "ProjectCompositeEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Chart Reveal": {
+      "engine": "InteractionLayer",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Chart Switcher": {
+      "engine": "EditorInfrastructure",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Clean Table": {
+      "engine": "TableEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Code / Technical Snippet": {
+      "engine": "TextEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Command Palette": {
+      "engine": "EditorInfrastructure",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Commonality Matrix": {
+      "engine": "MatrixEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Compact Metadata Line": {
+      "engine": "TextEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Comparison Grid": {
+      "engine": "MatrixEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Confidence Interval Plot": {
+      "engine": "EngineeringChartEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Confidence Metric": {
+      "engine": "MetricEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Constraint Panel": {
+      "engine": "DecisionCompositeEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Container / Subsystem": {
+      "engine": "DiagramEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Containment Component": {
+      "engine": "EvidenceCompositeEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Context Toolbar": {
+      "engine": "EditorInfrastructure",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Contour Plot": {
+      "engine": "EngineeringChartEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Contradiction Callout": {
+      "engine": "EvidenceCompositeEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Contradiction Matrix": {
+      "engine": "MatrixEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Control vs Affected Distribution": {
+      "engine": "WaferFabEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Corrective Action Component": {
+      "engine": "EvidenceCompositeEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Correlation Matrix": {
+      "engine": "MatrixEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Cost/Capacity Shift": {
+      "engine": "ComparisonEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Cross-filter": {
+      "engine": "InteractionLayer",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "DOE Design Matrix": {
+      "engine": "MatrixEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "DOE Interaction Plot": {
+      "engine": "EngineeringChartEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "DOE Main Effects": {
+      "engine": "EngineeringChartEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Data Flow": {
+      "engine": "DiagramEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Decision Consequence": {
+      "engine": "DecisionCompositeEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Decision Matrix": {
+      "engine": "MatrixEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Decision Needed": {
+      "engine": "DecisionCompositeEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Decision Node": {
+      "engine": "DiagramEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Decision Tree": {
+      "engine": "DiagramEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Definition Block": {
+      "engine": "TextEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Dense Table": {
+      "engine": "TableEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Dependency Graph": {
+      "engine": "DiagramEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Dependency Roadmap": {
+      "engine": "TimelineEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Donut": {
+      "engine": "CoreChartEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Drill-down": {
+      "engine": "InteractionLayer",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Drop Zones": {
+      "engine": "EditorInfrastructure",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Dumbbell": {
+      "engine": "CoreChartEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "ECDF": {
+      "engine": "CoreChartEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "EWMA Chart": {
+      "engine": "EngineeringChartEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Error-Bar Chart": {
+      "engine": "EngineeringChartEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Event Node": {
+      "engine": "DiagramEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Event Timeline": {
+      "engine": "TimelineEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Evidence Card": {
+      "engine": "EvidenceCompositeEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Evidence Graph": {
+      "engine": "DiagramEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Evidence Log": {
+      "engine": "TableEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Evidence Matrix": {
+      "engine": "MatrixEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Evidence Node": {
+      "engine": "DiagramEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Evidence Polarity Grid": {
+      "engine": "EvidenceCompositeEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Evidence Stack": {
+      "engine": "EvidenceCompositeEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Executive Statement": {
+      "engine": "TextEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Expandable Detail": {
+      "engine": "InteractionLayer",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "External System Node": {
+      "engine": "DiagramEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Eyebrow / Kicker": {
+      "engine": "TextEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Fishbone": {
+      "engine": "DiagramEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Floating Inspector Surface": {
+      "engine": "SmartLayoutEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Flowchart": {
+      "engine": "DiagramEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Footnote / Source": {
+      "engine": "TextEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Funnel": {
+      "engine": "CoreChartEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Gantt": {
+      "engine": "TimelineEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Ghost Preview": {
+      "engine": "EditorInfrastructure",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Golden vs Affected Profile": {
+      "engine": "WaferFabEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Group/Ungroup": {
+      "engine": "EditorInfrastructure",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Grouped Bar": {
+      "engine": "CoreChartEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Heatmap Grid": {
+      "engine": "MatrixEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Hero Image": {
+      "engine": "ImageMediaEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Hero KPI": {
+      "engine": "MetricEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Hero Title": {
+      "engine": "TextEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Hierarchical Grid": {
+      "engine": "TableEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Hierarchy Tree": {
+      "engine": "DiagramEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Histogram": {
+      "engine": "CoreChartEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Horizontal Bar": {
+      "engine": "CoreChartEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Horizontal Stack": {
+      "engine": "SmartLayoutEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Hover Highlight": {
+      "engine": "InteractionLayer",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Human Role Node": {
+      "engine": "DiagramEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Hypothesis Node": {
+      "engine": "DiagramEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "I-MR Chart": {
+      "engine": "EngineeringChartEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Image": {
+      "engine": "ImageMediaEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Image + Caption": {
+      "engine": "ImageMediaEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Image Gallery": {
+      "engine": "ImageMediaEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Inset Region": {
+      "engine": "SmartLayoutEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Interactive Timeline": {
+      "engine": "InteractionLayer",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "KPI Pair": {
+      "engine": "MetricEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "KPI Table": {
+      "engine": "TableEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Key Takeaway": {
+      "engine": "TextEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Keyboard Shortcuts": {
+      "engine": "EditorInfrastructure",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Layer Ordering": {
+      "engine": "EditorInfrastructure",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Leading Hypothesis": {
+      "engine": "EvidenceCompositeEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Line Chart": {
+      "engine": "CoreChartEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Lock / Unlock": {
+      "engine": "EditorInfrastructure",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Lot Trajectory": {
+      "engine": "WaferFabEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Masonry Group": {
+      "engine": "SmartLayoutEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Metric + Delta": {
+      "engine": "MetricEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Metric Ladder": {
+      "engine": "MetricEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Metric Ring": {
+      "engine": "MetricEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Metric Strip": {
+      "engine": "MetricEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Metric with Sparkline": {
+      "engine": "MetricEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Milestone Node": {
+      "engine": "DiagramEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Milestone Rail": {
+      "engine": "TimelineEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Milestone Status": {
+      "engine": "ProjectCompositeEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Mind Map": {
+      "engine": "DiagramEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Mini-map": {
+      "engine": "EditorInfrastructure",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Multi-Line": {
+      "engine": "CoreChartEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Multi-select": {
+      "engine": "EditorInfrastructure",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Narrative Sequence": {
+      "engine": "TextEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Network Graph": {
+      "engine": "DiagramEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Next Actions": {
+      "engine": "ProjectCompositeEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Next Discriminating Test": {
+      "engine": "EvidenceCompositeEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Numbered Insight": {
+      "engine": "TextEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Open Questions": {
+      "engine": "EvidenceCompositeEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Option Card": {
+      "engine": "DecisionCompositeEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Output Node": {
+      "engine": "DiagramEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Overlay Layer": {
+      "engine": "SmartLayoutEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Owner / Contributor Cluster": {
+      "engine": "ProjectCompositeEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Paired Before/After Bars": {
+      "engine": "CoreChartEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Pareto": {
+      "engine": "CoreChartEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Paste Data Target": {
+      "engine": "EditorInfrastructure",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Phase Roadmap": {
+      "engine": "TimelineEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Pie": {
+      "engine": "CoreChartEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Pipeline Diagram": {
+      "engine": "DiagramEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Pivot Grid": {
+      "engine": "TableEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Portfolio Tile Grid": {
+      "engine": "ProjectCompositeEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Predicted vs Actual": {
+      "engine": "EngineeringChartEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Preset Save": {
+      "engine": "EditorInfrastructure",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Process Flow": {
+      "engine": "DiagramEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Process Node": {
+      "engine": "DiagramEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Process Route Diagram": {
+      "engine": "WaferFabEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Process Simplification": {
+      "engine": "ComparisonEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Product \u00d7 Chamber Matrix": {
+      "engine": "WaferFabEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Progress Metric": {
+      "engine": "MetricEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Project Card": {
+      "engine": "ProjectCompositeEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Project Health Strip": {
+      "engine": "ProjectCompositeEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Project Portfolio Grid": {
+      "engine": "TableEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Pros / Cons": {
+      "engine": "DecisionCompositeEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Quality Improvement": {
+      "engine": "ComparisonEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Quote / Voice": {
+      "engine": "TextEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "RACI Matrix": {
+      "engine": "MatrixEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Ranked Table": {
+      "engine": "TableEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Rate Metric": {
+      "engine": "MetricEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Recommendation Hero": {
+      "engine": "DecisionCompositeEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Reduction Visual": {
+      "engine": "ComparisonEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Regression Scatter": {
+      "engine": "CoreChartEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Residual Plot": {
+      "engine": "EngineeringChartEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Resize Handles": {
+      "engine": "EditorInfrastructure",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Response Surface": {
+      "engine": "EngineeringChartEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Responsive Grid Group": {
+      "engine": "SmartLayoutEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Reversibility Indicator": {
+      "engine": "DecisionCompositeEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Right Inspector": {
+      "engine": "EditorInfrastructure",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Risk Callout": {
+      "engine": "DecisionCompositeEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Risk Matrix": {
+      "engine": "MatrixEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Risk Node": {
+      "engine": "DiagramEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Risk Register": {
+      "engine": "DecisionCompositeEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Root Cause Status": {
+      "engine": "EvidenceCompositeEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Route Commonality Matrix": {
+      "engine": "WaferFabEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "SPC Control Chart": {
+      "engine": "EngineeringChartEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "SVG / Illustration": {
+      "engine": "ImageMediaEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Sankey": {
+      "engine": "CoreChartEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Scatter Plot": {
+      "engine": "CoreChartEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Schedule Grid": {
+      "engine": "TimelineEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Screenshot Frame": {
+      "engine": "ImageMediaEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Section Divider": {
+      "engine": "SmartLayoutEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Section Heading": {
+      "engine": "TextEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Selection Box": {
+      "engine": "EditorInfrastructure",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Sequence Diagram": {
+      "engine": "DiagramEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Sequence Strip": {
+      "engine": "TimelineEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Side Rail": {
+      "engine": "SmartLayoutEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Slope Chart": {
+      "engine": "CoreChartEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Smart Canvas": {
+      "engine": "SmartLayoutEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Smart Group": {
+      "engine": "SmartLayoutEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Smart Guides": {
+      "engine": "EditorInfrastructure",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Smart Layout Suggestions": {
+      "engine": "EditorInfrastructure",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Snap Lines": {
+      "engine": "EditorInfrastructure",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Source Node": {
+      "engine": "DiagramEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Spacer / Rhythm Element": {
+      "engine": "SmartLayoutEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Sparkline": {
+      "engine": "CoreChartEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Spatial Cluster View": {
+      "engine": "WaferFabEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Stacked Area": {
+      "engine": "CoreChartEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Stacked Bar": {
+      "engine": "CoreChartEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Status Metric": {
+      "engine": "MetricEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Step Chart": {
+      "engine": "CoreChartEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Storage Node": {
+      "engine": "DiagramEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Strip / Dot Plot": {
+      "engine": "CoreChartEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Swimlane": {
+      "engine": "DiagramEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Swimlane Process": {
+      "engine": "DiagramEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Swimlane Timeline": {
+      "engine": "TimelineEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Tabs": {
+      "engine": "InteractionLayer",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Tabs / View Switcher": {
+      "engine": "SmartLayoutEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Target vs Actual": {
+      "engine": "MetricEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Threshold Metric": {
+      "engine": "MetricEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Time Compression": {
+      "engine": "ComparisonEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Tool \u00d7 Chamber Matrix": {
+      "engine": "WaferFabEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Tool \u00d7 Recipe Heatmap": {
+      "engine": "WaferFabEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Tooltip": {
+      "engine": "InteractionLayer",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Tradeoff Map": {
+      "engine": "DecisionCompositeEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Transformation Diagram": {
+      "engine": "DiagramEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Transformation Flow": {
+      "engine": "ComparisonEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Treemap": {
+      "engine": "CoreChartEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Undo / Redo": {
+      "engine": "EditorInfrastructure",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Value Stream": {
+      "engine": "DiagramEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Value vs Effort Quadrant": {
+      "engine": "ProjectCompositeEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Verification Component": {
+      "engine": "EvidenceCompositeEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Vertical Bar": {
+      "engine": "CoreChartEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Vertical Stack": {
+      "engine": "SmartLayoutEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Vertical Timeline": {
+      "engine": "TimelineEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Violin Plot": {
+      "engine": "CoreChartEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Visual Comparison Slider": {
+      "engine": "ImageMediaEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Wafer Difference Map": {
+      "engine": "WaferFabEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Wafer Map": {
+      "engine": "WaferFabEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Wafer Overlay": {
+      "engine": "WaferFabEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Waterfall": {
+      "engine": "CoreChartEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Weighted Decision Matrix": {
+      "engine": "MatrixEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Workstream Summary": {
+      "engine": "ProjectCompositeEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Xbar-R Chart": {
+      "engine": "EngineeringChartEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Zoom / Pan": {
+      "engine": "EditorInfrastructure",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    },
+    "Zoom Region / Detail Inset": {
+      "engine": "ImageMediaEngine",
+      "pass": true,
+      "variants": {
+        "empty": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "long": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "normal": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        },
+        "zero": {
+          "layout_codes": [],
+          "overflow": {
+            "x": 0,
+            "y": 0
+          },
+          "pass": true
+        }
+      }
+    }
+  },
+  "failures": [],
+  "page_errors": [],
+  "pass": true,
+  "summary": {
+    "duration_seconds": 29.464,
+    "elements_passed": 248,
+    "elements_total": 248,
+    "variant_cases": 992,
+    "variant_failures": 0
+  },
+  "variants": [
+    "normal",
+    "long",
+    "zero",
+    "empty"
+  ]
+}

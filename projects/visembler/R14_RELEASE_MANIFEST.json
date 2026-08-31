@@ -1,0 +1,115 @@
+{
+  "revision": "R14_SEMANTIC_AUTHORING_LAYOUT_CORRECTNESS_PRODUCTION",
+  "company_ui_version": "3.0.0a1",
+  "visualizer_authority": "97.1",
+  "canonical_entrypoint": "app.py",
+  "requirements": [
+    "nicegui==3.15.0",
+    "python-pptx==1.0.2",
+    "Pillow==12.3.0"
+  ],
+  "python_tests_collected": 710,
+  "python_tests_status": "PASS",
+  "governance": {
+    "pass": true,
+    "errors": 0,
+    "warnings": 0
+  },
+  "functional_browser_matrix": {
+    "pass": true,
+    "checks": 38,
+    "console_errors": [],
+    "page_errors": []
+  },
+  "legacy_visual_layout_matrix": {
+    "pass": true,
+    "checks": 44,
+    "viewports": [
+      "1600x1000",
+      "1440x900",
+      "1280x800"
+    ],
+    "console_errors": [],
+    "page_errors": []
+  },
+  "r14_release_browser_gate": {
+    "pass": true,
+    "checks": 134,
+    "viewports": [
+      "1600x1000",
+      "1440x900",
+      "1280x800"
+    ],
+    "editor_zoom": [
+      "55%",
+      "80%",
+      "100%",
+      "125%"
+    ],
+    "browser_scale": [
+      "80%",
+      "100%",
+      "125%",
+      "150%"
+    ],
+    "console_errors": [],
+    "page_errors": []
+  },
+  "catalog_render_audit": {
+    "pass": true,
+    "elements": 248,
+    "unique_normalized_shapes": 248,
+    "duplicate_groups": 0
+  },
+  "content_torture": {
+    "pass": true,
+    "elements": 248,
+    "cases": 992,
+    "failures": 0,
+    "console_errors": [],
+    "page_errors": []
+  },
+  "performance": {
+    "pass": true,
+    "checks": 16,
+    "render_ms": {
+      "25": 41.1,
+      "50": 53.2,
+      "100": 102.4,
+      "200": 131.1
+    },
+    "console_errors": [],
+    "page_errors": []
+  },
+  "element_capabilities": {
+    "pass": true,
+    "elements": 248,
+    "engines": 17,
+    "inspector_schemas": 26,
+    "thumbnail_grammars": 166,
+    "renderer_source": "integration"
+  },
+  "wheel": {
+    "sha256": "f7d2caa564d6577bbdaf6e958116ca74159f4fbcfa3b5ce94f93334e0dfc28a7",
+    "source_byte_parity": "PASS"
+  },
+  "frozen_authority": {
+    "files": 123,
+    "commands": "27/27 PASS",
+    "vendor_unchanged": true,
+    "execution": "partitioned isolated certification to avoid host Chromium cleanup hang"
+  },
+  "golden_connector_sha256": "d8ebd4378f01b7c52a7a4be57c578c22adf29b899cc08a370cf084881195343e",
+  "known_p0": 0,
+  "known_p1": 0,
+  "target_nicegui_gate": {
+    "status": "DEFERRED_ENVIRONMENT",
+    "reason": "NiceGUI is not installed in the packaging sandbox; setup.sh/test_linux.sh fail closed and execute the real NiceGUI 3.15.0 gate after dependency installation."
+  },
+  "application_runtime_contract": "app.py -> Visualizer CLI -> Company UI RuntimeConfig -> NiceGUIRuntimeAdapter -> ui.run()",
+  "paas": {
+    "main_file": "app.py",
+    "requirements": "requirements.txt",
+    "command": "python app.py"
+  }
+}

@@ -1,0 +1,854 @@
+{
+  "checks": {
+    "compact.canvas_utilization": {
+      "detail": {
+        "hull": {
+          "bottom": 376.75,
+          "h": 371.25,
+          "right": 926,
+          "w": 660,
+          "x": 266,
+          "y": 5.5
+        },
+        "viewport": {
+          "bottom": 683,
+          "h": 568,
+          "right": 964,
+          "w": 703,
+          "x": 261,
+          "y": 115
+        },
+        "zoom": 0.55
+      },
+      "pass": true
+    },
+    "compact.chart_direct_focus": {
+      "detail": "iData",
+      "pass": true
+    },
+    "compact.chrome_font_floor": {
+      "detail": {
+        "min": 12,
+        "offenders": []
+      },
+      "pass": true
+    },
+    "compact.context_contained": {
+      "detail": {
+        "context": {
+          "bottom": 412.59454345703125,
+          "h": 37.494537353515625,
+          "right": 874.7898559570312,
+          "w": 198,
+          "x": 676.7898559570312,
+          "y": 375.1000061035156
+        },
+        "viewport": {
+          "bottom": 683,
+          "h": 568,
+          "right": 964,
+          "w": 703,
+          "x": 261,
+          "y": 115
+        }
+      },
+      "pass": true
+    },
+    "compact.control_target_floor": {
+      "detail": {
+        "min": 31.994537353515625,
+        "offenders": [
+          {
+            "cls": "",
+            "h": 31.994537353515625,
+            "id": "",
+            "tag": "BUTTON",
+            "txt": "Lock"
+          },
+          {
+            "cls": "",
+            "h": 31.994537353515625,
+            "id": "",
+            "tag": "BUTTON",
+            "txt": "Group"
+          },
+          {
+            "cls": "",
+            "h": 31.994537353515625,
+            "id": "",
+            "tag": "BUTTON",
+            "txt": "Ungroup"
+          },
+          {
+            "cls": "",
+            "h": 31.994537353515625,
+            "id": "",
+            "tag": "BUTTON",
+            "txt": "Front"
+          },
+          {
+            "cls": "",
+            "h": 31.994537353515625,
+            "id": "",
+            "tag": "BUTTON",
+            "txt": "Delete"
+          }
+        ]
+      },
+      "pass": true
+    },
+    "compact.empty_chart_state": {
+      "detail": {
+        "text": "Add data"
+      },
+      "pass": true
+    },
+    "compact.empty_table_state": {
+      "detail": {
+        "text": "Add rows"
+      },
+      "pass": true
+    },
+    "compact.guides_idle_hidden": {
+      "detail": {
+        "h": "none",
+        "v": "none"
+      },
+      "pass": true
+    },
+    "compact.inspector_reflow": {
+      "detail": {
+        "closed": 955.9375,
+        "open": 703
+      },
+      "pass": true
+    },
+    "compact.minimap_contained": {
+      "detail": {
+        "minimap": {
+          "bottom": 669,
+          "h": 102,
+          "right": 950,
+          "w": 164,
+          "x": 786,
+          "y": 567
+        },
+        "viewport": {
+          "bottom": 683,
+          "h": 568,
+          "right": 964,
+          "w": 703,
+          "x": 261,
+          "y": 115
+        }
+      },
+      "pass": true
+    },
+    "compact.no_panel_horizontal_overflow": {
+      "detail": {
+        "left": 0,
+        "right": 0,
+        "work": 0
+      },
+      "pass": true
+    },
+    "compact.panel_widths": {
+      "detail": {
+        "left": 260,
+        "right": 315
+      },
+      "pass": true
+    },
+    "compact.text_direct_commit": {
+      "detail": "Edited inline",
+      "pass": true
+    },
+    "compact.text_direct_editor": {
+      "detail": null,
+      "pass": true
+    },
+    "desktop.canvas_utilization": {
+      "detail": {
+        "hull": {
+          "bottom": 548.5846099853516,
+          "h": 473.5384521484375,
+          "right": 1174.876953125,
+          "w": 841.84619140625,
+          "x": 333.03076171875,
+          "y": 75.04615783691406
+        },
+        "viewport": {
+          "bottom": 813,
+          "h": 698,
+          "right": 1249,
+          "w": 948,
+          "x": 301,
+          "y": 115
+        },
+        "zoom": 0.7015384615384616
+      },
+      "pass": true
+    },
+    "desktop.chart_direct_focus": {
+      "detail": "iData",
+      "pass": true
+    },
+    "desktop.chrome_font_floor": {
+      "detail": {
+        "min": 12,
+        "offenders": []
+      },
+      "pass": true
+    },
+    "desktop.context_contained": {
+      "detail": {
+        "context": {
+          "bottom": 585.4921264648438,
+          "h": 39.01214599609375,
+          "right": 1109.55712890625,
+          "w": 252.55389404296875,
+          "x": 857.0032348632812,
+          "y": 546.47998046875
+        },
+        "viewport": {
+          "bottom": 813,
+          "h": 698,
+          "right": 1249,
+          "w": 948,
+          "x": 301,
+          "y": 115
+        }
+      },
+      "pass": true
+    },
+    "desktop.control_target_floor": {
+      "detail": {
+        "min": 31.99676513671875,
+        "offenders": [
+          {
+            "cls": "",
+            "h": 31.99676513671875,
+            "id": "",
+            "tag": "BUTTON",
+            "txt": "Lock"
+          },
+          {
+            "cls": "",
+            "h": 31.99676513671875,
+            "id": "",
+            "tag": "BUTTON",
+            "txt": "Group"
+          },
+          {
+            "cls": "",
+            "h": 31.99676513671875,
+            "id": "",
+            "tag": "BUTTON",
+            "txt": "Ungroup"
+          },
+          {
+            "cls": "",
+            "h": 31.99676513671875,
+            "id": "",
+            "tag": "BUTTON",
+            "txt": "Front"
+          },
+          {
+            "cls": "",
+            "h": 31.99676513671875,
+            "id": "",
+            "tag": "BUTTON",
+            "txt": "Delete"
+          }
+        ]
+      },
+      "pass": true
+    },
+    "desktop.empty_chart_state": {
+      "detail": {
+        "text": "Add data"
+      },
+      "pass": true
+    },
+    "desktop.empty_table_state": {
+      "detail": {
+        "text": "Add rows"
+      },
+      "pass": true
+    },
+    "desktop.guides_idle_hidden": {
+      "detail": {
+        "h": "none",
+        "v": "none"
+      },
+      "pass": true
+    },
+    "desktop.inspector_reflow": {
+      "detail": {
+        "closed": 1229.171875,
+        "open": 948
+      },
+      "pass": true
+    },
+    "desktop.minimap_contained": {
+      "detail": {
+        "minimap": {
+          "bottom": 799,
+          "h": 102,
+          "right": 1235,
+          "w": 164,
+          "x": 1071,
+          "y": 697
+        },
+        "viewport": {
+          "bottom": 813,
+          "h": 698,
+          "right": 1249,
+          "w": 948,
+          "x": 301,
+          "y": 115
+        }
+      },
+      "pass": true
+    },
+    "desktop.no_panel_horizontal_overflow": {
+      "detail": {
+        "left": 0,
+        "right": 0,
+        "work": 0
+      },
+      "pass": true
+    },
+    "desktop.panel_widths": {
+      "detail": {
+        "left": 300,
+        "right": 350
+      },
+      "pass": true
+    },
+    "desktop.text_direct_commit": {
+      "detail": "Edited inline",
+      "pass": true
+    },
+    "desktop.text_direct_editor": {
+      "detail": null,
+      "pass": true
+    },
+    "final.no_console_errors": {
+      "detail": [],
+      "pass": true
+    },
+    "final.no_page_errors": {
+      "detail": [],
+      "pass": true
+    },
+    "laptop.canvas_utilization": {
+      "detail": {
+        "hull": {
+          "bottom": 411.81536293029785,
+          "h": 390.4615173339844,
+          "right": 1024.7231750488281,
+          "w": 694.1539306640625,
+          "x": 330.5692443847656,
+          "y": 21.353845596313477
+        },
+        "viewport": {
+          "bottom": 713,
+          "h": 598,
+          "right": 1089,
+          "w": 788,
+          "x": 301,
+          "y": 115
+        },
+        "zoom": 0.5784615384615385
+      },
+      "pass": true
+    },
+    "laptop.chart_direct_focus": {
+      "detail": "iData",
+      "pass": true
+    },
+    "laptop.chrome_font_floor": {
+      "detail": {
+        "min": 12,
+        "offenders": []
+      },
+      "pass": true
+    },
+    "laptop.context_contained": {
+      "detail": {
+        "context": {
+          "bottom": 447.8607482910156,
+          "h": 37.78076171875,
+          "right": 970.8628540039062,
+          "w": 208.24615478515625,
+          "x": 762.61669921875,
+          "y": 410.0799865722656
+        },
+        "viewport": {
+          "bottom": 713,
+          "h": 598,
+          "right": 1089,
+          "w": 788,
+          "x": 301,
+          "y": 115
+        }
+      },
+      "pass": true
+    },
+    "laptop.control_target_floor": {
+      "detail": {
+        "min": 31.99615478515625,
+        "offenders": [
+          {
+            "cls": "",
+            "h": 31.99615478515625,
+            "id": "",
+            "tag": "BUTTON",
+            "txt": "Lock"
+          },
+          {
+            "cls": "",
+            "h": 31.99615478515625,
+            "id": "",
+            "tag": "BUTTON",
+            "txt": "Group"
+          },
+          {
+            "cls": "",
+            "h": 31.99615478515625,
+            "id": "",
+            "tag": "BUTTON",
+            "txt": "Ungroup"
+          },
+          {
+            "cls": "",
+            "h": 31.99615478515625,
+            "id": "",
+            "tag": "BUTTON",
+            "txt": "Front"
+          },
+          {
+            "cls": "",
+            "h": 31.99615478515625,
+            "id": "",
+            "tag": "BUTTON",
+            "txt": "Delete"
+          }
+        ]
+      },
+      "pass": true
+    },
+    "laptop.empty_chart_state": {
+      "detail": {
+        "text": "Add data"
+      },
+      "pass": true
+    },
+    "laptop.empty_table_state": {
+      "detail": {
+        "text": "Add rows"
+      },
+      "pass": true
+    },
+    "laptop.guides_idle_hidden": {
+      "detail": {
+        "h": "none",
+        "v": "none"
+      },
+      "pass": true
+    },
+    "laptop.inspector_reflow": {
+      "detail": {
+        "closed": 1132.953125,
+        "open": 788
+      },
+      "pass": true
+    },
+    "laptop.minimap_contained": {
+      "detail": {
+        "minimap": {
+          "bottom": 699,
+          "h": 102,
+          "right": 1075,
+          "w": 164,
+          "x": 911,
+          "y": 597
+        },
+        "viewport": {
+          "bottom": 713,
+          "h": 598,
+          "right": 1089,
+          "w": 788,
+          "x": 301,
+          "y": 115
+        }
+      },
+      "pass": true
+    },
+    "laptop.no_panel_horizontal_overflow": {
+      "detail": {
+        "left": 0,
+        "right": 0,
+        "work": 0
+      },
+      "pass": true
+    },
+    "laptop.panel_widths": {
+      "detail": {
+        "left": 300,
+        "right": 350
+      },
+      "pass": true
+    },
+    "laptop.text_direct_commit": {
+      "detail": "Edited inline",
+      "pass": true
+    },
+    "laptop.text_direct_editor": {
+      "detail": null,
+      "pass": true
+    }
+  },
+  "console_errors": [],
+  "page_errors": [],
+  "pass": true,
+  "viewports": {
+    "compact": {
+      "context": {
+        "bottom": 412.59454345703125,
+        "h": 37.494537353515625,
+        "right": 874.7898559570312,
+        "w": 198,
+        "x": 676.7898559570312,
+        "y": 375.1000061035156
+      },
+      "controlOffenders": [
+        {
+          "cls": "",
+          "h": 31.994537353515625,
+          "id": "",
+          "tag": "BUTTON",
+          "txt": "Lock"
+        },
+        {
+          "cls": "",
+          "h": 31.994537353515625,
+          "id": "",
+          "tag": "BUTTON",
+          "txt": "Group"
+        },
+        {
+          "cls": "",
+          "h": 31.994537353515625,
+          "id": "",
+          "tag": "BUTTON",
+          "txt": "Ungroup"
+        },
+        {
+          "cls": "",
+          "h": 31.994537353515625,
+          "id": "",
+          "tag": "BUTTON",
+          "txt": "Front"
+        },
+        {
+          "cls": "",
+          "h": 31.994537353515625,
+          "id": "",
+          "tag": "BUTTON",
+          "txt": "Delete"
+        }
+      ],
+      "fontOffenders": [],
+      "guideH": "none",
+      "guideV": "none",
+      "hull": {
+        "bottom": 376.75,
+        "h": 371.25,
+        "right": 926,
+        "w": 660,
+        "x": 266,
+        "y": 5.5
+      },
+      "left": {
+        "bottom": 719,
+        "h": 654,
+        "right": 261,
+        "w": 260,
+        "x": 1,
+        "y": 65
+      },
+      "leftScroll": 0,
+      "minControlH": 31.994537353515625,
+      "minFont": 12,
+      "minimap": {
+        "bottom": 669,
+        "h": 102,
+        "right": 950,
+        "w": 164,
+        "x": 786,
+        "y": 567
+      },
+      "right": {
+        "bottom": 719,
+        "h": 654,
+        "right": 1279,
+        "w": 315,
+        "x": 964,
+        "y": 65
+      },
+      "rightScroll": 0,
+      "root": {
+        "bottom": 720,
+        "h": 720,
+        "right": 1280,
+        "w": 1280,
+        "x": 0,
+        "y": 0
+      },
+      "viewport": {
+        "bottom": 683,
+        "h": 568,
+        "right": 964,
+        "w": 703,
+        "x": 261,
+        "y": 115
+      },
+      "work": {
+        "bottom": 719,
+        "h": 654,
+        "right": 964,
+        "w": 703,
+        "x": 261,
+        "y": 65
+      },
+      "workScroll": 0,
+      "zoom": 0.55
+    },
+    "desktop": {
+      "context": {
+        "bottom": 585.4921264648438,
+        "h": 39.01214599609375,
+        "right": 1109.55712890625,
+        "w": 252.55389404296875,
+        "x": 857.0032348632812,
+        "y": 546.47998046875
+      },
+      "controlOffenders": [
+        {
+          "cls": "",
+          "h": 31.99676513671875,
+          "id": "",
+          "tag": "BUTTON",
+          "txt": "Lock"
+        },
+        {
+          "cls": "",
+          "h": 31.99676513671875,
+          "id": "",
+          "tag": "BUTTON",
+          "txt": "Group"
+        },
+        {
+          "cls": "",
+          "h": 31.99676513671875,
+          "id": "",
+          "tag": "BUTTON",
+          "txt": "Ungroup"
+        },
+        {
+          "cls": "",
+          "h": 31.99676513671875,
+          "id": "",
+          "tag": "BUTTON",
+          "txt": "Front"
+        },
+        {
+          "cls": "",
+          "h": 31.99676513671875,
+          "id": "",
+          "tag": "BUTTON",
+          "txt": "Delete"
+        }
+      ],
+      "fontOffenders": [],
+      "guideH": "none",
+      "guideV": "none",
+      "hull": {
+        "bottom": 548.5846099853516,
+        "h": 473.5384521484375,
+        "right": 1174.876953125,
+        "w": 841.84619140625,
+        "x": 333.03076171875,
+        "y": 75.04615783691406
+      },
+      "left": {
+        "bottom": 849,
+        "h": 784,
+        "right": 301,
+        "w": 300,
+        "x": 1,
+        "y": 65
+      },
+      "leftScroll": 0,
+      "minControlH": 31.99676513671875,
+      "minFont": 12,
+      "minimap": {
+        "bottom": 799,
+        "h": 102,
+        "right": 1235,
+        "w": 164,
+        "x": 1071,
+        "y": 697
+      },
+      "right": {
+        "bottom": 849,
+        "h": 784,
+        "right": 1599,
+        "w": 350,
+        "x": 1249,
+        "y": 65
+      },
+      "rightScroll": 0,
+      "root": {
+        "bottom": 850,
+        "h": 850,
+        "right": 1600,
+        "w": 1600,
+        "x": 0,
+        "y": 0
+      },
+      "viewport": {
+        "bottom": 813,
+        "h": 698,
+        "right": 1249,
+        "w": 948,
+        "x": 301,
+        "y": 115
+      },
+      "work": {
+        "bottom": 849,
+        "h": 784,
+        "right": 1249,
+        "w": 948,
+        "x": 301,
+        "y": 65
+      },
+      "workScroll": 0,
+      "zoom": 0.7015384615384616
+    },
+    "laptop": {
+      "context": {
+        "bottom": 447.8607482910156,
+        "h": 37.78076171875,
+        "right": 970.8628540039062,
+        "w": 208.24615478515625,
+        "x": 762.61669921875,
+        "y": 410.0799865722656
+      },
+      "controlOffenders": [
+        {
+          "cls": "",
+          "h": 31.99615478515625,
+          "id": "",
+          "tag": "BUTTON",
+          "txt": "Lock"
+        },
+        {
+          "cls": "",
+          "h": 31.99615478515625,
+          "id": "",
+          "tag": "BUTTON",
+          "txt": "Group"
+        },
+        {
+          "cls": "",
+          "h": 31.99615478515625,
+          "id": "",
+          "tag": "BUTTON",
+          "txt": "Ungroup"
+        },
+        {
+          "cls": "",
+          "h": 31.99615478515625,
+          "id": "",
+          "tag": "BUTTON",
+          "txt": "Front"
+        },
+        {
+          "cls": "",
+          "h": 31.99615478515625,
+          "id": "",
+          "tag": "BUTTON",
+          "txt": "Delete"
+        }
+      ],
+      "fontOffenders": [],
+      "guideH": "none",
+      "guideV": "none",
+      "hull": {
+        "bottom": 411.81536293029785,
+        "h": 390.4615173339844,
+        "right": 1024.7231750488281,
+        "w": 694.1539306640625,
+        "x": 330.5692443847656,
+        "y": 21.353845596313477
+      },
+      "left": {
+        "bottom": 749,
+        "h": 684,
+        "right": 301,
+        "w": 300,
+        "x": 1,
+        "y": 65
+      },
+      "leftScroll": 0,
+      "minControlH": 31.99615478515625,
+      "minFont": 12,
+      "minimap": {
+        "bottom": 699,
+        "h": 102,
+        "right": 1075,
+        "w": 164,
+        "x": 911,
+        "y": 597
+      },
+      "right": {
+        "bottom": 749,
+        "h": 684,
+        "right": 1439,
+        "w": 350,
+        "x": 1089,
+        "y": 65
+      },
+      "rightScroll": 0,
+      "root": {
+        "bottom": 750,
+        "h": 750,
+        "right": 1440,
+        "w": 1440,
+        "x": 0,
+        "y": 0
+      },
+      "viewport": {
+        "bottom": 713,
+        "h": 598,
+        "right": 1089,
+        "w": 788,
+        "x": 301,
+        "y": 115
+      },
+      "work": {
+        "bottom": 749,
+        "h": 684,
+        "right": 1089,
+        "w": 788,
+        "x": 301,
+        "y": 65
+      },
+      "workScroll": 0,
+      "zoom": 0.5784615384615385
+    }
+  }
+}

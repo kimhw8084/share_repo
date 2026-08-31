@@ -1,0 +1,61 @@
+{
+  "pass": true,
+  "commands": 1,
+  "planned": 1,
+  "range": [
+    27,
+    27
+  ],
+  "isolated_per_command": true,
+  "golden_connector_sha256": "d8ebd4378f01b7c52a7a4be57c578c22adf29b899cc08a370cf084881195343e",
+  "vendor_files": 123,
+  "vendor_unchanged": true,
+  "elapsed_ms": 2733.33,
+  "results": [
+    {
+      "index": 27,
+      "name": "diagram_connector_benchmark",
+      "pass": true,
+      "returncode": 0,
+      "elapsed_ms": 2712.65,
+      "payload": {
+        "pass": true,
+        "connector_sha256": "d8ebd4378f01b7c52a7a4be57c578c22adf29b899cc08a370cf084881195343e",
+        "authority_identical": true,
+        "nodes": 100,
+        "edges": 90,
+        "budget": {
+          "full_reroute_p95_ms": 150.0
+        },
+        "route_result": {
+          "failed": 0,
+          "hits": 0,
+          "arrows": 90
+        },
+        "timing": {
+          "runs": 30,
+          "mean_ms": 27.633333333333333,
+          "median_ms": 26.700000000186265,
+          "p95_ms": 39.3000000002794,
+          "max_ms": 40.6999999997206
+        },
+        "console_errors": []
+      },
+      "stdout_tail": [
+        "    \"hits\": 0,",
+        "    \"arrows\": 90",
+        "  },",
+        "  \"timing\": {",
+        "    \"runs\": 30,",
+        "    \"mean_ms\": 27.633333333333333,",
+        "    \"median_ms\": 26.700000000186265,",
+        "    \"p95_ms\": 39.3000000002794,",
+        "    \"max_ms\": 40.6999999997206",
+        "  },",
+        "  \"console_errors\": []",
+        "}"
+      ],
+      "stderr_tail": []
+    }
+  ]
+}

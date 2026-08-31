@@ -1,0 +1,3221 @@
+{
+  "checks": {
+    "bridge.save_ppt": {
+      "detail": [
+        "report.save_requested",
+        "ppt.export_requested"
+      ],
+      "pass": true
+    },
+    "catalog.17_engines": {
+      "detail": [
+        "ComparisonEngine",
+        "CoreChartEngine",
+        "DecisionCompositeEngine",
+        "DiagramEngine",
+        "EditorInfrastructure",
+        "EngineeringChartEngine",
+        "EvidenceCompositeEngine",
+        "ImageMediaEngine",
+        "InteractionLayer",
+        "MatrixEngine",
+        "MetricEngine",
+        "ProjectCompositeEngine",
+        "SmartLayoutEngine",
+        "TableEngine",
+        "TextEngine",
+        "TimelineEngine",
+        "WaferFabEngine"
+      ],
+      "pass": true
+    },
+    "catalog.248": {
+      "detail": 248,
+      "pass": true
+    },
+    "final.no_console_errors": {
+      "detail": [],
+      "pass": true
+    },
+    "final.no_page_errors": {
+      "detail": [],
+      "pass": true
+    },
+    "free.no_snap": {
+      "detail": {
+        "after": {
+          "element": "Key Takeaway",
+          "engine": "TextEngine",
+          "h": 130,
+          "id": "c2",
+          "locked": false,
+          "order": 1,
+          "title": "B",
+          "type": "text",
+          "w": 200,
+          "weight": 1,
+          "x": 233.30587460132352,
+          "y": 17.18350893385867,
+          "z": 2
+        },
+        "before": {
+          "element": "Key Takeaway",
+          "engine": "TextEngine",
+          "h": 130,
+          "id": "c2",
+          "locked": false,
+          "order": 1,
+          "title": "B",
+          "type": "text",
+          "w": 200,
+          "weight": 1,
+          "x": 228,
+          "y": 14,
+          "z": 2
+        }
+      },
+      "pass": true
+    },
+    "guided.peer_gap": {
+      "detail": {
+        "element": "Key Takeaway",
+        "engine": "TextEngine",
+        "h": 130,
+        "id": "c2",
+        "locked": false,
+        "order": 1,
+        "title": "B",
+        "type": "text",
+        "w": 200,
+        "weight": 1,
+        "x": 228,
+        "y": 14,
+        "z": 2
+      },
+      "pass": true
+    },
+    "image.clipboard": {
+      "detail": "data:image/png;base64,iVBORw0KGg",
+      "pass": true
+    },
+    "inspector.ComparisonEngine": {
+      "detail": {
+        "element": "Before/After KPI",
+        "selector": "#iBefore"
+      },
+      "pass": true
+    },
+    "inspector.CoreChartEngine": {
+      "detail": {
+        "element": "Line Chart",
+        "selector": "#iData"
+      },
+      "pass": true
+    },
+    "inspector.DecisionCompositeEngine": {
+      "detail": {
+        "element": "Decision Needed",
+        "selector": "#iStatement"
+      },
+      "pass": true
+    },
+    "inspector.DiagramEngine": {
+      "detail": {
+        "element": "Process Flow",
+        "selector": "#iNodes"
+      },
+      "pass": true
+    },
+    "inspector.EditorInfrastructure": {
+      "detail": {
+        "element": "Right Inspector",
+        "selector": "#iConfiguration"
+      },
+      "pass": true
+    },
+    "inspector.EngineeringChartEngine": {
+      "detail": {
+        "element": "SPC Control Chart",
+        "selector": "#iObservations"
+      },
+      "pass": true
+    },
+    "inspector.EvidenceCompositeEngine": {
+      "detail": {
+        "element": "Evidence Card",
+        "selector": "#iStatement"
+      },
+      "pass": true
+    },
+    "inspector.ImageMediaEngine": {
+      "detail": {
+        "element": "Image",
+        "selector": "#iImageFile"
+      },
+      "pass": true
+    },
+    "inspector.InteractionLayer": {
+      "detail": {
+        "element": "Cross-filter",
+        "selector": "#iBehavior"
+      },
+      "pass": true
+    },
+    "inspector.MatrixEngine": {
+      "detail": {
+        "element": "Decision Matrix",
+        "selector": "#iMatrix"
+      },
+      "pass": true
+    },
+    "inspector.MetricEngine": {
+      "detail": {
+        "element": "Hero KPI",
+        "selector": "#iValue"
+      },
+      "pass": true
+    },
+    "inspector.ProjectCompositeEngine": {
+      "detail": {
+        "element": "Project Card",
+        "selector": "#iStatement"
+      },
+      "pass": true
+    },
+    "inspector.SmartLayoutEngine": {
+      "detail": {
+        "element": "Smart Canvas",
+        "selector": "#iConfiguration"
+      },
+      "pass": true
+    },
+    "inspector.TableEngine": {
+      "detail": {
+        "element": "Clean Table",
+        "selector": ".table-editor-grid"
+      },
+      "pass": true
+    },
+    "inspector.TextEngine": {
+      "detail": {
+        "element": "Hero Title",
+        "selector": "#iText"
+      },
+      "pass": true
+    },
+    "inspector.TimelineEngine": {
+      "detail": {
+        "element": "Event Timeline",
+        "selector": "#iTimeline"
+      },
+      "pass": true
+    },
+    "inspector.WaferFabEngine": {
+      "detail": {
+        "element": "Wafer Map",
+        "selector": "#iTool"
+      },
+      "pass": true
+    },
+    "inspector.collapse_reclaims_width": {
+      "detail": {
+        "closed": 1069.171875,
+        "open": 788
+      },
+      "pass": true
+    },
+    "inspectors.17": {
+      "detail": 17,
+      "pass": true
+    },
+    "lifecycle.host_rebind": {
+      "detail": {
+        "editor_ready": true,
+        "model": {
+          "crossFilter": null,
+          "groups": {},
+          "items": [
+            {
+              "element": "Hero Title",
+              "engine": "TextEngine",
+              "h": 130,
+              "id": "c1",
+              "locked": false,
+              "order": 0,
+              "title": "A",
+              "type": "text",
+              "w": 200,
+              "weight": 1,
+              "x": 14,
+              "y": 14,
+              "z": 1
+            },
+            {
+              "element": "Key Takeaway",
+              "engine": "TextEngine",
+              "h": 130,
+              "id": "c2",
+              "locked": false,
+              "order": 1,
+              "title": "B",
+              "type": "text",
+              "w": 200,
+              "weight": 1,
+              "x": 233.30587460132352,
+              "y": 17.18350893385867,
+              "z": 2
+            }
+          ],
+          "layoutPreset": "editorial",
+          "mode": "free",
+          "nextId": 3,
+          "schema_version": 1
+        },
+        "pending": 0,
+        "report_id": "geometry",
+        "revision": 4
+      },
+      "pass": true
+    },
+    "pointer.no_high_frequency_bridge": {
+      "detail": [],
+      "pass": true
+    },
+    "preset.builtins": {
+      "detail": "Editorial Bento\nBalanced narrative and analytical hierarchy.\nApply\nExecutive\nPromote KPI, takeaway, comparison and decision.\nApply\nTechnical\nPromote diagram, table, timeline and engineering evidence.\nApply",
+      "pass": true
+    },
+    "preset.delete": {
+      "detail": "No personal presets yet. Save the current report when you have a reusable composition.",
+      "pass": true
+    },
+    "preset.rename": {
+      "detail": "Personal preset\nApply\nUpdate\nDuplicate\nDelete",
+      "pass": true
+    },
+    "preset.save": {
+      "detail": {
+        "events": [
+          {
+            "bridge_version": 1,
+            "payload": {
+              "base_revision": 16,
+              "commit_id": "cmd-17-uaqchn9b",
+              "fingerprint": null,
+              "model": {
+                "crossFilter": null,
+                "groups": {},
+                "items": [
+                  {
+                    "configuration": "14px governed composition",
+                    "element": "Smart Canvas",
+                    "engine": "SmartLayoutEngine",
+                    "groupId": null,
+                    "id": "c1",
+                    "locked": false,
+                    "order": 0,
+                    "title": "Smart Canvas",
+                    "type": "layout",
+                    "weight": 1,
+                    "z": 1
+                  },
+                  {
+                    "body": "Write report narrative here.",
+                    "element": "Hero Title",
+                    "engine": "TextEngine",
+                    "groupId": null,
+                    "id": "c2",
+                    "locked": false,
+                    "order": 1,
+                    "text": "Write report narrative here.",
+                    "title": "Hero Title",
+                    "type": "text",
+                    "weight": 1.1,
+                    "z": 2
+                  },
+                  {
+                    "delta": null,
+                    "detail": false,
+                    "element": "Hero KPI",
+                    "engine": "MetricEngine",
+                    "groupId": null,
+                    "id": "c3",
+                    "locked": false,
+                    "order": 2,
+                    "target": null,
+                    "title": "Hero KPI",
+                    "type": "metric",
+                    "unit": "",
+                    "value": null,
+                    "weight": 1.15,
+                    "z": 3
+                  },
+                  {
+                    "after": null,
+                    "before": null,
+                    "element": "Before/After KPI",
+                    "engine": "ComparisonEngine",
+                    "groupId": null,
+                    "id": "c4",
+                    "locked": false,
+                    "order": 3,
+                    "title": "Before/After KPI",
+                    "type": "comparison",
+                    "unit": "",
+                    "weight": 1.15,
+                    "z": 4
+                  },
+                  {
+                    "brush": [
+                      0,
+                      2
+                    ],
+                    "cross": null,
+                    "data": [
+                      [
+                        "Category A",
+                        null
+                      ],
+                      [
+                        "Category B",
+                        null
+                      ],
+                      [
+                        "Category C",
+                        null
+                      ]
+                    ],
+                    "drill": null,
+                    "element": "Line Chart",
+                    "engine": "CoreChartEngine",
+                    "groupId": null,
+                    "id": "c5",
+                    "locked": false,
+                    "order": 4,
+                    "revealed": true,
+                    "rows": [
+                      {
+                        "label": "Category A",
+                        "value": null
+                      },
+                      {
+                        "label": "Category B",
+                        "value": null
+                      },
+                      {
+                        "label": "Category C",
+                        "value": null
+                      }
+                    ],
+                    "title": "Line Chart",
+                    "type": "chart",
+                    "variant": "line",
+                    "weight": 1.8,
+                    "z": 5
+                  },
+                  {
+                    "customTable": {
+                      "headers": [
+                        "Field",
+                        "Value"
+                      ],
+                      "rows": [
+                        [
+                          "",
+                          null
+                        ]
+                      ]
+                    },
+                    "element": "Clean Table",
+                    "engine": "TableEngine",
+                    "groupId": null,
+                    "id": "c6",
+                    "locked": false,
+                    "order": 5,
+                    "rows": [
+                      [
+                        "",
+                        null
+                      ]
+                    ],
+                    "title": "Clean Table",
+                    "type": "table",
+                    "weight": 1.55,
+                    "z": 6
+                  },
+                  {
+                    "element": "Decision Matrix",
+                    "engine": "MatrixEngine",
+                    "groupId": null,
+                    "id": "c7",
+                    "locked": false,
+                    "matrix": [
+                      [
+                        null,
+                        null
+                      ],
+                      [
+                        null,
+                        null
+                      ]
+                    ],
+                    "order": 6,
+                    "title": "Decision Matrix",
+                    "type": "matrix",
+                    "weight": 1.35,
+                    "z": 7
+                  },
+                  {
+                    "element": "Event Timeline",
+                    "engine": "TimelineEngine",
+                    "groupId": null,
+                    "id": "c8",
+                    "locked": false,
+                    "milestones": [
+                      {
+                        "date": null,
+                        "label": "Milestone 1"
+                      },
+                      {
+                        "date": null,
+                        "label": "Milestone 2"
+                      }
+                    ],
+                    "order": 7,
+                    "title": "Event Timeline",
+                    "tm": 0,
+                    "type": "timeline",
+                    "weight": 1.3,
+                    "z": 8
+                  },
+                  {
+                    "edges": [
+                      [
+                        "Source",
+                        "Process"
+                      ],
+                      [
+                        "Process",
+                        "Outcome"
+                      ]
+                    ],
+                    "element": "Process Flow",
+                    "engine": "DiagramEngine",
+                    "groupId": null,
+                    "id": "c9",
+                    "locked": false,
+                    "nodes": [
+                      "Source",
+                      "Process",
+                      "Outcome"
+                    ],
+                    "order": 8,
+                    "title": "Process Flow",
+                    "type": "diagram",
+                    "weight": 1.5,
+                    "z": 9
+                  },
+                  {
+                    "alt": "",
+                    "caption": "",
+                    "element": "Image",
+                    "engine": "ImageMediaEngine",
+                    "focal": "50% 50%",
+                    "groupId": null,
+                    "id": "c10",
+                    "locked": false,
+                    "order": 9,
+                    "src": "",
+                    "title": "Image",
+                    "type": "image",
+                    "weight": 1.25,
+                    "z": 10
+                  },
+                  {
+                    "detail": "Add source, observation, and confidence.",
+                    "element": "Evidence Card",
+                    "engine": "EvidenceCompositeEngine",
+                    "groupId": null,
+                    "id": "c11",
+                    "locked": false,
+                    "order": 10,
+                    "statement": "Evidence item",
+                    "status": "Observed",
+                    "title": "Evidence Card",
+                    "type": "evidence",
+                    "weight": 1.15,
+                    "z": 11
+                  },
+                  {
+                    "detail": "Describe recommendation and trade-offs.",
+                    "element": "Decision Needed",
+                    "engine": "DecisionCompositeEngine",
+                    "groupId": null,
+                    "id": "c12",
+                    "locked": false,
+                    "order": 11,
+                    "statement": "Decision required",
+                    "status": "Open",
+                    "title": "Decision Needed",
+                    "type": "decision",
+                    "weight": 1.15,
+                    "z": 12
+                  },
+                  {
+                    "detail": "Owner \u00b7 due date \u00b7 verification.",
+                    "element": "Project Card",
+                    "engine": "ProjectCompositeEngine",
+                    "groupId": null,
+                    "id": "c13",
+                    "locked": false,
+                    "order": 12,
+                    "statement": "Action item",
+                    "status": "Planned",
+                    "title": "Project Card",
+                    "type": "project",
+                    "weight": 1.15,
+                    "z": 13
+                  },
+                  {
+                    "element": "SPC Control Chart",
+                    "engine": "EngineeringChartEngine",
+                    "groupId": null,
+                    "id": "c14",
+                    "lcl": null,
+                    "locked": false,
+                    "lower_limit": null,
+                    "observations": [
+                      {
+                        "label": "1",
+                        "value": null
+                      }
+                    ],
+                    "order": 13,
+                    "role": "measurement",
+                    "title": "SPC Control Chart",
+                    "type": "engineering",
+                    "ucl": null,
+                    "upper_limit": null,
+                    "weight": 1.5,
+                    "z": 14
+                  },
+                  {
+                    "chamber": "",
+                    "element": "Wafer Map",
+                    "engine": "WaferFabEngine",
+                    "groupId": null,
+                    "id": "c15",
+                    "locked": false,
+                    "lot": "",
+                    "observations": [],
+                    "order": 14,
+                    "route": "",
+                    "title": "Wafer Map",
+                    "tool": "",
+                    "type": "wafer",
+                    "weight": 1.5,
+                    "z": 15
+                  },
+                  {
+                    "behavior": "select \u2192 filter \u2192 inspect",
+                    "element": "Cross-filter",
+                    "engine": "InteractionLayer",
+                    "groupId": null,
+                    "id": "c16",
+                    "locked": false,
+                    "order": 15,
+                    "title": "Cross-filter",
+                    "type": "interaction",
+                    "weight": 1,
+                    "z": 16
+                  }
+                ],
+                "layoutPreset": "editorial",
+                "mode": "smart",
+                "nextId": 17,
+                "schema_version": 1
+              },
+              "report_id": "r12-browser"
+            },
+            "type": "report.commit"
+          },
+          {
+            "bridge_version": 1,
+            "payload": {
+              "base_revision": 17,
+              "commit_id": "cmd-18-gtewqc1z",
+              "fingerprint": null,
+              "model": {
+                "crossFilter": null,
+                "groups": {},
+                "items": [
+                  {
+                    "configuration": "14px governed composition",
+                    "element": "Smart Canvas",
+                    "engine": "SmartLayoutEngine",
+                    "groupId": null,
+                    "id": "c1",
+                    "locked": false,
+                    "order": 0,
+                    "title": "Smart Canvas",
+                    "type": "layout",
+                    "weight": 1,
+                    "z": 1
+                  },
+                  {
+                    "body": "Write report narrative here.",
+                    "element": "Hero Title",
+                    "engine": "TextEngine",
+                    "groupId": null,
+                    "id": "c2",
+                    "locked": false,
+                    "order": 1,
+                    "text": "Write report narrative here.",
+                    "title": "Hero Title",
+                    "type": "text",
+                    "weight": 1.1,
+                    "z": 2
+                  },
+                  {
+                    "delta": null,
+                    "detail": false,
+                    "element": "Hero KPI",
+                    "engine": "MetricEngine",
+                    "groupId": null,
+                    "id": "c3",
+                    "locked": false,
+                    "order": 2,
+                    "target": null,
+                    "title": "Hero KPI",
+                    "type": "metric",
+                    "unit": "",
+                    "value": null,
+                    "weight": 1.15,
+                    "z": 3
+                  },
+                  {
+                    "after": null,
+                    "before": null,
+                    "element": "Before/After KPI",
+                    "engine": "ComparisonEngine",
+                    "groupId": null,
+                    "id": "c4",
+                    "locked": false,
+                    "order": 3,
+                    "title": "Before/After KPI",
+                    "type": "comparison",
+                    "unit": "",
+                    "weight": 1.15,
+                    "z": 4
+                  },
+                  {
+                    "brush": [
+                      0,
+                      2
+                    ],
+                    "cross": null,
+                    "data": [
+                      [
+                        "Category A",
+                        null
+                      ],
+                      [
+                        "Category B",
+                        null
+                      ],
+                      [
+                        "Category C",
+                        null
+                      ]
+                    ],
+                    "drill": null,
+                    "element": "Line Chart",
+                    "engine": "CoreChartEngine",
+                    "groupId": null,
+                    "id": "c5",
+                    "locked": false,
+                    "order": 4,
+                    "revealed": true,
+                    "rows": [
+                      {
+                        "label": "Category A",
+                        "value": null
+                      },
+                      {
+                        "label": "Category B",
+                        "value": null
+                      },
+                      {
+                        "label": "Category C",
+                        "value": null
+                      }
+                    ],
+                    "title": "Line Chart",
+                    "type": "chart",
+                    "variant": "line",
+                    "weight": 1.8,
+                    "z": 5
+                  },
+                  {
+                    "customTable": {
+                      "headers": [
+                        "Field",
+                        "Value"
+                      ],
+                      "rows": [
+                        [
+                          "",
+                          null
+                        ]
+                      ]
+                    },
+                    "element": "Clean Table",
+                    "engine": "TableEngine",
+                    "groupId": null,
+                    "id": "c6",
+                    "locked": false,
+                    "order": 5,
+                    "rows": [
+                      [
+                        "",
+                        null
+                      ]
+                    ],
+                    "title": "Clean Table",
+                    "type": "table",
+                    "weight": 1.55,
+                    "z": 6
+                  },
+                  {
+                    "element": "Decision Matrix",
+                    "engine": "MatrixEngine",
+                    "groupId": null,
+                    "id": "c7",
+                    "locked": false,
+                    "matrix": [
+                      [
+                        null,
+                        null
+                      ],
+                      [
+                        null,
+                        null
+                      ]
+                    ],
+                    "order": 6,
+                    "title": "Decision Matrix",
+                    "type": "matrix",
+                    "weight": 1.35,
+                    "z": 7
+                  },
+                  {
+                    "element": "Event Timeline",
+                    "engine": "TimelineEngine",
+                    "groupId": null,
+                    "id": "c8",
+                    "locked": false,
+                    "milestones": [
+                      {
+                        "date": null,
+                        "label": "Milestone 1"
+                      },
+                      {
+                        "date": null,
+                        "label": "Milestone 2"
+                      }
+                    ],
+                    "order": 7,
+                    "title": "Event Timeline",
+                    "tm": 0,
+                    "type": "timeline",
+                    "weight": 1.3,
+                    "z": 8
+                  },
+                  {
+                    "edges": [
+                      [
+                        "Source",
+                        "Process"
+                      ],
+                      [
+                        "Process",
+                        "Outcome"
+                      ]
+                    ],
+                    "element": "Process Flow",
+                    "engine": "DiagramEngine",
+                    "groupId": null,
+                    "id": "c9",
+                    "locked": false,
+                    "nodes": [
+                      "Source",
+                      "Process",
+                      "Outcome"
+                    ],
+                    "order": 8,
+                    "title": "Process Flow",
+                    "type": "diagram",
+                    "weight": 1.5,
+                    "z": 9
+                  },
+                  {
+                    "alt": "",
+                    "caption": "",
+                    "element": "Image",
+                    "engine": "ImageMediaEngine",
+                    "focal": "50% 50%",
+                    "groupId": null,
+                    "id": "c10",
+                    "locked": false,
+                    "order": 9,
+                    "src": "",
+                    "title": "Image",
+                    "type": "image",
+                    "weight": 1.25,
+                    "z": 10
+                  },
+                  {
+                    "detail": "Add source, observation, and confidence.",
+                    "element": "Evidence Card",
+                    "engine": "EvidenceCompositeEngine",
+                    "groupId": null,
+                    "id": "c11",
+                    "locked": false,
+                    "order": 10,
+                    "statement": "Evidence item",
+                    "status": "Observed",
+                    "title": "Evidence Card",
+                    "type": "evidence",
+                    "weight": 1.15,
+                    "z": 11
+                  },
+                  {
+                    "detail": "Describe recommendation and trade-offs.",
+                    "element": "Decision Needed",
+                    "engine": "DecisionCompositeEngine",
+                    "groupId": null,
+                    "id": "c12",
+                    "locked": false,
+                    "order": 11,
+                    "statement": "Decision required",
+                    "status": "Open",
+                    "title": "Decision Needed",
+                    "type": "decision",
+                    "weight": 1.15,
+                    "z": 12
+                  },
+                  {
+                    "detail": "Owner \u00b7 due date \u00b7 verification.",
+                    "element": "Project Card",
+                    "engine": "ProjectCompositeEngine",
+                    "groupId": null,
+                    "id": "c13",
+                    "locked": false,
+                    "order": 12,
+                    "statement": "Action item",
+                    "status": "Planned",
+                    "title": "Project Card",
+                    "type": "project",
+                    "weight": 1.15,
+                    "z": 13
+                  },
+                  {
+                    "element": "SPC Control Chart",
+                    "engine": "EngineeringChartEngine",
+                    "groupId": null,
+                    "id": "c14",
+                    "lcl": null,
+                    "locked": false,
+                    "lower_limit": null,
+                    "observations": [
+                      {
+                        "label": "1",
+                        "value": null
+                      }
+                    ],
+                    "order": 13,
+                    "role": "measurement",
+                    "title": "SPC Control Chart",
+                    "type": "engineering",
+                    "ucl": null,
+                    "upper_limit": null,
+                    "weight": 1.5,
+                    "z": 14
+                  },
+                  {
+                    "chamber": "",
+                    "element": "Wafer Map",
+                    "engine": "WaferFabEngine",
+                    "groupId": null,
+                    "id": "c15",
+                    "locked": false,
+                    "lot": "",
+                    "observations": [],
+                    "order": 14,
+                    "route": "",
+                    "title": "Wafer Map",
+                    "tool": "",
+                    "type": "wafer",
+                    "weight": 1.5,
+                    "z": 15
+                  },
+                  {
+                    "behavior": "select \u2192 filter \u2192 inspect",
+                    "element": "Cross-filter",
+                    "engine": "InteractionLayer",
+                    "groupId": null,
+                    "id": "c16",
+                    "locked": false,
+                    "order": 15,
+                    "title": "Cross-filter",
+                    "type": "interaction",
+                    "weight": 1,
+                    "z": 16
+                  },
+                  {
+                    "configuration": "Editor-only infrastructure",
+                    "element": "Right Inspector",
+                    "engine": "EditorInfrastructure",
+                    "groupId": null,
+                    "id": "c17",
+                    "locked": false,
+                    "order": 16,
+                    "title": "Right Inspector",
+                    "type": "editor",
+                    "weight": 1,
+                    "z": 17
+                  }
+                ],
+                "layoutPreset": "editorial",
+                "mode": "smart",
+                "nextId": 18,
+                "schema_version": 1
+              },
+              "report_id": "r12-browser"
+            },
+            "type": "report.commit"
+          },
+          {
+            "bridge_version": 1,
+            "payload": {
+              "base_revision": 19,
+              "commit_id": "cmd-20-svr6u0nc",
+              "fingerprint": null,
+              "model": {
+                "crossFilter": null,
+                "groups": {},
+                "items": [
+                  {
+                    "configuration": "14px governed composition",
+                    "element": "Smart Canvas",
+                    "engine": "SmartLayoutEngine",
+                    "groupId": null,
+                    "id": "c1",
+                    "locked": false,
+                    "order": 0,
+                    "title": "Smart Canvas",
+                    "type": "layout",
+                    "weight": 1,
+                    "z": 1
+                  },
+                  {
+                    "body": "Write report narrative here.",
+                    "element": "Hero Title",
+                    "engine": "TextEngine",
+                    "groupId": null,
+                    "id": "c2",
+                    "locked": false,
+                    "order": 1,
+                    "text": "Write report narrative here.",
+                    "title": "Hero Title",
+                    "type": "text",
+                    "weight": 1.1,
+                    "z": 2
+                  },
+                  {
+                    "delta": null,
+                    "detail": false,
+                    "element": "Hero KPI",
+                    "engine": "MetricEngine",
+                    "groupId": null,
+                    "id": "c3",
+                    "locked": false,
+                    "order": 2,
+                    "target": null,
+                    "title": "Hero KPI",
+                    "type": "metric",
+                    "unit": "",
+                    "value": null,
+                    "weight": 1.15,
+                    "z": 3
+                  },
+                  {
+                    "after": null,
+                    "before": null,
+                    "element": "Before/After KPI",
+                    "engine": "ComparisonEngine",
+                    "groupId": null,
+                    "id": "c4",
+                    "locked": false,
+                    "order": 3,
+                    "title": "Before/After KPI",
+                    "type": "comparison",
+                    "unit": "",
+                    "weight": 1.15,
+                    "z": 4
+                  },
+                  {
+                    "brush": [
+                      0,
+                      2
+                    ],
+                    "cross": null,
+                    "data": [
+                      [
+                        "A",
+                        0
+                      ],
+                      [
+                        "B",
+                        null
+                      ],
+                      [
+                        "C, quoted",
+                        12
+                      ]
+                    ],
+                    "drill": null,
+                    "element": "Line Chart",
+                    "engine": "CoreChartEngine",
+                    "groupId": null,
+                    "id": "c5",
+                    "locked": false,
+                    "order": 4,
+                    "revealed": true,
+                    "rows": [
+                      {
+                        "label": "A",
+                        "value": 0
+                      },
+                      {
+                        "label": "B",
+                        "value": null
+                      },
+                      {
+                        "label": "C, quoted",
+                        "value": 12
+                      }
+                    ],
+                    "title": "Line Chart",
+                    "type": "chart",
+                    "variant": "line",
+                    "weight": 1.8,
+                    "z": 5
+                  },
+                  {
+                    "customTable": {
+                      "headers": [
+                        "Field",
+                        "Value"
+                      ],
+                      "rows": [
+                        [
+                          "",
+                          null
+                        ]
+                      ]
+                    },
+                    "element": "Clean Table",
+                    "engine": "TableEngine",
+                    "groupId": null,
+                    "id": "c6",
+                    "locked": false,
+                    "order": 5,
+                    "rows": [
+                      [
+                        "",
+                        null
+                      ]
+                    ],
+                    "title": "Clean Table",
+                    "type": "table",
+                    "weight": 1.55,
+                    "z": 6
+                  },
+                  {
+                    "element": "Decision Matrix",
+                    "engine": "MatrixEngine",
+                    "groupId": null,
+                    "id": "c7",
+                    "locked": false,
+                    "matrix": [
+                      [
+                        null,
+                        null
+                      ],
+                      [
+                        null,
+                        null
+                      ]
+                    ],
+                    "order": 6,
+                    "title": "Decision Matrix",
+                    "type": "matrix",
+                    "weight": 1.35,
+                    "z": 7
+                  },
+                  {
+                    "element": "Event Timeline",
+                    "engine": "TimelineEngine",
+                    "groupId": null,
+                    "id": "c8",
+                    "locked": false,
+                    "milestones": [
+                      {
+                        "date": null,
+                        "label": "Milestone 1"
+                      },
+                      {
+                        "date": null,
+                        "label": "Milestone 2"
+                      }
+                    ],
+                    "order": 7,
+                    "title": "Event Timeline",
+                    "tm": 0,
+                    "type": "timeline",
+                    "weight": 1.3,
+                    "z": 8
+                  },
+                  {
+                    "edges": [
+                      [
+                        "Source",
+                        "Process"
+                      ],
+                      [
+                        "Process",
+                        "Outcome"
+                      ]
+                    ],
+                    "element": "Process Flow",
+                    "engine": "DiagramEngine",
+                    "groupId": null,
+                    "id": "c9",
+                    "locked": false,
+                    "nodes": [
+                      "Source",
+                      "Process",
+                      "Outcome"
+                    ],
+                    "order": 8,
+                    "title": "Process Flow",
+                    "type": "diagram",
+                    "weight": 1.5,
+                    "z": 9
+                  },
+                  {
+                    "alt": "",
+                    "caption": "",
+                    "element": "Image",
+                    "engine": "ImageMediaEngine",
+                    "focal": "50% 50%",
+                    "groupId": null,
+                    "id": "c10",
+                    "locked": false,
+                    "order": 9,
+                    "src": "",
+                    "title": "Image",
+                    "type": "image",
+                    "weight": 1.25,
+                    "z": 10
+                  },
+                  {
+                    "detail": "Add source, observation, and confidence.",
+                    "element": "Evidence Card",
+                    "engine": "EvidenceCompositeEngine",
+                    "groupId": null,
+                    "id": "c11",
+                    "locked": false,
+                    "order": 10,
+                    "statement": "Evidence item",
+                    "status": "Observed",
+                    "title": "Evidence Card",
+                    "type": "evidence",
+                    "weight": 1.15,
+                    "z": 11
+                  },
+                  {
+                    "detail": "Describe recommendation and trade-offs.",
+                    "element": "Decision Needed",
+                    "engine": "DecisionCompositeEngine",
+                    "groupId": null,
+                    "id": "c12",
+                    "locked": false,
+                    "order": 11,
+                    "statement": "Decision required",
+                    "status": "Open",
+                    "title": "Decision Needed",
+                    "type": "decision",
+                    "weight": 1.15,
+                    "z": 12
+                  },
+                  {
+                    "detail": "Owner \u00b7 due date \u00b7 verification.",
+                    "element": "Project Card",
+                    "engine": "ProjectCompositeEngine",
+                    "groupId": null,
+                    "id": "c13",
+                    "locked": false,
+                    "order": 12,
+                    "statement": "Action item",
+                    "status": "Planned",
+                    "title": "Project Card",
+                    "type": "project",
+                    "weight": 1.15,
+                    "z": 13
+                  },
+                  {
+                    "element": "SPC Control Chart",
+                    "engine": "EngineeringChartEngine",
+                    "groupId": null,
+                    "id": "c14",
+                    "lcl": null,
+                    "locked": false,
+                    "lower_limit": null,
+                    "observations": [
+                      {
+                        "label": "1",
+                        "value": null
+                      }
+                    ],
+                    "order": 13,
+                    "role": "measurement",
+                    "title": "SPC Control Chart",
+                    "type": "engineering",
+                    "ucl": null,
+                    "upper_limit": null,
+                    "weight": 1.5,
+                    "z": 14
+                  },
+                  {
+                    "chamber": "",
+                    "element": "Wafer Map",
+                    "engine": "WaferFabEngine",
+                    "groupId": null,
+                    "id": "c15",
+                    "locked": false,
+                    "lot": "",
+                    "observations": [],
+                    "order": 14,
+                    "route": "",
+                    "title": "Wafer Map",
+                    "tool": "",
+                    "type": "wafer",
+                    "weight": 1.5,
+                    "z": 15
+                  },
+                  {
+                    "behavior": "select \u2192 filter \u2192 inspect",
+                    "element": "Cross-filter",
+                    "engine": "InteractionLayer",
+                    "groupId": null,
+                    "id": "c16",
+                    "locked": false,
+                    "order": 15,
+                    "title": "Cross-filter",
+                    "type": "interaction",
+                    "weight": 1,
+                    "z": 16
+                  },
+                  {
+                    "configuration": "Editor-only infrastructure",
+                    "element": "Right Inspector",
+                    "engine": "EditorInfrastructure",
+                    "groupId": null,
+                    "id": "c17",
+                    "locked": false,
+                    "order": 16,
+                    "title": "Right Inspector",
+                    "type": "editor",
+                    "weight": 1,
+                    "z": 17
+                  }
+                ],
+                "layoutPreset": "editorial",
+                "mode": "smart",
+                "nextId": 18,
+                "schema_version": 1
+              },
+              "report_id": "r12-browser"
+            },
+            "type": "report.commit"
+          },
+          {
+            "bridge_version": 1,
+            "payload": {
+              "base_revision": 18,
+              "commit_id": "cmd-19-1oj2eds3",
+              "fingerprint": null,
+              "model": {
+                "crossFilter": null,
+                "groups": {},
+                "items": [
+                  {
+                    "configuration": "14px governed composition",
+                    "element": "Smart Canvas",
+                    "engine": "SmartLayoutEngine",
+                    "groupId": null,
+                    "id": "c1",
+                    "locked": false,
+                    "order": 0,
+                    "title": "Smart Canvas",
+                    "type": "layout",
+                    "weight": 1,
+                    "z": 1
+                  },
+                  {
+                    "body": "Write report narrative here.",
+                    "element": "Hero Title",
+                    "engine": "TextEngine",
+                    "groupId": null,
+                    "id": "c2",
+                    "locked": false,
+                    "order": 1,
+                    "text": "Write report narrative here.",
+                    "title": "Hero Title",
+                    "type": "text",
+                    "weight": 1.1,
+                    "z": 2
+                  },
+                  {
+                    "delta": null,
+                    "detail": false,
+                    "element": "Hero KPI",
+                    "engine": "MetricEngine",
+                    "groupId": null,
+                    "id": "c3",
+                    "locked": false,
+                    "order": 2,
+                    "target": null,
+                    "title": "Hero KPI",
+                    "type": "metric",
+                    "unit": "",
+                    "value": null,
+                    "weight": 1.15,
+                    "z": 3
+                  },
+                  {
+                    "after": null,
+                    "before": null,
+                    "element": "Before/After KPI",
+                    "engine": "ComparisonEngine",
+                    "groupId": null,
+                    "id": "c4",
+                    "locked": false,
+                    "order": 3,
+                    "title": "Before/After KPI",
+                    "type": "comparison",
+                    "unit": "",
+                    "weight": 1.15,
+                    "z": 4
+                  },
+                  {
+                    "brush": [
+                      0,
+                      2
+                    ],
+                    "cross": null,
+                    "data": [
+                      [
+                        "A",
+                        0
+                      ],
+                      [
+                        "B",
+                        null
+                      ],
+                      [
+                        "C, quoted",
+                        12
+                      ]
+                    ],
+                    "drill": null,
+                    "element": "Line Chart",
+                    "engine": "CoreChartEngine",
+                    "groupId": null,
+                    "id": "c5",
+                    "locked": false,
+                    "order": 4,
+                    "revealed": true,
+                    "rows": [
+                      {
+                        "label": "A",
+                        "value": 0
+                      },
+                      {
+                        "label": "B",
+                        "value": null
+                      },
+                      {
+                        "label": "C, quoted",
+                        "value": 12
+                      }
+                    ],
+                    "title": "Line Chart",
+                    "type": "chart",
+                    "variant": "line",
+                    "weight": 1.8,
+                    "z": 5
+                  },
+                  {
+                    "customTable": {
+                      "headers": [
+                        "Field",
+                        "Value"
+                      ],
+                      "rows": [
+                        [
+                          "",
+                          null
+                        ]
+                      ]
+                    },
+                    "element": "Clean Table",
+                    "engine": "TableEngine",
+                    "groupId": null,
+                    "id": "c6",
+                    "locked": false,
+                    "order": 5,
+                    "rows": [
+                      [
+                        "",
+                        null
+                      ]
+                    ],
+                    "title": "Clean Table",
+                    "type": "table",
+                    "weight": 1.55,
+                    "z": 6
+                  },
+                  {
+                    "element": "Decision Matrix",
+                    "engine": "MatrixEngine",
+                    "groupId": null,
+                    "id": "c7",
+                    "locked": false,
+                    "matrix": [
+                      [
+                        null,
+                        null
+                      ],
+                      [
+                        null,
+                        null
+                      ]
+                    ],
+                    "order": 6,
+                    "title": "Decision Matrix",
+                    "type": "matrix",
+                    "weight": 1.35,
+                    "z": 7
+                  },
+                  {
+                    "element": "Event Timeline",
+                    "engine": "TimelineEngine",
+                    "groupId": null,
+                    "id": "c8",
+                    "locked": false,
+                    "milestones": [
+                      {
+                        "date": null,
+                        "label": "Milestone 1"
+                      },
+                      {
+                        "date": null,
+                        "label": "Milestone 2"
+                      }
+                    ],
+                    "order": 7,
+                    "title": "Event Timeline",
+                    "tm": 0,
+                    "type": "timeline",
+                    "weight": 1.3,
+                    "z": 8
+                  },
+                  {
+                    "edges": [
+                      [
+                        "Source",
+                        "Process"
+                      ],
+                      [
+                        "Process",
+                        "Outcome"
+                      ]
+                    ],
+                    "element": "Process Flow",
+                    "engine": "DiagramEngine",
+                    "groupId": null,
+                    "id": "c9",
+                    "locked": false,
+                    "nodes": [
+                      "Source",
+                      "Process",
+                      "Outcome"
+                    ],
+                    "order": 8,
+                    "title": "Process Flow",
+                    "type": "diagram",
+                    "weight": 1.5,
+                    "z": 9
+                  },
+                  {
+                    "alt": "",
+                    "caption": "",
+                    "element": "Image",
+                    "engine": "ImageMediaEngine",
+                    "focal": "50% 50%",
+                    "groupId": null,
+                    "id": "c10",
+                    "locked": false,
+                    "order": 9,
+                    "src": "",
+                    "title": "Image",
+                    "type": "image",
+                    "weight": 1.25,
+                    "z": 10
+                  },
+                  {
+                    "detail": "Add source, observation, and confidence.",
+                    "element": "Evidence Card",
+                    "engine": "EvidenceCompositeEngine",
+                    "groupId": null,
+                    "id": "c11",
+                    "locked": false,
+                    "order": 10,
+                    "statement": "Evidence item",
+                    "status": "Observed",
+                    "title": "Evidence Card",
+                    "type": "evidence",
+                    "weight": 1.15,
+                    "z": 11
+                  },
+                  {
+                    "detail": "Describe recommendation and trade-offs.",
+                    "element": "Decision Needed",
+                    "engine": "DecisionCompositeEngine",
+                    "groupId": null,
+                    "id": "c12",
+                    "locked": false,
+                    "order": 11,
+                    "statement": "Decision required",
+                    "status": "Open",
+                    "title": "Decision Needed",
+                    "type": "decision",
+                    "weight": 1.15,
+                    "z": 12
+                  },
+                  {
+                    "detail": "Owner \u00b7 due date \u00b7 verification.",
+                    "element": "Project Card",
+                    "engine": "ProjectCompositeEngine",
+                    "groupId": null,
+                    "id": "c13",
+                    "locked": false,
+                    "order": 12,
+                    "statement": "Action item",
+                    "status": "Planned",
+                    "title": "Project Card",
+                    "type": "project",
+                    "weight": 1.15,
+                    "z": 13
+                  },
+                  {
+                    "element": "SPC Control Chart",
+                    "engine": "EngineeringChartEngine",
+                    "groupId": null,
+                    "id": "c14",
+                    "lcl": null,
+                    "locked": false,
+                    "lower_limit": null,
+                    "observations": [
+                      {
+                        "label": "1",
+                        "value": null
+                      }
+                    ],
+                    "order": 13,
+                    "role": "measurement",
+                    "title": "SPC Control Chart",
+                    "type": "engineering",
+                    "ucl": null,
+                    "upper_limit": null,
+                    "weight": 1.5,
+                    "z": 14
+                  },
+                  {
+                    "chamber": "",
+                    "element": "Wafer Map",
+                    "engine": "WaferFabEngine",
+                    "groupId": null,
+                    "id": "c15",
+                    "locked": false,
+                    "lot": "",
+                    "observations": [],
+                    "order": 14,
+                    "route": "",
+                    "title": "Wafer Map",
+                    "tool": "",
+                    "type": "wafer",
+                    "weight": 1.5,
+                    "z": 15
+                  },
+                  {
+                    "behavior": "select \u2192 filter \u2192 inspect",
+                    "element": "Cross-filter",
+                    "engine": "InteractionLayer",
+                    "groupId": null,
+                    "id": "c16",
+                    "locked": false,
+                    "order": 15,
+                    "title": "Cross-filter",
+                    "type": "interaction",
+                    "weight": 1,
+                    "z": 16
+                  },
+                  {
+                    "configuration": "Editor-only infrastructure",
+                    "element": "Right Inspector",
+                    "engine": "EditorInfrastructure",
+                    "groupId": null,
+                    "id": "c17",
+                    "locked": false,
+                    "order": 16,
+                    "title": "Right Inspector",
+                    "type": "editor",
+                    "weight": 1,
+                    "z": 17
+                  }
+                ],
+                "layoutPreset": "editorial",
+                "mode": "smart",
+                "nextId": 18,
+                "schema_version": 1
+              },
+              "report_id": "r12-browser"
+            },
+            "type": "report.commit"
+          },
+          {
+            "bridge_version": 1,
+            "payload": {
+              "base_revision": 21,
+              "commit_id": "cmd-22-rzkce9fg",
+              "fingerprint": null,
+              "model": {
+                "crossFilter": null,
+                "groups": {},
+                "items": [
+                  {
+                    "configuration": "14px governed composition",
+                    "element": "Smart Canvas",
+                    "engine": "SmartLayoutEngine",
+                    "groupId": null,
+                    "id": "c1",
+                    "locked": false,
+                    "order": 0,
+                    "title": "Smart Canvas",
+                    "type": "layout",
+                    "weight": 1,
+                    "z": 1
+                  },
+                  {
+                    "body": "Write report narrative here.",
+                    "element": "Hero Title",
+                    "engine": "TextEngine",
+                    "groupId": null,
+                    "id": "c2",
+                    "locked": false,
+                    "order": 1,
+                    "text": "Write report narrative here.",
+                    "title": "Hero Title",
+                    "type": "text",
+                    "weight": 1.1,
+                    "z": 2
+                  },
+                  {
+                    "delta": null,
+                    "detail": false,
+                    "element": "Hero KPI",
+                    "engine": "MetricEngine",
+                    "groupId": null,
+                    "id": "c3",
+                    "locked": false,
+                    "order": 2,
+                    "target": null,
+                    "title": "Hero KPI",
+                    "type": "metric",
+                    "unit": "",
+                    "value": null,
+                    "weight": 1.15,
+                    "z": 3
+                  },
+                  {
+                    "after": null,
+                    "before": null,
+                    "element": "Before/After KPI",
+                    "engine": "ComparisonEngine",
+                    "groupId": null,
+                    "id": "c4",
+                    "locked": false,
+                    "order": 3,
+                    "title": "Before/After KPI",
+                    "type": "comparison",
+                    "unit": "",
+                    "weight": 1.15,
+                    "z": 4
+                  },
+                  {
+                    "brush": [
+                      0,
+                      2
+                    ],
+                    "cross": null,
+                    "data": [
+                      [
+                        "A",
+                        0
+                      ],
+                      [
+                        "B",
+                        null
+                      ],
+                      [
+                        "C, quoted",
+                        12
+                      ]
+                    ],
+                    "drill": null,
+                    "element": "Line Chart",
+                    "engine": "CoreChartEngine",
+                    "groupId": null,
+                    "id": "c5",
+                    "locked": false,
+                    "order": 4,
+                    "revealed": true,
+                    "rows": [
+                      {
+                        "label": "A",
+                        "value": 0
+                      },
+                      {
+                        "label": "B",
+                        "value": null
+                      },
+                      {
+                        "label": "C, quoted",
+                        "value": 12
+                      }
+                    ],
+                    "title": "Line Chart",
+                    "type": "chart",
+                    "variant": "line",
+                    "weight": 1.8,
+                    "z": 5
+                  },
+                  {
+                    "customTable": {
+                      "headers": [
+                        "Field",
+                        "Value"
+                      ],
+                      "rows": [
+                        [
+                          "",
+                          null
+                        ]
+                      ]
+                    },
+                    "element": "Clean Table",
+                    "engine": "TableEngine",
+                    "groupId": null,
+                    "id": "c6",
+                    "locked": false,
+                    "order": 5,
+                    "rows": [
+                      [
+                        "",
+                        null
+                      ]
+                    ],
+                    "title": "Clean Table",
+                    "type": "table",
+                    "weight": 1.55,
+                    "z": 6
+                  },
+                  {
+                    "element": "Decision Matrix",
+                    "engine": "MatrixEngine",
+                    "groupId": null,
+                    "id": "c7",
+                    "locked": false,
+                    "matrix": [
+                      [
+                        null,
+                        null
+                      ],
+                      [
+                        null,
+                        null
+                      ]
+                    ],
+                    "order": 6,
+                    "title": "Decision Matrix",
+                    "type": "matrix",
+                    "weight": 1.35,
+                    "z": 7
+                  },
+                  {
+                    "element": "Event Timeline",
+                    "engine": "TimelineEngine",
+                    "groupId": null,
+                    "id": "c8",
+                    "locked": false,
+                    "milestones": [
+                      {
+                        "date": null,
+                        "label": "Collect"
+                      },
+                      {
+                        "date": "2026-08-28",
+                        "label": "Analyze"
+                      },
+                      {
+                        "date": null,
+                        "label": "Decide"
+                      }
+                    ],
+                    "order": 7,
+                    "title": "Event Timeline",
+                    "tm": 0,
+                    "type": "timeline",
+                    "weight": 1.3,
+                    "z": 8
+                  },
+                  {
+                    "edges": [
+                      [
+                        "Source",
+                        "Process"
+                      ],
+                      [
+                        "Process",
+                        "Outcome"
+                      ]
+                    ],
+                    "element": "Process Flow",
+                    "engine": "DiagramEngine",
+                    "groupId": null,
+                    "id": "c9",
+                    "locked": false,
+                    "nodes": [
+                      "Source",
+                      "Process",
+                      "Outcome"
+                    ],
+                    "order": 8,
+                    "title": "Process Flow",
+                    "type": "diagram",
+                    "weight": 1.5,
+                    "z": 9
+                  },
+                  {
+                    "alt": "",
+                    "caption": "",
+                    "element": "Image",
+                    "engine": "ImageMediaEngine",
+                    "focal": "50% 50%",
+                    "groupId": null,
+                    "id": "c10",
+                    "locked": false,
+                    "order": 9,
+                    "src": "",
+                    "title": "Image",
+                    "type": "image",
+                    "weight": 1.25,
+                    "z": 10
+                  },
+                  {
+                    "detail": "Add source, observation, and confidence.",
+                    "element": "Evidence Card",
+                    "engine": "EvidenceCompositeEngine",
+                    "groupId": null,
+                    "id": "c11",
+                    "locked": false,
+                    "order": 10,
+                    "statement": "Evidence item",
+                    "status": "Observed",
+                    "title": "Evidence Card",
+                    "type": "evidence",
+                    "weight": 1.15,
+                    "z": 11
+                  },
+                  {
+                    "detail": "Describe recommendation and trade-offs.",
+                    "element": "Decision Needed",
+                    "engine": "DecisionCompositeEngine",
+                    "groupId": null,
+                    "id": "c12",
+                    "locked": false,
+                    "order": 11,
+                    "statement": "Decision required",
+                    "status": "Open",
+                    "title": "Decision Needed",
+                    "type": "decision",
+                    "weight": 1.15,
+                    "z": 12
+                  },
+                  {
+                    "detail": "Owner \u00b7 due date \u00b7 verification.",
+                    "element": "Project Card",
+                    "engine": "ProjectCompositeEngine",
+                    "groupId": null,
+                    "id": "c13",
+                    "locked": false,
+                    "order": 12,
+                    "statement": "Action item",
+                    "status": "Planned",
+                    "title": "Project Card",
+                    "type": "project",
+                    "weight": 1.15,
+                    "z": 13
+                  },
+                  {
+                    "element": "SPC Control Chart",
+                    "engine": "EngineeringChartEngine",
+                    "groupId": null,
+                    "id": "c14",
+                    "lcl": null,
+                    "locked": false,
+                    "lower_limit": null,
+                    "observations": [
+                      {
+                        "label": "1",
+                        "value": null
+                      }
+                    ],
+                    "order": 13,
+                    "role": "measurement",
+                    "title": "SPC Control Chart",
+                    "type": "engineering",
+                    "ucl": null,
+                    "upper_limit": null,
+                    "weight": 1.5,
+                    "z": 14
+                  },
+                  {
+                    "chamber": "",
+                    "element": "Wafer Map",
+                    "engine": "WaferFabEngine",
+                    "groupId": null,
+                    "id": "c15",
+                    "locked": false,
+                    "lot": "",
+                    "observations": [],
+                    "order": 14,
+                    "route": "",
+                    "title": "Wafer Map",
+                    "tool": "",
+                    "type": "wafer",
+                    "weight": 1.5,
+                    "z": 15
+                  },
+                  {
+                    "behavior": "select \u2192 filter \u2192 inspect",
+                    "element": "Cross-filter",
+                    "engine": "InteractionLayer",
+                    "groupId": null,
+                    "id": "c16",
+                    "locked": false,
+                    "order": 15,
+                    "title": "Cross-filter",
+                    "type": "interaction",
+                    "weight": 1,
+                    "z": 16
+                  },
+                  {
+                    "configuration": "Editor-only infrastructure",
+                    "element": "Right Inspector",
+                    "engine": "EditorInfrastructure",
+                    "groupId": null,
+                    "id": "c17",
+                    "locked": false,
+                    "order": 16,
+                    "title": "Right Inspector",
+                    "type": "editor",
+                    "weight": 1,
+                    "z": 17
+                  }
+                ],
+                "layoutPreset": "editorial",
+                "mode": "smart",
+                "nextId": 18,
+                "schema_version": 1
+              },
+              "report_id": "r12-browser"
+            },
+            "type": "report.commit"
+          },
+          {
+            "bridge_version": 1,
+            "payload": {
+              "base_revision": 20,
+              "commit_id": "cmd-21-xzkmly89",
+              "fingerprint": null,
+              "model": {
+                "crossFilter": null,
+                "groups": {},
+                "items": [
+                  {
+                    "configuration": "14px governed composition",
+                    "element": "Smart Canvas",
+                    "engine": "SmartLayoutEngine",
+                    "groupId": null,
+                    "id": "c1",
+                    "locked": false,
+                    "order": 0,
+                    "title": "Smart Canvas",
+                    "type": "layout",
+                    "weight": 1,
+                    "z": 1
+                  },
+                  {
+                    "body": "Write report narrative here.",
+                    "element": "Hero Title",
+                    "engine": "TextEngine",
+                    "groupId": null,
+                    "id": "c2",
+                    "locked": false,
+                    "order": 1,
+                    "text": "Write report narrative here.",
+                    "title": "Hero Title",
+                    "type": "text",
+                    "weight": 1.1,
+                    "z": 2
+                  },
+                  {
+                    "delta": null,
+                    "detail": false,
+                    "element": "Hero KPI",
+                    "engine": "MetricEngine",
+                    "groupId": null,
+                    "id": "c3",
+                    "locked": false,
+                    "order": 2,
+                    "target": null,
+                    "title": "Hero KPI",
+                    "type": "metric",
+                    "unit": "",
+                    "value": null,
+                    "weight": 1.15,
+                    "z": 3
+                  },
+                  {
+                    "after": null,
+                    "before": null,
+                    "element": "Before/After KPI",
+                    "engine": "ComparisonEngine",
+                    "groupId": null,
+                    "id": "c4",
+                    "locked": false,
+                    "order": 3,
+                    "title": "Before/After KPI",
+                    "type": "comparison",
+                    "unit": "",
+                    "weight": 1.15,
+                    "z": 4
+                  },
+                  {
+                    "brush": [
+                      0,
+                      2
+                    ],
+                    "cross": null,
+                    "data": [
+                      [
+                        "A",
+                        0
+                      ],
+                      [
+                        "B",
+                        null
+                      ],
+                      [
+                        "C, quoted",
+                        12
+                      ]
+                    ],
+                    "drill": null,
+                    "element": "Line Chart",
+                    "engine": "CoreChartEngine",
+                    "groupId": null,
+                    "id": "c5",
+                    "locked": false,
+                    "order": 4,
+                    "revealed": true,
+                    "rows": [
+                      {
+                        "label": "A",
+                        "value": 0
+                      },
+                      {
+                        "label": "B",
+                        "value": null
+                      },
+                      {
+                        "label": "C, quoted",
+                        "value": 12
+                      }
+                    ],
+                    "title": "Line Chart",
+                    "type": "chart",
+                    "variant": "line",
+                    "weight": 1.8,
+                    "z": 5
+                  },
+                  {
+                    "customTable": {
+                      "headers": [
+                        "Field",
+                        "Value"
+                      ],
+                      "rows": [
+                        [
+                          "",
+                          null
+                        ]
+                      ]
+                    },
+                    "element": "Clean Table",
+                    "engine": "TableEngine",
+                    "groupId": null,
+                    "id": "c6",
+                    "locked": false,
+                    "order": 5,
+                    "rows": [
+                      [
+                        "",
+                        null
+                      ]
+                    ],
+                    "title": "Clean Table",
+                    "type": "table",
+                    "weight": 1.55,
+                    "z": 6
+                  },
+                  {
+                    "element": "Decision Matrix",
+                    "engine": "MatrixEngine",
+                    "groupId": null,
+                    "id": "c7",
+                    "locked": false,
+                    "matrix": [
+                      [
+                        null,
+                        null
+                      ],
+                      [
+                        null,
+                        null
+                      ]
+                    ],
+                    "order": 6,
+                    "title": "Decision Matrix",
+                    "type": "matrix",
+                    "weight": 1.35,
+                    "z": 7
+                  },
+                  {
+                    "element": "Event Timeline",
+                    "engine": "TimelineEngine",
+                    "groupId": null,
+                    "id": "c8",
+                    "locked": false,
+                    "milestones": [
+                      {
+                        "date": null,
+                        "label": "Collect"
+                      },
+                      {
+                        "date": "2026-08-28",
+                        "label": "Analyze"
+                      },
+                      {
+                        "date": null,
+                        "label": "Decide"
+                      }
+                    ],
+                    "order": 7,
+                    "title": "Event Timeline",
+                    "tm": 0,
+                    "type": "timeline",
+                    "weight": 1.3,
+                    "z": 8
+                  },
+                  {
+                    "edges": [
+                      [
+                        "Source",
+                        "Process"
+                      ],
+                      [
+                        "Process",
+                        "Outcome"
+                      ]
+                    ],
+                    "element": "Process Flow",
+                    "engine": "DiagramEngine",
+                    "groupId": null,
+                    "id": "c9",
+                    "locked": false,
+                    "nodes": [
+                      "Source",
+                      "Process",
+                      "Outcome"
+                    ],
+                    "order": 8,
+                    "title": "Process Flow",
+                    "type": "diagram",
+                    "weight": 1.5,
+                    "z": 9
+                  },
+                  {
+                    "alt": "",
+                    "caption": "",
+                    "element": "Image",
+                    "engine": "ImageMediaEngine",
+                    "focal": "50% 50%",
+                    "groupId": null,
+                    "id": "c10",
+                    "locked": false,
+                    "order": 9,
+                    "src": "",
+                    "title": "Image",
+                    "type": "image",
+                    "weight": 1.25,
+                    "z": 10
+                  },
+                  {
+                    "detail": "Add source, observation, and confidence.",
+                    "element": "Evidence Card",
+                    "engine": "EvidenceCompositeEngine",
+                    "groupId": null,
+                    "id": "c11",
+                    "locked": false,
+                    "order": 10,
+                    "statement": "Evidence item",
+                    "status": "Observed",
+                    "title": "Evidence Card",
+                    "type": "evidence",
+                    "weight": 1.15,
+                    "z": 11
+                  },
+                  {
+                    "detail": "Describe recommendation and trade-offs.",
+                    "element": "Decision Needed",
+                    "engine": "DecisionCompositeEngine",
+                    "groupId": null,
+                    "id": "c12",
+                    "locked": false,
+                    "order": 11,
+                    "statement": "Decision required",
+                    "status": "Open",
+                    "title": "Decision Needed",
+                    "type": "decision",
+                    "weight": 1.15,
+                    "z": 12
+                  },
+                  {
+                    "detail": "Owner \u00b7 due date \u00b7 verification.",
+                    "element": "Project Card",
+                    "engine": "ProjectCompositeEngine",
+                    "groupId": null,
+                    "id": "c13",
+                    "locked": false,
+                    "order": 12,
+                    "statement": "Action item",
+                    "status": "Planned",
+                    "title": "Project Card",
+                    "type": "project",
+                    "weight": 1.15,
+                    "z": 13
+                  },
+                  {
+                    "element": "SPC Control Chart",
+                    "engine": "EngineeringChartEngine",
+                    "groupId": null,
+                    "id": "c14",
+                    "lcl": null,
+                    "locked": false,
+                    "lower_limit": null,
+                    "observations": [
+                      {
+                        "label": "1",
+                        "value": null
+                      }
+                    ],
+                    "order": 13,
+                    "role": "measurement",
+                    "title": "SPC Control Chart",
+                    "type": "engineering",
+                    "ucl": null,
+                    "upper_limit": null,
+                    "weight": 1.5,
+                    "z": 14
+                  },
+                  {
+                    "chamber": "",
+                    "element": "Wafer Map",
+                    "engine": "WaferFabEngine",
+                    "groupId": null,
+                    "id": "c15",
+                    "locked": false,
+                    "lot": "",
+                    "observations": [],
+                    "order": 14,
+                    "route": "",
+                    "title": "Wafer Map",
+                    "tool": "",
+                    "type": "wafer",
+                    "weight": 1.5,
+                    "z": 15
+                  },
+                  {
+                    "behavior": "select \u2192 filter \u2192 inspect",
+                    "element": "Cross-filter",
+                    "engine": "InteractionLayer",
+                    "groupId": null,
+                    "id": "c16",
+                    "locked": false,
+                    "order": 15,
+                    "title": "Cross-filter",
+                    "type": "interaction",
+                    "weight": 1,
+                    "z": 16
+                  },
+                  {
+                    "configuration": "Editor-only infrastructure",
+                    "element": "Right Inspector",
+                    "engine": "EditorInfrastructure",
+                    "groupId": null,
+                    "id": "c17",
+                    "locked": false,
+                    "order": 16,
+                    "title": "Right Inspector",
+                    "type": "editor",
+                    "weight": 1,
+                    "z": 17
+                  }
+                ],
+                "layoutPreset": "editorial",
+                "mode": "smart",
+                "nextId": 18,
+                "schema_version": 1
+              },
+              "report_id": "r12-browser"
+            },
+            "type": "report.commit"
+          },
+          {
+            "bridge_version": 1,
+            "payload": {
+              "base_revision": 22,
+              "commit_id": "cmd-23-6i5c0eat",
+              "fingerprint": null,
+              "model": {
+                "crossFilter": null,
+                "groups": {},
+                "items": [
+                  {
+                    "configuration": "14px governed composition",
+                    "element": "Smart Canvas",
+                    "engine": "SmartLayoutEngine",
+                    "groupId": null,
+                    "id": "c1",
+                    "locked": false,
+                    "order": 0,
+                    "title": "Smart Canvas",
+                    "type": "layout",
+                    "weight": 1,
+                    "z": 1
+                  },
+                  {
+                    "body": "Write report narrative here.",
+                    "element": "Hero Title",
+                    "engine": "TextEngine",
+                    "groupId": null,
+                    "id": "c2",
+                    "locked": false,
+                    "order": 1,
+                    "text": "Write report narrative here.",
+                    "title": "Hero Title",
+                    "type": "text",
+                    "weight": 1.1,
+                    "z": 2
+                  },
+                  {
+                    "delta": null,
+                    "detail": false,
+                    "element": "Hero KPI",
+                    "engine": "MetricEngine",
+                    "groupId": null,
+                    "id": "c3",
+                    "locked": false,
+                    "order": 2,
+                    "target": null,
+                    "title": "Hero KPI",
+                    "type": "metric",
+                    "unit": "",
+                    "value": null,
+                    "weight": 1.15,
+                    "z": 3
+                  },
+                  {
+                    "after": null,
+                    "before": null,
+                    "element": "Before/After KPI",
+                    "engine": "ComparisonEngine",
+                    "groupId": null,
+                    "id": "c4",
+                    "locked": false,
+                    "order": 3,
+                    "title": "Before/After KPI",
+                    "type": "comparison",
+                    "unit": "",
+                    "weight": 1.15,
+                    "z": 4
+                  },
+                  {
+                    "brush": [
+                      0,
+                      2
+                    ],
+                    "cross": null,
+                    "data": [
+                      [
+                        "A",
+                        0
+                      ],
+                      [
+                        "B",
+                        null
+                      ],
+                      [
+                        "C, quoted",
+                        12
+                      ]
+                    ],
+                    "drill": null,
+                    "element": "Line Chart",
+                    "engine": "CoreChartEngine",
+                    "groupId": null,
+                    "id": "c5",
+                    "locked": false,
+                    "order": 4,
+                    "revealed": true,
+                    "rows": [
+                      {
+                        "label": "A",
+                        "value": 0
+                      },
+                      {
+                        "label": "B",
+                        "value": null
+                      },
+                      {
+                        "label": "C, quoted",
+                        "value": 12
+                      }
+                    ],
+                    "title": "Line Chart",
+                    "type": "chart",
+                    "variant": "line",
+                    "weight": 1.8,
+                    "z": 5
+                  },
+                  {
+                    "customTable": {
+                      "headers": [
+                        "Field",
+                        "Value"
+                      ],
+                      "rows": [
+                        [
+                          "",
+                          null
+                        ]
+                      ]
+                    },
+                    "element": "Clean Table",
+                    "engine": "TableEngine",
+                    "groupId": null,
+                    "id": "c6",
+                    "locked": false,
+                    "order": 5,
+                    "rows": [
+                      [
+                        "",
+                        null
+                      ]
+                    ],
+                    "title": "Clean Table",
+                    "type": "table",
+                    "weight": 1.55,
+                    "z": 6
+                  },
+                  {
+                    "element": "Decision Matrix",
+                    "engine": "MatrixEngine",
+                    "groupId": null,
+                    "id": "c7",
+                    "locked": false,
+                    "matrix": [
+                      [
+                        null,
+                        null
+                      ],
+                      [
+                        null,
+                        null
+                      ]
+                    ],
+                    "order": 6,
+                    "title": "Decision Matrix",
+                    "type": "matrix",
+                    "weight": 1.35,
+                    "z": 7
+                  },
+                  {
+                    "element": "Event Timeline",
+                    "engine": "TimelineEngine",
+                    "groupId": null,
+                    "id": "c8",
+                    "locked": false,
+                    "milestones": [
+                      {
+                        "date": null,
+                        "label": "Collect"
+                      },
+                      {
+                        "date": "2026-08-28",
+                        "label": "Analyze"
+                      },
+                      {
+                        "date": null,
+                        "label": "Decide"
+                      }
+                    ],
+                    "order": 7,
+                    "title": "Event Timeline",
+                    "tm": 0,
+                    "type": "timeline",
+                    "weight": 1.3,
+                    "z": 8
+                  },
+                  {
+                    "edges": [
+                      [
+                        "Source",
+                        "Process"
+                      ],
+                      [
+                        "Process",
+                        "Outcome"
+                      ]
+                    ],
+                    "element": "Process Flow",
+                    "engine": "DiagramEngine",
+                    "groupId": null,
+                    "id": "c9",
+                    "locked": false,
+                    "nodes": [
+                      "Source",
+                      "Process",
+                      "Outcome"
+                    ],
+                    "order": 8,
+                    "title": "Process Flow",
+                    "type": "diagram",
+                    "weight": 1.5,
+                    "z": 9
+                  },
+                  {
+                    "alt": "",
+                    "caption": "",
+                    "element": "Image",
+                    "engine": "ImageMediaEngine",
+                    "focal": "50% 50%",
+                    "groupId": null,
+                    "id": "c10",
+                    "locked": false,
+                    "order": 9,
+                    "src": "data:image/png;base64,iVBORw0KGgo=",
+                    "title": "Image",
+                    "type": "image",
+                    "weight": 1.25,
+                    "z": 10
+                  },
+                  {
+                    "detail": "Add source, observation, and confidence.",
+                    "element": "Evidence Card",
+                    "engine": "EvidenceCompositeEngine",
+                    "groupId": null,
+                    "id": "c11",
+                    "locked": false,
+                    "order": 10,
+                    "statement": "Evidence item",
+                    "status": "Observed",
+                    "title": "Evidence Card",
+                    "type": "evidence",
+                    "weight": 1.15,
+                    "z": 11
+                  },
+                  {
+                    "detail": "Describe recommendation and trade-offs.",
+                    "element": "Decision Needed",
+                    "engine": "DecisionCompositeEngine",
+                    "groupId": null,
+                    "id": "c12",
+                    "locked": false,
+                    "order": 11,
+                    "statement": "Decision required",
+                    "status": "Open",
+                    "title": "Decision Needed",
+                    "type": "decision",
+                    "weight": 1.15,
+                    "z": 12
+                  },
+                  {
+                    "detail": "Owner \u00b7 due date \u00b7 verification.",
+                    "element": "Project Card",
+                    "engine": "ProjectCompositeEngine",
+                    "groupId": null,
+                    "id": "c13",
+                    "locked": false,
+                    "order": 12,
+                    "statement": "Action item",
+                    "status": "Planned",
+                    "title": "Project Card",
+                    "type": "project",
+                    "weight": 1.15,
+                    "z": 13
+                  },
+                  {
+                    "element": "SPC Control Chart",
+                    "engine": "EngineeringChartEngine",
+                    "groupId": null,
+                    "id": "c14",
+                    "lcl": null,
+                    "locked": false,
+                    "lower_limit": null,
+                    "observations": [
+                      {
+                        "label": "1",
+                        "value": null
+                      }
+                    ],
+                    "order": 13,
+                    "role": "measurement",
+                    "title": "SPC Control Chart",
+                    "type": "engineering",
+                    "ucl": null,
+                    "upper_limit": null,
+                    "weight": 1.5,
+                    "z": 14
+                  },
+                  {
+                    "chamber": "",
+                    "element": "Wafer Map",
+                    "engine": "WaferFabEngine",
+                    "groupId": null,
+                    "id": "c15",
+                    "locked": false,
+                    "lot": "",
+                    "observations": [],
+                    "order": 14,
+                    "route": "",
+                    "title": "Wafer Map",
+                    "tool": "",
+                    "type": "wafer",
+                    "weight": 1.5,
+                    "z": 15
+                  },
+                  {
+                    "behavior": "select \u2192 filter \u2192 inspect",
+                    "element": "Cross-filter",
+                    "engine": "InteractionLayer",
+                    "groupId": null,
+                    "id": "c16",
+                    "locked": false,
+                    "order": 15,
+                    "title": "Cross-filter",
+                    "type": "interaction",
+                    "weight": 1,
+                    "z": 16
+                  },
+                  {
+                    "configuration": "Editor-only infrastructure",
+                    "element": "Right Inspector",
+                    "engine": "EditorInfrastructure",
+                    "groupId": null,
+                    "id": "c17",
+                    "locked": false,
+                    "order": 16,
+                    "title": "Right Inspector",
+                    "type": "editor",
+                    "weight": 1,
+                    "z": 17
+                  }
+                ],
+                "layoutPreset": "editorial",
+                "mode": "smart",
+                "nextId": 18,
+                "schema_version": 1
+              },
+              "report_id": "r12-browser"
+            },
+            "type": "report.commit"
+          },
+          {
+            "bridge_version": 1,
+            "payload": {
+              "presets": [
+                {
+                  "id": "preset-23-mtdqr23a-6jq2i6f",
+                  "model": {
+                    "crossFilter": null,
+                    "groups": {},
+                    "items": [
+                      {
+                        "configuration": "14px governed composition",
+                        "element": "Smart Canvas",
+                        "engine": "SmartLayoutEngine",
+                        "groupId": null,
+                        "id": "c1",
+                        "locked": false,
+                        "order": 0,
+                        "title": "Smart Canvas",
+                        "type": "layout",
+                        "weight": 1,
+                        "z": 1
+                      },
+                      {
+                        "body": "Write report narrative here.",
+                        "element": "Hero Title",
+                        "engine": "TextEngine",
+                        "groupId": null,
+                        "id": "c2",
+                        "locked": false,
+                        "order": 1,
+                        "text": "Write report narrative here.",
+                        "title": "Hero Title",
+                        "type": "text",
+                        "weight": 1.1,
+                        "z": 2
+                      },
+                      {
+                        "delta": null,
+                        "detail": false,
+                        "element": "Hero KPI",
+                        "engine": "MetricEngine",
+                        "groupId": null,
+                        "id": "c3",
+                        "locked": false,
+                        "order": 2,
+                        "target": null,
+                        "title": "Hero KPI",
+                        "type": "metric",
+                        "unit": "",
+                        "value": null,
+                        "weight": 1.15,
+                        "z": 3
+                      },
+                      {
+                        "after": null,
+                        "before": null,
+                        "element": "Before/After KPI",
+                        "engine": "ComparisonEngine",
+                        "groupId": null,
+                        "id": "c4",
+                        "locked": false,
+                        "order": 3,
+                        "title": "Before/After KPI",
+                        "type": "comparison",
+                        "unit": "",
+                        "weight": 1.15,
+                        "z": 4
+                      },
+                      {
+                        "brush": [
+                          0,
+                          2
+                        ],
+                        "cross": null,
+                        "data": [
+                          [
+                            "A",
+                            0
+                          ],
+                          [
+                            "B",
+                            null
+                          ],
+                          [
+                            "C, quoted",
+                            12
+                          ]
+                        ],
+                        "drill": null,
+                        "element": "Line Chart",
+                        "engine": "CoreChartEngine",
+                        "groupId": null,
+                        "id": "c5",
+                        "locked": false,
+                        "order": 4,
+                        "revealed": true,
+                        "rows": [
+                          {
+                            "label": "A",
+                            "value": 0
+                          },
+                          {
+                            "label": "B",
+                            "value": null
+                          },
+                          {
+                            "label": "C, quoted",
+                            "value": 12
+                          }
+                        ],
+                        "title": "Line Chart",
+                        "type": "chart",
+                        "variant": "line",
+                        "weight": 1.8,
+                        "z": 5
+                      },
+                      {
+                        "customTable": {
+                          "headers": [
+                            "Field",
+                            "Value"
+                          ],
+                          "rows": [
+                            [
+                              "",
+                              null
+                            ]
+                          ]
+                        },
+                        "element": "Clean Table",
+                        "engine": "TableEngine",
+                        "groupId": null,
+                        "id": "c6",
+                        "locked": false,
+                        "order": 5,
+                        "rows": [
+                          [
+                            "",
+                            null
+                          ]
+                        ],
+                        "title": "Clean Table",
+                        "type": "table",
+                        "weight": 1.55,
+                        "z": 6
+                      },
+                      {
+                        "element": "Decision Matrix",
+                        "engine": "MatrixEngine",
+                        "groupId": null,
+                        "id": "c7",
+                        "locked": false,
+                        "matrix": [
+                          [
+                            null,
+                            null
+                          ],
+                          [
+                            null,
+                            null
+                          ]
+                        ],
+                        "order": 6,
+                        "title": "Decision Matrix",
+                        "type": "matrix",
+                        "weight": 1.35,
+                        "z": 7
+                      },
+                      {
+                        "element": "Event Timeline",
+                        "engine": "TimelineEngine",
+                        "groupId": null,
+                        "id": "c8",
+                        "locked": false,
+                        "milestones": [
+                          {
+                            "date": null,
+                            "label": "Collect"
+                          },
+                          {
+                            "date": "2026-08-28",
+                            "label": "Analyze"
+                          },
+                          {
+                            "date": null,
+                            "label": "Decide"
+                          }
+                        ],
+                        "order": 7,
+                        "title": "Event Timeline",
+                        "tm": 0,
+                        "type": "timeline",
+                        "weight": 1.3,
+                        "z": 8
+                      },
+                      {
+                        "edges": [
+                          [
+                            "Source",
+                            "Process"
+                          ],
+                          [
+                            "Process",
+                            "Outcome"
+                          ]
+                        ],
+                        "element": "Process Flow",
+                        "engine": "DiagramEngine",
+                        "groupId": null,
+                        "id": "c9",
+                        "locked": false,
+                        "nodes": [
+                          "Source",
+                          "Process",
+                          "Outcome"
+                        ],
+                        "order": 8,
+                        "title": "Process Flow",
+                        "type": "diagram",
+                        "weight": 1.5,
+                        "z": 9
+                      },
+                      {
+                        "alt": "",
+                        "caption": "",
+                        "element": "Image",
+                        "engine": "ImageMediaEngine",
+                        "focal": "50% 50%",
+                        "groupId": null,
+                        "id": "c10",
+                        "locked": false,
+                        "order": 9,
+                        "src": "data:image/png;base64,iVBORw0KGgo=",
+                        "title": "Image",
+                        "type": "image",
+                        "weight": 1.25,
+                        "z": 10
+                      },
+                      {
+                        "detail": "Add source, observation, and confidence.",
+                        "element": "Evidence Card",
+                        "engine": "EvidenceCompositeEngine",
+                        "groupId": null,
+                        "id": "c11",
+                        "locked": false,
+                        "order": 10,
+                        "statement": "Evidence item",
+                        "status": "Observed",
+                        "title": "Evidence Card",
+                        "type": "evidence",
+                        "weight": 1.15,
+                        "z": 11
+                      },
+                      {
+                        "detail": "Describe recommendation and trade-offs.",
+                        "element": "Decision Needed",
+                        "engine": "DecisionCompositeEngine",
+                        "groupId": null,
+                        "id": "c12",
+                        "locked": false,
+                        "order": 11,
+                        "statement": "Decision required",
+                        "status": "Open",
+                        "title": "Decision Needed",
+                        "type": "decision",
+                        "weight": 1.15,
+                        "z": 12
+                      },
+                      {
+                        "detail": "Owner \u00b7 due date \u00b7 verification.",
+                        "element": "Project Card",
+                        "engine": "ProjectCompositeEngine",
+                        "groupId": null,
+                        "id": "c13",
+                        "locked": false,
+                        "order": 12,
+                        "statement": "Action item",
+                        "status": "Planned",
+                        "title": "Project Card",
+                        "type": "project",
+                        "weight": 1.15,
+                        "z": 13
+                      },
+                      {
+                        "element": "SPC Control Chart",
+                        "engine": "EngineeringChartEngine",
+                        "groupId": null,
+                        "id": "c14",
+                        "lcl": null,
+                        "locked": false,
+                        "lower_limit": null,
+                        "observations": [
+                          {
+                            "label": "1",
+                            "value": null
+                          }
+                        ],
+                        "order": 13,
+                        "role": "measurement",
+                        "title": "SPC Control Chart",
+                        "type": "engineering",
+                        "ucl": null,
+                        "upper_limit": null,
+                        "weight": 1.5,
+                        "z": 14
+                      },
+                      {
+                        "chamber": "",
+                        "element": "Wafer Map",
+                        "engine": "WaferFabEngine",
+                        "groupId": null,
+                        "id": "c15",
+                        "locked": false,
+                        "lot": "",
+                        "observations": [],
+                        "order": 14,
+                        "route": "",
+                        "title": "Wafer Map",
+                        "tool": "",
+                        "type": "wafer",
+                        "weight": 1.5,
+                        "z": 15
+                      },
+                      {
+                        "behavior": "select \u2192 filter \u2192 inspect",
+                        "element": "Cross-filter",
+                        "engine": "InteractionLayer",
+                        "groupId": null,
+                        "id": "c16",
+                        "locked": false,
+                        "order": 15,
+                        "title": "Cross-filter",
+                        "type": "interaction",
+                        "weight": 1,
+                        "z": 16
+                      },
+                      {
+                        "configuration": "Editor-only infrastructure",
+                        "element": "Right Inspector",
+                        "engine": "EditorInfrastructure",
+                        "groupId": null,
+                        "id": "c17",
+                        "locked": false,
+                        "order": 16,
+                        "title": "Right Inspector",
+                        "type": "editor",
+                        "weight": 1,
+                        "z": 17
+                      }
+                    ],
+                    "layoutPreset": "editorial",
+                    "mode": "smart",
+                    "nextId": 18,
+                    "schema_version": 1
+                  },
+                  "name": "Personal A"
+                }
+              ]
+            },
+            "type": "preset.preferences_save_requested"
+          }
+        ],
+        "text": "Personal preset\nApply\nUpdate\nDuplicate\nDelete"
+      },
+      "pass": true
+    },
+    "preset.update": {
+      "detail": null,
+      "pass": true
+    },
+    "preview.root_scoped": {
+      "detail": null,
+      "pass": true
+    },
+    "ready.blank": {
+      "detail": {
+        "editor_ready": true,
+        "model": {
+          "crossFilter": null,
+          "groups": {},
+          "items": [],
+          "layoutPreset": "editorial",
+          "mode": "smart",
+          "nextId": 1,
+          "schema_version": 1
+        },
+        "pending": 0,
+        "report_id": "r12-browser",
+        "revision": 1
+      },
+      "pass": true
+    },
+    "timeline.null_dates": {
+      "detail": [
+        {
+          "date": null,
+          "label": "Collect"
+        },
+        {
+          "date": "2026-08-28",
+          "label": "Analyze"
+        },
+        {
+          "date": null,
+          "label": "Decide"
+        }
+      ],
+      "pass": true
+    },
+    "typed.zero_missing_quoted": {
+      "detail": [
+        [
+          "A",
+          0
+        ],
+        [
+          "B",
+          null
+        ],
+        [
+          "C, quoted",
+          12
+        ]
+      ],
+      "pass": true
+    }
+  },
+  "console_errors": [],
+  "page_errors": [],
+  "pass": true
+}

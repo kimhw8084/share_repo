@@ -1,0 +1,1750 @@
+{
+  "console_errors": [],
+  "duplicate_shapes": [],
+  "elements": {
+    "100% Stacked Bar": {
+      "engine": "CoreChartEngine",
+      "pass": true,
+      "shape": "76417256ad96118d",
+      "text_length": 31,
+      "variant": "100-stacked-bar"
+    },
+    "AI / Model Node": {
+      "engine": "DiagramEngine",
+      "pass": true,
+      "shape": "4c35aadedbb0d535",
+      "text_length": 57,
+      "variant": "ai-model-node"
+    },
+    "Accomplishment List": {
+      "engine": "ProjectCompositeEngine",
+      "pass": true,
+      "shape": "630dbc5aef66fcd3",
+      "text_length": 98,
+      "variant": "accomplishment-list"
+    },
+    "Accordion Detail": {
+      "engine": "SmartLayoutEngine",
+      "pass": true,
+      "shape": "b9bc1b5094974e20",
+      "text_length": 106,
+      "variant": "accordion-detail"
+    },
+    "Action Tracker": {
+      "engine": "TableEngine",
+      "pass": true,
+      "shape": "795fb7641ee91de5",
+      "text_length": 98,
+      "variant": "action-tracker"
+    },
+    "Adaptive Split": {
+      "engine": "SmartLayoutEngine",
+      "pass": true,
+      "shape": "f4184a6535ad48dd",
+      "text_length": 21,
+      "variant": "adaptive-split"
+    },
+    "Alarm Timeline": {
+      "engine": "WaferFabEngine",
+      "pass": true,
+      "shape": "f4f6ddf53485c139",
+      "text_length": 18,
+      "variant": "alarm-timeline"
+    },
+    "Align / Distribute": {
+      "engine": "EditorInfrastructure",
+      "pass": true,
+      "shape": "9c23ba36837b8a66",
+      "text_length": 25,
+      "variant": "align-distribute"
+    },
+    "Animated Count-up": {
+      "engine": "InteractionLayer",
+      "pass": true,
+      "shape": "9109902f4a1d0b83",
+      "text_length": 75,
+      "variant": "animated-count-up"
+    },
+    "Annotated Image": {
+      "engine": "ImageMediaEngine",
+      "pass": true,
+      "shape": "c4a16125e53b1738",
+      "text_length": 37,
+      "variant": "annotated-image"
+    },
+    "Annotation": {
+      "engine": "TextEngine",
+      "pass": true,
+      "shape": "ca37164381626766",
+      "text_length": 44,
+      "variant": "annotation"
+    },
+    "Architecture Canvas": {
+      "engine": "DiagramEngine",
+      "pass": true,
+      "shape": "b5be9e74a23a257e",
+      "text_length": 91,
+      "variant": "architecture-canvas"
+    },
+    "Area Chart": {
+      "engine": "CoreChartEngine",
+      "pass": true,
+      "shape": "a88f1c4175579edb",
+      "text_length": 25,
+      "variant": "area-chart"
+    },
+    "As-Is \u2192 To-Be": {
+      "engine": "ComparisonEngine",
+      "pass": true,
+      "shape": "eb1110a79180c26e",
+      "text_length": 53,
+      "variant": "as-is-to-be"
+    },
+    "Auto-layout": {
+      "engine": "EditorInfrastructure",
+      "pass": true,
+      "shape": "f3a386a423cd5e66",
+      "text_length": 24,
+      "variant": "auto-layout"
+    },
+    "Before/After Images": {
+      "engine": "ImageMediaEngine",
+      "pass": true,
+      "shape": "18bf51e0cf8c5060",
+      "text_length": 38,
+      "variant": "before-after-images"
+    },
+    "Before/After KPI": {
+      "engine": "ComparisonEngine",
+      "pass": true,
+      "shape": "98715f33260c1093",
+      "text_length": 48,
+      "variant": "before-after-kpi"
+    },
+    "Before/After Timeline": {
+      "engine": "TimelineEngine",
+      "pass": true,
+      "shape": "f55242c252a1433e",
+      "text_length": 54,
+      "variant": "before-after-timeline"
+    },
+    "Benchmark Matrix": {
+      "engine": "MatrixEngine",
+      "pass": true,
+      "shape": "9aea65edbd4c3d3d",
+      "text_length": 49,
+      "variant": "benchmark-matrix"
+    },
+    "Body Narrative": {
+      "engine": "TextEngine",
+      "pass": true,
+      "shape": "1e7a765658f241f3",
+      "text_length": 49,
+      "variant": "body-narrative"
+    },
+    "Box Plot": {
+      "engine": "CoreChartEngine",
+      "pass": true,
+      "shape": "f0113b4a73275ed7",
+      "text_length": 23,
+      "variant": "box-plot"
+    },
+    "Brush / Range Selector": {
+      "engine": "InteractionLayer",
+      "pass": true,
+      "shape": "f1d60317ff7bab4f",
+      "text_length": 57,
+      "variant": "brush-range-selector"
+    },
+    "Bubble Plot": {
+      "engine": "CoreChartEngine",
+      "pass": true,
+      "shape": "5e531c9abef7bf54",
+      "text_length": 26,
+      "variant": "bubble-plot"
+    },
+    "CUSUM Chart": {
+      "engine": "EngineeringChartEngine",
+      "pass": true,
+      "shape": "3a1e580c1c274ad1",
+      "text_length": 40,
+      "variant": "cusum-chart"
+    },
+    "Calendar Heatmap": {
+      "engine": "TimelineEngine",
+      "pass": true,
+      "shape": "57cc78ca3561b61d",
+      "text_length": 25,
+      "variant": "calendar-heatmap"
+    },
+    "Callout": {
+      "engine": "TextEngine",
+      "pass": true,
+      "shape": "edb4529c8a15d78b",
+      "text_length": 44,
+      "variant": "callout"
+    },
+    "Capability Shift": {
+      "engine": "ComparisonEngine",
+      "pass": true,
+      "shape": "bdbedb1c978f3e59",
+      "text_length": 55,
+      "variant": "capability-shift"
+    },
+    "Capacity Metric": {
+      "engine": "MetricEngine",
+      "pass": true,
+      "shape": "38f3ca459695c501",
+      "text_length": 43,
+      "variant": "capacity-metric"
+    },
+    "Causal Chain": {
+      "engine": "DiagramEngine",
+      "pass": true,
+      "shape": "1086700c7d1c162b",
+      "text_length": 48,
+      "variant": "causal-chain"
+    },
+    "Causal Chain Component": {
+      "engine": "EvidenceCompositeEngine",
+      "pass": true,
+      "shape": "55db4f5aa65af074",
+      "text_length": 59,
+      "variant": "causal-chain-component"
+    },
+    "Causal DAG": {
+      "engine": "DiagramEngine",
+      "pass": true,
+      "shape": "6177e4c85e237f16",
+      "text_length": 30,
+      "variant": "causal-dag"
+    },
+    "Change Since Last Period": {
+      "engine": "ProjectCompositeEngine",
+      "pass": true,
+      "shape": "2caae5eacd000e31",
+      "text_length": 124,
+      "variant": "change-since-last-period"
+    },
+    "Chart Reveal": {
+      "engine": "InteractionLayer",
+      "pass": true,
+      "shape": "d5e0ed07f6777e59",
+      "text_length": 52,
+      "variant": "chart-reveal"
+    },
+    "Chart Switcher": {
+      "engine": "EditorInfrastructure",
+      "pass": true,
+      "shape": "d6d1f0f3982c9f10",
+      "text_length": 38,
+      "variant": "chart-switcher"
+    },
+    "Clean Table": {
+      "engine": "TableEngine",
+      "pass": true,
+      "shape": "cf4c7e10f9512f35",
+      "text_length": 26,
+      "variant": "clean-table"
+    },
+    "Code / Technical Snippet": {
+      "engine": "TextEngine",
+      "pass": true,
+      "shape": "ad262ff15e9af7eb",
+      "text_length": 58,
+      "variant": "code-technical-snippet"
+    },
+    "Command Palette": {
+      "engine": "EditorInfrastructure",
+      "pass": true,
+      "shape": "7786abdf99efd984",
+      "text_length": 42,
+      "variant": "command-palette"
+    },
+    "Commonality Matrix": {
+      "engine": "MatrixEngine",
+      "pass": true,
+      "shape": "76456c7cafb3d42b",
+      "text_length": 45,
+      "variant": "commonality-matrix"
+    },
+    "Compact Metadata Line": {
+      "engine": "TextEngine",
+      "pass": true,
+      "shape": "6f65cfbd3aeca15c",
+      "text_length": 67,
+      "variant": "compact-metadata-line"
+    },
+    "Comparison Grid": {
+      "engine": "MatrixEngine",
+      "pass": true,
+      "shape": "32886ce6468a6878",
+      "text_length": 44,
+      "variant": "comparison-grid"
+    },
+    "Confidence Interval Plot": {
+      "engine": "EngineeringChartEngine",
+      "pass": true,
+      "shape": "d425b8349f93cf8c",
+      "text_length": 53,
+      "variant": "confidence-interval-plot"
+    },
+    "Confidence Metric": {
+      "engine": "MetricEngine",
+      "pass": true,
+      "shape": "585ac548ec0e8675",
+      "text_length": 113,
+      "variant": "confidence-metric"
+    },
+    "Constraint Panel": {
+      "engine": "DecisionCompositeEngine",
+      "pass": true,
+      "shape": "a42c4b0872055cb9",
+      "text_length": 86,
+      "variant": "constraint-panel"
+    },
+    "Container / Subsystem": {
+      "engine": "DiagramEngine",
+      "pass": true,
+      "shape": "2387682f47a68b2c",
+      "text_length": 79,
+      "variant": "container-subsystem"
+    },
+    "Containment Component": {
+      "engine": "EvidenceCompositeEngine",
+      "pass": true,
+      "shape": "9ec2e9a269837bff",
+      "text_length": 97,
+      "variant": "containment-component"
+    },
+    "Context Toolbar": {
+      "engine": "EditorInfrastructure",
+      "pass": true,
+      "shape": "abe91dbec89be70d",
+      "text_length": 46,
+      "variant": "context-toolbar"
+    },
+    "Contour Plot": {
+      "engine": "EngineeringChartEngine",
+      "pass": true,
+      "shape": "95cb5f11583e3108",
+      "text_length": 56,
+      "variant": "contour-plot"
+    },
+    "Contradiction Callout": {
+      "engine": "EvidenceCompositeEngine",
+      "pass": true,
+      "shape": "ea5b96e2b2d6c6da",
+      "text_length": 88,
+      "variant": "contradiction-callout"
+    },
+    "Contradiction Matrix": {
+      "engine": "MatrixEngine",
+      "pass": true,
+      "shape": "11f4a5e9dd080d22",
+      "text_length": 33,
+      "variant": "contradiction-matrix"
+    },
+    "Control vs Affected Distribution": {
+      "engine": "WaferFabEngine",
+      "pass": true,
+      "shape": "42468b62f78952f1",
+      "text_length": 36,
+      "variant": "control-vs-affected-distribution"
+    },
+    "Corrective Action Component": {
+      "engine": "EvidenceCompositeEngine",
+      "pass": true,
+      "shape": "49d7a3f7757c8e4e",
+      "text_length": 118,
+      "variant": "corrective-action-component"
+    },
+    "Correlation Matrix": {
+      "engine": "MatrixEngine",
+      "pass": true,
+      "shape": "d38beb393998b3f2",
+      "text_length": 25,
+      "variant": "correlation-matrix"
+    },
+    "Cost/Capacity Shift": {
+      "engine": "ComparisonEngine",
+      "pass": true,
+      "shape": "4d8617d7d5a128fb",
+      "text_length": 53,
+      "variant": "cost-capacity-shift"
+    },
+    "Cross-filter": {
+      "engine": "InteractionLayer",
+      "pass": true,
+      "shape": "64b1a1360b48bf90",
+      "text_length": 58,
+      "variant": "cross-filter"
+    },
+    "DOE Design Matrix": {
+      "engine": "MatrixEngine",
+      "pass": true,
+      "shape": "b5a70063ea2a06a6",
+      "text_length": 67,
+      "variant": "doe-design-matrix"
+    },
+    "DOE Interaction Plot": {
+      "engine": "EngineeringChartEngine",
+      "pass": true,
+      "shape": "7aab0a85c770d513",
+      "text_length": 49,
+      "variant": "doe-interaction-plot"
+    },
+    "DOE Main Effects": {
+      "engine": "EngineeringChartEngine",
+      "pass": true,
+      "shape": "a878aef7a8a963bf",
+      "text_length": 51,
+      "variant": "doe-main-effects"
+    },
+    "Data Flow": {
+      "engine": "DiagramEngine",
+      "pass": true,
+      "shape": "92b06657bce2f627",
+      "text_length": 44,
+      "variant": "data-flow"
+    },
+    "Decision Consequence": {
+      "engine": "DecisionCompositeEngine",
+      "pass": true,
+      "shape": "f422d704db338c75",
+      "text_length": 84,
+      "variant": "decision-consequence"
+    },
+    "Decision Matrix": {
+      "engine": "MatrixEngine",
+      "pass": true,
+      "shape": "5917bc3cf3c19804",
+      "text_length": 60,
+      "variant": "decision-matrix"
+    },
+    "Decision Needed": {
+      "engine": "DecisionCompositeEngine",
+      "pass": true,
+      "shape": "1bdcd2f19a3e15bb",
+      "text_length": 76,
+      "variant": "decision-needed"
+    },
+    "Decision Node": {
+      "engine": "DiagramEngine",
+      "pass": true,
+      "shape": "26a3afc7968fd60a",
+      "text_length": 53,
+      "variant": "decision-node"
+    },
+    "Decision Tree": {
+      "engine": "DiagramEngine",
+      "pass": true,
+      "shape": "d6b0c8c9274e0e15",
+      "text_length": 45,
+      "variant": "decision-tree"
+    },
+    "Definition Block": {
+      "engine": "TextEngine",
+      "pass": true,
+      "shape": "11cac10609e437dd",
+      "text_length": 67,
+      "variant": "definition-block"
+    },
+    "Dense Table": {
+      "engine": "TableEngine",
+      "pass": true,
+      "shape": "7922efd2a5df173a",
+      "text_length": 34,
+      "variant": "dense-table"
+    },
+    "Dependency Graph": {
+      "engine": "DiagramEngine",
+      "pass": true,
+      "shape": "221c9eb738c6b51e",
+      "text_length": 38,
+      "variant": "dependency-graph"
+    },
+    "Dependency Roadmap": {
+      "engine": "TimelineEngine",
+      "pass": true,
+      "shape": "41d25e0f57b921ac",
+      "text_length": 41,
+      "variant": "dependency-roadmap"
+    },
+    "Donut": {
+      "engine": "CoreChartEngine",
+      "pass": true,
+      "shape": "a241cd6eb27d84c2",
+      "text_length": 20,
+      "variant": "donut"
+    },
+    "Drill-down": {
+      "engine": "InteractionLayer",
+      "pass": true,
+      "shape": "226229337e236082",
+      "text_length": 92,
+      "variant": "drill-down"
+    },
+    "Drop Zones": {
+      "engine": "EditorInfrastructure",
+      "pass": true,
+      "shape": "a2b26f45a7802820",
+      "text_length": 57,
+      "variant": "drop-zones"
+    },
+    "Dumbbell": {
+      "engine": "CoreChartEngine",
+      "pass": true,
+      "shape": "4ba55903093c3106",
+      "text_length": 23,
+      "variant": "dumbbell"
+    },
+    "ECDF": {
+      "engine": "CoreChartEngine",
+      "pass": true,
+      "shape": "ce5ba3f25a818047",
+      "text_length": 19,
+      "variant": "ecdf"
+    },
+    "EWMA Chart": {
+      "engine": "EngineeringChartEngine",
+      "pass": true,
+      "shape": "b0bab84300523fea",
+      "text_length": 39,
+      "variant": "ewma-chart"
+    },
+    "Error-Bar Chart": {
+      "engine": "EngineeringChartEngine",
+      "pass": true,
+      "shape": "1ee4a479c8784ae3",
+      "text_length": 44,
+      "variant": "error-bar-chart"
+    },
+    "Event Node": {
+      "engine": "DiagramEngine",
+      "pass": true,
+      "shape": "b626d881a0461149",
+      "text_length": 47,
+      "variant": "event-node"
+    },
+    "Event Timeline": {
+      "engine": "TimelineEngine",
+      "pass": true,
+      "shape": "6aea494c01182495",
+      "text_length": 53,
+      "variant": "event-timeline"
+    },
+    "Evidence Card": {
+      "engine": "EvidenceCompositeEngine",
+      "pass": true,
+      "shape": "8c1d67603a02ad5f",
+      "text_length": 95,
+      "variant": "evidence-card"
+    },
+    "Evidence Graph": {
+      "engine": "DiagramEngine",
+      "pass": true,
+      "shape": "b1e510828b8c1184",
+      "text_length": 72,
+      "variant": "evidence-graph"
+    },
+    "Evidence Log": {
+      "engine": "TableEngine",
+      "pass": true,
+      "shape": "d3c7fbe0b5c3f75e",
+      "text_length": 95,
+      "variant": "evidence-log"
+    },
+    "Evidence Matrix": {
+      "engine": "MatrixEngine",
+      "pass": true,
+      "shape": "e6084f32915908bd",
+      "text_length": 73,
+      "variant": "evidence-matrix"
+    },
+    "Evidence Node": {
+      "engine": "DiagramEngine",
+      "pass": true,
+      "shape": "10268451187a5b2c",
+      "text_length": 53,
+      "variant": "evidence-node"
+    },
+    "Evidence Polarity Grid": {
+      "engine": "EvidenceCompositeEngine",
+      "pass": true,
+      "shape": "5ac2ae3bff8624cb",
+      "text_length": 56,
+      "variant": "evidence-polarity-grid"
+    },
+    "Evidence Stack": {
+      "engine": "EvidenceCompositeEngine",
+      "pass": true,
+      "shape": "553c4b35df356074",
+      "text_length": 65,
+      "variant": "evidence-stack"
+    },
+    "Executive Statement": {
+      "engine": "TextEngine",
+      "pass": true,
+      "shape": "b1240bb37100577d",
+      "text_length": 53,
+      "variant": "executive-statement"
+    },
+    "Expandable Detail": {
+      "engine": "InteractionLayer",
+      "pass": true,
+      "shape": "5272bda096ebf72a",
+      "text_length": 96,
+      "variant": "expandable-detail"
+    },
+    "External System Node": {
+      "engine": "DiagramEngine",
+      "pass": true,
+      "shape": "e1c6ab725d11bbf9",
+      "text_length": 67,
+      "variant": "external-system-node"
+    },
+    "Eyebrow / Kicker": {
+      "engine": "TextEngine",
+      "pass": true,
+      "shape": "3d2245d46e777f45",
+      "text_length": 50,
+      "variant": "eyebrow-kicker"
+    },
+    "Fishbone": {
+      "engine": "DiagramEngine",
+      "pass": true,
+      "shape": "e52564c1273e3b79",
+      "text_length": 74,
+      "variant": "fishbone"
+    },
+    "Floating Inspector Surface": {
+      "engine": "SmartLayoutEngine",
+      "pass": true,
+      "shape": "fbab2fbcb050dbbe",
+      "text_length": 33,
+      "variant": "floating-inspector-surface"
+    },
+    "Flowchart": {
+      "engine": "DiagramEngine",
+      "pass": true,
+      "shape": "694ca65ce2fa8850",
+      "text_length": 42,
+      "variant": "flowchart"
+    },
+    "Footnote / Source": {
+      "engine": "TextEngine",
+      "pass": true,
+      "shape": "e01ff021217d2ef9",
+      "text_length": 58,
+      "variant": "footnote-source"
+    },
+    "Funnel": {
+      "engine": "CoreChartEngine",
+      "pass": true,
+      "shape": "e77f730fe04ec56b",
+      "text_length": 21,
+      "variant": "funnel"
+    },
+    "Gantt": {
+      "engine": "TimelineEngine",
+      "pass": true,
+      "shape": "04ce1032b9eaab9c",
+      "text_length": 42,
+      "variant": "gantt"
+    },
+    "Ghost Preview": {
+      "engine": "EditorInfrastructure",
+      "pass": true,
+      "shape": "e1b331e9f2df4eda",
+      "text_length": 20,
+      "variant": "ghost-preview"
+    },
+    "Golden vs Affected Profile": {
+      "engine": "WaferFabEngine",
+      "pass": true,
+      "shape": "ed53bafd250f6506",
+      "text_length": 46,
+      "variant": "golden-vs-affected-profile"
+    },
+    "Group/Ungroup": {
+      "engine": "EditorInfrastructure",
+      "pass": true,
+      "shape": "a6c110ccfe5941a9",
+      "text_length": 24,
+      "variant": "group-ungroup"
+    },
+    "Grouped Bar": {
+      "engine": "CoreChartEngine",
+      "pass": true,
+      "shape": "079708fb68af0766",
+      "text_length": 26,
+      "variant": "grouped-bar"
+    },
+    "Heatmap Grid": {
+      "engine": "MatrixEngine",
+      "pass": true,
+      "shape": "442fd690de420e74",
+      "text_length": 30,
+      "variant": "heatmap-grid"
+    },
+    "Hero Image": {
+      "engine": "ImageMediaEngine",
+      "pass": true,
+      "shape": "1ba14f104c7d4bba",
+      "text_length": 38,
+      "variant": "hero-image"
+    },
+    "Hero KPI": {
+      "engine": "MetricEngine",
+      "pass": true,
+      "shape": "a3b1bec0d3f8e510",
+      "text_length": 37,
+      "variant": "hero-kpi"
+    },
+    "Hero Title": {
+      "engine": "TextEngine",
+      "pass": true,
+      "shape": "0f4db8ec64991a65",
+      "text_length": 44,
+      "variant": "hero-title"
+    },
+    "Hierarchical Grid": {
+      "engine": "TableEngine",
+      "pass": true,
+      "shape": "475d0acc069260b5",
+      "text_length": 80,
+      "variant": "hierarchical-grid"
+    },
+    "Hierarchy Tree": {
+      "engine": "DiagramEngine",
+      "pass": true,
+      "shape": "78825e20e1c00409",
+      "text_length": 49,
+      "variant": "hierarchy-tree"
+    },
+    "Histogram": {
+      "engine": "CoreChartEngine",
+      "pass": true,
+      "shape": "ffc8bbc541a32e34",
+      "text_length": 24,
+      "variant": "histogram"
+    },
+    "Horizontal Bar": {
+      "engine": "CoreChartEngine",
+      "pass": true,
+      "shape": "bd2d11bc5fbc4ede",
+      "text_length": 29,
+      "variant": "horizontal-bar"
+    },
+    "Horizontal Stack": {
+      "engine": "SmartLayoutEngine",
+      "pass": true,
+      "shape": "ed81903e7eea28c0",
+      "text_length": 23,
+      "variant": "horizontal-stack"
+    },
+    "Hover Highlight": {
+      "engine": "InteractionLayer",
+      "pass": true,
+      "shape": "185148ce1b1b13e5",
+      "text_length": 61,
+      "variant": "hover-highlight"
+    },
+    "Human Role Node": {
+      "engine": "DiagramEngine",
+      "pass": true,
+      "shape": "5f497d7b90909ffe",
+      "text_length": 57,
+      "variant": "human-role-node"
+    },
+    "Hypothesis Node": {
+      "engine": "DiagramEngine",
+      "pass": true,
+      "shape": "71ad6c081cf0278c",
+      "text_length": 57,
+      "variant": "hypothesis-node"
+    },
+    "I-MR Chart": {
+      "engine": "EngineeringChartEngine",
+      "pass": true,
+      "shape": "b7904a9d4065e5e8",
+      "text_length": 39,
+      "variant": "i-mr-chart"
+    },
+    "Image": {
+      "engine": "ImageMediaEngine",
+      "pass": true,
+      "shape": "13efc412ad4b6ffc",
+      "text_length": 33,
+      "variant": "image"
+    },
+    "Image + Caption": {
+      "engine": "ImageMediaEngine",
+      "pass": true,
+      "shape": "6fb6847c84dba9f4",
+      "text_length": 49,
+      "variant": "image-caption"
+    },
+    "Image Gallery": {
+      "engine": "ImageMediaEngine",
+      "pass": true,
+      "shape": "1ee9747975d72bc2",
+      "text_length": 27,
+      "variant": "image-gallery"
+    },
+    "Inset Region": {
+      "engine": "SmartLayoutEngine",
+      "pass": true,
+      "shape": "279583ba5632be36",
+      "text_length": 19,
+      "variant": "inset-region"
+    },
+    "Interactive Timeline": {
+      "engine": "InteractionLayer",
+      "pass": true,
+      "shape": "193745d44e1e802c",
+      "text_length": 55,
+      "variant": "interactive-timeline"
+    },
+    "KPI Pair": {
+      "engine": "MetricEngine",
+      "pass": true,
+      "shape": "4db4e6349bb74525",
+      "text_length": 43,
+      "variant": "kpi-pair"
+    },
+    "KPI Table": {
+      "engine": "TableEngine",
+      "pass": true,
+      "shape": "a2d45e86df0a1fa4",
+      "text_length": 50,
+      "variant": "kpi-table"
+    },
+    "Key Takeaway": {
+      "engine": "TextEngine",
+      "pass": true,
+      "shape": "f078a51f07b490f8",
+      "text_length": 48,
+      "variant": "key-takeaway"
+    },
+    "Keyboard Shortcuts": {
+      "engine": "EditorInfrastructure",
+      "pass": true,
+      "shape": "e545c70eb7af1d2a",
+      "text_length": 37,
+      "variant": "keyboard-shortcuts"
+    },
+    "Layer Ordering": {
+      "engine": "EditorInfrastructure",
+      "pass": true,
+      "shape": "9aac3318b8570378",
+      "text_length": 21,
+      "variant": "layer-ordering"
+    },
+    "Leading Hypothesis": {
+      "engine": "EvidenceCompositeEngine",
+      "pass": true,
+      "shape": "1b1bec842ed68e16",
+      "text_length": 71,
+      "variant": "leading-hypothesis"
+    },
+    "Line Chart": {
+      "engine": "CoreChartEngine",
+      "pass": true,
+      "shape": "c3a7152ab64483c3",
+      "text_length": 25,
+      "variant": "line-chart"
+    },
+    "Lock / Unlock": {
+      "engine": "EditorInfrastructure",
+      "pass": true,
+      "shape": "db0be4b70a815f72",
+      "text_length": 48,
+      "variant": "lock-unlock"
+    },
+    "Lot Trajectory": {
+      "engine": "WaferFabEngine",
+      "pass": true,
+      "shape": "80282b35a0b0770f",
+      "text_length": 18,
+      "variant": "lot-trajectory"
+    },
+    "Masonry Group": {
+      "engine": "SmartLayoutEngine",
+      "pass": true,
+      "shape": "de407e4e5a1e465e",
+      "text_length": 20,
+      "variant": "masonry-group"
+    },
+    "Metric + Delta": {
+      "engine": "MetricEngine",
+      "pass": true,
+      "shape": "15e45efff1b15865",
+      "text_length": 52,
+      "variant": "metric-delta"
+    },
+    "Metric Ladder": {
+      "engine": "MetricEngine",
+      "pass": true,
+      "shape": "86fd7d296f25fbe6",
+      "text_length": 46,
+      "variant": "metric-ladder"
+    },
+    "Metric Ring": {
+      "engine": "MetricEngine",
+      "pass": true,
+      "shape": "fabe89636922cfa1",
+      "text_length": 29,
+      "variant": "metric-ring"
+    },
+    "Metric Strip": {
+      "engine": "MetricEngine",
+      "pass": true,
+      "shape": "a8756d8e04afe322",
+      "text_length": 52,
+      "variant": "metric-strip"
+    },
+    "Metric with Sparkline": {
+      "engine": "MetricEngine",
+      "pass": true,
+      "shape": "74f23b5dbd6ad7eb",
+      "text_length": 54,
+      "variant": "metric-with-sparkline"
+    },
+    "Milestone Node": {
+      "engine": "DiagramEngine",
+      "pass": true,
+      "shape": "53185d6a1624bf76",
+      "text_length": 55,
+      "variant": "milestone-node"
+    },
+    "Milestone Rail": {
+      "engine": "TimelineEngine",
+      "pass": true,
+      "shape": "1d7b251a89dae242",
+      "text_length": 47,
+      "variant": "milestone-rail"
+    },
+    "Milestone Status": {
+      "engine": "ProjectCompositeEngine",
+      "pass": true,
+      "shape": "ba756bb61137308b",
+      "text_length": 43,
+      "variant": "milestone-status"
+    },
+    "Mind Map": {
+      "engine": "DiagramEngine",
+      "pass": true,
+      "shape": "c75ec790f8eac012",
+      "text_length": 48,
+      "variant": "mind-map"
+    },
+    "Mini-map": {
+      "engine": "EditorInfrastructure",
+      "pass": true,
+      "shape": "d626ad7c01ba4123",
+      "text_length": 15,
+      "variant": "mini-map"
+    },
+    "Multi-Line": {
+      "engine": "CoreChartEngine",
+      "pass": true,
+      "shape": "fd260be5a3ce0302",
+      "text_length": 25,
+      "variant": "multi-line"
+    },
+    "Multi-select": {
+      "engine": "EditorInfrastructure",
+      "pass": true,
+      "shape": "7a432b366b150231",
+      "text_length": 19,
+      "variant": "multi-select"
+    },
+    "Narrative Sequence": {
+      "engine": "TextEngine",
+      "pass": true,
+      "shape": "69cd2ea6cc17ec6c",
+      "text_length": 52,
+      "variant": "narrative-sequence"
+    },
+    "Network Graph": {
+      "engine": "DiagramEngine",
+      "pass": true,
+      "shape": "6ef32e8faf6df667",
+      "text_length": 33,
+      "variant": "network-graph"
+    },
+    "Next Actions": {
+      "engine": "ProjectCompositeEngine",
+      "pass": true,
+      "shape": "94cecc1abdc60a21",
+      "text_length": 82,
+      "variant": "next-actions"
+    },
+    "Next Discriminating Test": {
+      "engine": "EvidenceCompositeEngine",
+      "pass": true,
+      "shape": "4b97c336dfbe24b4",
+      "text_length": 113,
+      "variant": "next-discriminating-test"
+    },
+    "Numbered Insight": {
+      "engine": "TextEngine",
+      "pass": true,
+      "shape": "f691fd735b43a13f",
+      "text_length": 54,
+      "variant": "numbered-insight"
+    },
+    "Open Questions": {
+      "engine": "EvidenceCompositeEngine",
+      "pass": true,
+      "shape": "05009c22548c8e90",
+      "text_length": 118,
+      "variant": "open-questions"
+    },
+    "Option Card": {
+      "engine": "DecisionCompositeEngine",
+      "pass": true,
+      "shape": "fa7f0bc87720c2ca",
+      "text_length": 104,
+      "variant": "option-card"
+    },
+    "Output Node": {
+      "engine": "DiagramEngine",
+      "pass": true,
+      "shape": "d18d483103af720b",
+      "text_length": 49,
+      "variant": "output-node"
+    },
+    "Overlay Layer": {
+      "engine": "SmartLayoutEngine",
+      "pass": true,
+      "shape": "f8c75be6099d2545",
+      "text_length": 20,
+      "variant": "overlay-layer"
+    },
+    "Owner / Contributor Cluster": {
+      "engine": "ProjectCompositeEngine",
+      "pass": true,
+      "shape": "e47029d039053ab8",
+      "text_length": 73,
+      "variant": "owner-contributor-cluster"
+    },
+    "Paired Before/After Bars": {
+      "engine": "CoreChartEngine",
+      "pass": true,
+      "shape": "9a72afc00714d66e",
+      "text_length": 52,
+      "variant": "paired-before-after-bars"
+    },
+    "Pareto": {
+      "engine": "CoreChartEngine",
+      "pass": true,
+      "shape": "cac529842de915f9",
+      "text_length": 21,
+      "variant": "pareto"
+    },
+    "Paste Data Target": {
+      "engine": "EditorInfrastructure",
+      "pass": true,
+      "shape": "667a20b30c65bc42",
+      "text_length": 65,
+      "variant": "paste-data-target"
+    },
+    "Phase Roadmap": {
+      "engine": "TimelineEngine",
+      "pass": true,
+      "shape": "427bb43730a94dda",
+      "text_length": 62,
+      "variant": "phase-roadmap"
+    },
+    "Pie": {
+      "engine": "CoreChartEngine",
+      "pass": true,
+      "shape": "efb0cac0e0c9c2f7",
+      "text_length": 18,
+      "variant": "pie"
+    },
+    "Pipeline Diagram": {
+      "engine": "DiagramEngine",
+      "pass": true,
+      "shape": "c34d36e0c43ad334",
+      "text_length": 56,
+      "variant": "pipeline-diagram"
+    },
+    "Pivot Grid": {
+      "engine": "TableEngine",
+      "pass": true,
+      "shape": "d6c52f52889b28fb",
+      "text_length": 82,
+      "variant": "pivot-grid"
+    },
+    "Portfolio Tile Grid": {
+      "engine": "ProjectCompositeEngine",
+      "pass": true,
+      "shape": "13bd438feea70d8e",
+      "text_length": 51,
+      "variant": "portfolio-tile-grid"
+    },
+    "Predicted vs Actual": {
+      "engine": "EngineeringChartEngine",
+      "pass": true,
+      "shape": "77a07850ca9a9bad",
+      "text_length": 48,
+      "variant": "predicted-vs-actual"
+    },
+    "Preset Save": {
+      "engine": "EditorInfrastructure",
+      "pass": true,
+      "shape": "cb1025d7fc97785b",
+      "text_length": 50,
+      "variant": "preset-save"
+    },
+    "Process Flow": {
+      "engine": "DiagramEngine",
+      "pass": true,
+      "shape": "f6d61e014c0f71d7",
+      "text_length": 47,
+      "variant": "process-flow"
+    },
+    "Process Node": {
+      "engine": "DiagramEngine",
+      "pass": true,
+      "shape": "dd87329afc80ca2a",
+      "text_length": 51,
+      "variant": "process-node"
+    },
+    "Process Route Diagram": {
+      "engine": "WaferFabEngine",
+      "pass": true,
+      "shape": "de745e80b326d767",
+      "text_length": 56,
+      "variant": "process-route-diagram"
+    },
+    "Process Simplification": {
+      "engine": "ComparisonEngine",
+      "pass": true,
+      "shape": "4535537c55337324",
+      "text_length": 66,
+      "variant": "process-simplification"
+    },
+    "Product \u00d7 Chamber Matrix": {
+      "engine": "WaferFabEngine",
+      "pass": true,
+      "shape": "6174f5b007b6bc87",
+      "text_length": 49,
+      "variant": "product-chamber-matrix"
+    },
+    "Progress Metric": {
+      "engine": "MetricEngine",
+      "pass": true,
+      "shape": "bef12f583e55e3bb",
+      "text_length": 44,
+      "variant": "progress-metric"
+    },
+    "Project Card": {
+      "engine": "ProjectCompositeEngine",
+      "pass": true,
+      "shape": "4c877c041c959d3d",
+      "text_length": 51,
+      "variant": "project-card"
+    },
+    "Project Health Strip": {
+      "engine": "ProjectCompositeEngine",
+      "pass": true,
+      "shape": "149574f5137a3cb3",
+      "text_length": 56,
+      "variant": "project-health-strip"
+    },
+    "Project Portfolio Grid": {
+      "engine": "TableEngine",
+      "pass": true,
+      "shape": "ca8bf372781ac98e",
+      "text_length": 85,
+      "variant": "project-portfolio-grid"
+    },
+    "Pros / Cons": {
+      "engine": "DecisionCompositeEngine",
+      "pass": true,
+      "shape": "f0cf6abc04cf0603",
+      "text_length": 80,
+      "variant": "pros-cons"
+    },
+    "Quality Improvement": {
+      "engine": "ComparisonEngine",
+      "pass": true,
+      "shape": "1ae0a5ceddb3682e",
+      "text_length": 51,
+      "variant": "quality-improvement"
+    },
+    "Quote / Voice": {
+      "engine": "TextEngine",
+      "pass": true,
+      "shape": "562b7264b430f206",
+      "text_length": 66,
+      "variant": "quote-voice"
+    },
+    "RACI Matrix": {
+      "engine": "MatrixEngine",
+      "pass": true,
+      "shape": "4d66cb3b0dbf9f3b",
+      "text_length": 68,
+      "variant": "raci-matrix"
+    },
+    "Ranked Table": {
+      "engine": "TableEngine",
+      "pass": true,
+      "shape": "f143df5fd5bd2d5a",
+      "text_length": 66,
+      "variant": "ranked-table"
+    },
+    "Rate Metric": {
+      "engine": "MetricEngine",
+      "pass": true,
+      "shape": "b8b32523bd07ee0e",
+      "text_length": 37,
+      "variant": "rate-metric"
+    },
+    "Recommendation Hero": {
+      "engine": "DecisionCompositeEngine",
+      "pass": true,
+      "shape": "cfa1fa3708b4bc67",
+      "text_length": 116,
+      "variant": "recommendation-hero"
+    },
+    "Reduction Visual": {
+      "engine": "ComparisonEngine",
+      "pass": true,
+      "shape": "7ce386020b3e2e7c",
+      "text_length": 53,
+      "variant": "reduction-visual"
+    },
+    "Regression Scatter": {
+      "engine": "CoreChartEngine",
+      "pass": true,
+      "shape": "140a67f8d88a9ba4",
+      "text_length": 33,
+      "variant": "regression-scatter"
+    },
+    "Residual Plot": {
+      "engine": "EngineeringChartEngine",
+      "pass": true,
+      "shape": "130a5cbed42b8f4c",
+      "text_length": 42,
+      "variant": "residual-plot"
+    },
+    "Resize Handles": {
+      "engine": "EditorInfrastructure",
+      "pass": true,
+      "shape": "683ba7c0703354f9",
+      "text_length": 34,
+      "variant": "resize-handles"
+    },
+    "Response Surface": {
+      "engine": "EngineeringChartEngine",
+      "pass": true,
+      "shape": "5a8ff0ca3103f0ff",
+      "text_length": 57,
+      "variant": "response-surface"
+    },
+    "Responsive Grid Group": {
+      "engine": "SmartLayoutEngine",
+      "pass": true,
+      "shape": "266535435c978df8",
+      "text_length": 28,
+      "variant": "responsive-grid-group"
+    },
+    "Reversibility Indicator": {
+      "engine": "DecisionCompositeEngine",
+      "pass": true,
+      "shape": "6c8e0426b25bd5a5",
+      "text_length": 64,
+      "variant": "reversibility-indicator"
+    },
+    "Right Inspector": {
+      "engine": "EditorInfrastructure",
+      "pass": true,
+      "shape": "a009e16ddc08c93c",
+      "text_length": 36,
+      "variant": "right-inspector"
+    },
+    "Risk Callout": {
+      "engine": "DecisionCompositeEngine",
+      "pass": true,
+      "shape": "ccf7a8d7ee7353de",
+      "text_length": 86,
+      "variant": "risk-callout"
+    },
+    "Risk Matrix": {
+      "engine": "MatrixEngine",
+      "pass": true,
+      "shape": "8554b2e8f386fb14",
+      "text_length": 42,
+      "variant": "risk-matrix"
+    },
+    "Risk Node": {
+      "engine": "DiagramEngine",
+      "pass": true,
+      "shape": "a5062faebeddb811",
+      "text_length": 45,
+      "variant": "risk-node"
+    },
+    "Risk Register": {
+      "engine": "DecisionCompositeEngine",
+      "pass": true,
+      "shape": "7a370350ccdb6fb5",
+      "text_length": 59,
+      "variant": "risk-register"
+    },
+    "Root Cause Status": {
+      "engine": "EvidenceCompositeEngine",
+      "pass": true,
+      "shape": "e798a046cddcedbf",
+      "text_length": 80,
+      "variant": "root-cause-status"
+    },
+    "Route Commonality Matrix": {
+      "engine": "WaferFabEngine",
+      "pass": true,
+      "shape": "9aab4f78354963ae",
+      "text_length": 58,
+      "variant": "route-commonality-matrix"
+    },
+    "SPC Control Chart": {
+      "engine": "EngineeringChartEngine",
+      "pass": true,
+      "shape": "ece92162d02f6212",
+      "text_length": 46,
+      "variant": "spc-control-chart"
+    },
+    "SVG / Illustration": {
+      "engine": "ImageMediaEngine",
+      "pass": true,
+      "shape": "8de0dfe350ba05d3",
+      "text_length": 44,
+      "variant": "svg-illustration"
+    },
+    "Sankey": {
+      "engine": "CoreChartEngine",
+      "pass": true,
+      "shape": "a069b663c55a04c4",
+      "text_length": 21,
+      "variant": "sankey"
+    },
+    "Scatter Plot": {
+      "engine": "CoreChartEngine",
+      "pass": true,
+      "shape": "608faf02b3e6bb8e",
+      "text_length": 27,
+      "variant": "scatter-plot"
+    },
+    "Schedule Grid": {
+      "engine": "TimelineEngine",
+      "pass": true,
+      "shape": "e4752828047633a2",
+      "text_length": 51,
+      "variant": "schedule-grid"
+    },
+    "Screenshot Frame": {
+      "engine": "ImageMediaEngine",
+      "pass": true,
+      "shape": "a7d92552c801fa51",
+      "text_length": 50,
+      "variant": "screenshot-frame"
+    },
+    "Section Divider": {
+      "engine": "SmartLayoutEngine",
+      "pass": true,
+      "shape": "d877fe1734a6a232",
+      "text_length": 42,
+      "variant": "section-divider"
+    },
+    "Section Heading": {
+      "engine": "TextEngine",
+      "pass": true,
+      "shape": "2c149e858a7b0b63",
+      "text_length": 52,
+      "variant": "section-heading"
+    },
+    "Selection Box": {
+      "engine": "EditorInfrastructure",
+      "pass": true,
+      "shape": "9459fb0e23ee7b62",
+      "text_length": 20,
+      "variant": "selection-box"
+    },
+    "Sequence Diagram": {
+      "engine": "DiagramEngine",
+      "pass": true,
+      "shape": "73bf5e7f83662fd5",
+      "text_length": 66,
+      "variant": "sequence-diagram"
+    },
+    "Sequence Strip": {
+      "engine": "TimelineEngine",
+      "pass": true,
+      "shape": "68e9ffb320005363",
+      "text_length": 53,
+      "variant": "sequence-strip"
+    },
+    "Side Rail": {
+      "engine": "SmartLayoutEngine",
+      "pass": true,
+      "shape": "a2bd65a1c00bdb77",
+      "text_length": 16,
+      "variant": "side-rail"
+    },
+    "Slope Chart": {
+      "engine": "CoreChartEngine",
+      "pass": true,
+      "shape": "bd8a68f64f0d1799",
+      "text_length": 26,
+      "variant": "slope-chart"
+    },
+    "Smart Canvas": {
+      "engine": "SmartLayoutEngine",
+      "pass": true,
+      "shape": "e393893177007578",
+      "text_length": 19,
+      "variant": "smart-canvas"
+    },
+    "Smart Group": {
+      "engine": "SmartLayoutEngine",
+      "pass": true,
+      "shape": "28dfb1b392b50eb9",
+      "text_length": 18,
+      "variant": "smart-group"
+    },
+    "Smart Guides": {
+      "engine": "EditorInfrastructure",
+      "pass": true,
+      "shape": "3e96b8f62090ffc5",
+      "text_length": 22,
+      "variant": "smart-guides"
+    },
+    "Smart Layout Suggestions": {
+      "engine": "EditorInfrastructure",
+      "pass": true,
+      "shape": "94e0454358bebe6d",
+      "text_length": 67,
+      "variant": "smart-layout-suggestions"
+    },
+    "Snap Lines": {
+      "engine": "EditorInfrastructure",
+      "pass": true,
+      "shape": "5e798bf784ee6e36",
+      "text_length": 17,
+      "variant": "snap-lines"
+    },
+    "Source Node": {
+      "engine": "DiagramEngine",
+      "pass": true,
+      "shape": "8afde3a31c02fce8",
+      "text_length": 49,
+      "variant": "source-node"
+    },
+    "Spacer / Rhythm Element": {
+      "engine": "SmartLayoutEngine",
+      "pass": true,
+      "shape": "db1bbed2fb6d1cdf",
+      "text_length": 39,
+      "variant": "spacer-rhythm-element"
+    },
+    "Sparkline": {
+      "engine": "CoreChartEngine",
+      "pass": true,
+      "shape": "8dea58395b2d4527",
+      "text_length": 24,
+      "variant": "sparkline"
+    },
+    "Spatial Cluster View": {
+      "engine": "WaferFabEngine",
+      "pass": true,
+      "shape": "6ffd7316046762c1",
+      "text_length": 24,
+      "variant": "spatial-cluster-view"
+    },
+    "Stacked Area": {
+      "engine": "CoreChartEngine",
+      "pass": true,
+      "shape": "d913e438de9e4b22",
+      "text_length": 27,
+      "variant": "stacked-area"
+    },
+    "Stacked Bar": {
+      "engine": "CoreChartEngine",
+      "pass": true,
+      "shape": "dcd0a94a56989708",
+      "text_length": 26,
+      "variant": "stacked-bar"
+    },
+    "Status Metric": {
+      "engine": "MetricEngine",
+      "pass": true,
+      "shape": "b192ee41b9f9deb9",
+      "text_length": 56,
+      "variant": "status-metric"
+    },
+    "Step Chart": {
+      "engine": "CoreChartEngine",
+      "pass": true,
+      "shape": "dcaa1cacb7d988b6",
+      "text_length": 25,
+      "variant": "step-chart"
+    },
+    "Storage Node": {
+      "engine": "DiagramEngine",
+      "pass": true,
+      "shape": "089bf110a2140e6f",
+      "text_length": 51,
+      "variant": "storage-node"
+    },
+    "Strip / Dot Plot": {
+      "engine": "CoreChartEngine",
+      "pass": true,
+      "shape": "ad6cf5cc96a400e2",
+      "text_length": 31,
+      "variant": "strip-dot-plot"
+    },
+    "Swimlane": {
+      "engine": "DiagramEngine",
+      "pass": true,
+      "shape": "dd5db63b3840aab2",
+      "text_length": 37,
+      "variant": "swimlane"
+    },
+    "Swimlane Process": {
+      "engine": "DiagramEngine",
+      "pass": true,
+      "shape": "c5571f334faaf980",
+      "text_length": 79,
+      "variant": "swimlane-process"
+    },
+    "Swimlane Timeline": {
+      "engine": "TimelineEngine",
+      "pass": true,
+      "shape": "9b28a483a19bbfda",
+      "text_length": 37,
+      "variant": "swimlane-timeline"
+    },
+    "Tabs": {
+      "engine": "InteractionLayer",
+      "pass": true,
+      "shape": "a17793abdeffbec6",
+      "text_length": 42,
+      "variant": "tabs"
+    },
+    "Tabs / View Switcher": {
+      "engine": "SmartLayoutEngine",
+      "pass": true,
+      "shape": "1c2e50a77d44cf57",
+      "text_length": 51,
+      "variant": "tabs-view-switcher"
+    },
+    "Target vs Actual": {
+      "engine": "MetricEngine",
+      "pass": true,
+      "shape": "e576768c82b1b83d",
+      "text_length": 52,
+      "variant": "target-vs-actual"
+    },
+    "Threshold Metric": {
+      "engine": "MetricEngine",
+      "pass": true,
+      "shape": "411490822f6ba123",
+      "text_length": 49,
+      "variant": "threshold-metric"
+    },
+    "Time Compression": {
+      "engine": "ComparisonEngine",
+      "pass": true,
+      "shape": "1e3a7dfdbed388be",
+      "text_length": 38,
+      "variant": "time-compression"
+    },
+    "Tool \u00d7 Chamber Matrix": {
+      "engine": "WaferFabEngine",
+      "pass": true,
+      "shape": "c9539a032f50aed0",
+      "text_length": 79,
+      "variant": "tool-chamber-matrix"
+    },
+    "Tool \u00d7 Recipe Heatmap": {
+      "engine": "WaferFabEngine",
+      "pass": true,
+      "shape": "a4f3a4109827f306",
+      "text_length": 44,
+      "variant": "tool-recipe-heatmap"
+    },
+    "Tooltip": {
+      "engine": "InteractionLayer",
+      "pass": true,
+      "shape": "9fb2c4096293c1b6",
+      "text_length": 42,
+      "variant": "tooltip"
+    },
+    "Tradeoff Map": {
+      "engine": "DecisionCompositeEngine",
+      "pass": true,
+      "shape": "55ba8c46fd362c76",
+      "text_length": 38,
+      "variant": "tradeoff-map"
+    },
+    "Transformation Diagram": {
+      "engine": "DiagramEngine",
+      "pass": true,
+      "shape": "4746ac126946f49a",
+      "text_length": 43,
+      "variant": "transformation-diagram"
+    },
+    "Transformation Flow": {
+      "engine": "ComparisonEngine",
+      "pass": true,
+      "shape": "066e3bdf0d76f05c",
+      "text_length": 92,
+      "variant": "transformation-flow"
+    },
+    "Treemap": {
+      "engine": "CoreChartEngine",
+      "pass": true,
+      "shape": "037f134375edf440",
+      "text_length": 22,
+      "variant": "treemap"
+    },
+    "Undo / Redo": {
+      "engine": "EditorInfrastructure",
+      "pass": true,
+      "shape": "f342f4479c46ebca",
+      "text_length": 32,
+      "variant": "undo-redo"
+    },
+    "Value Stream": {
+      "engine": "DiagramEngine",
+      "pass": true,
+      "shape": "2c0c5845c57f34a3",
+      "text_length": 46,
+      "variant": "value-stream"
+    },
+    "Value vs Effort Quadrant": {
+      "engine": "ProjectCompositeEngine",
+      "pass": true,
+      "shape": "c583902bc6a2cc9d",
+      "text_length": 68,
+      "variant": "value-vs-effort-quadrant"
+    },
+    "Verification Component": {
+      "engine": "EvidenceCompositeEngine",
+      "pass": true,
+      "shape": "b88f62c7735dd1ca",
+      "text_length": 94,
+      "variant": "verification-component"
+    },
+    "Vertical Bar": {
+      "engine": "CoreChartEngine",
+      "pass": true,
+      "shape": "42ba6eeee0913935",
+      "text_length": 27,
+      "variant": "vertical-bar"
+    },
+    "Vertical Stack": {
+      "engine": "SmartLayoutEngine",
+      "pass": true,
+      "shape": "e48676a3006b4d00",
+      "text_length": 21,
+      "variant": "vertical-stack"
+    },
+    "Vertical Timeline": {
+      "engine": "TimelineEngine",
+      "pass": true,
+      "shape": "6ba72af9e210fdfe",
+      "text_length": 62,
+      "variant": "vertical-timeline"
+    },
+    "Violin Plot": {
+      "engine": "CoreChartEngine",
+      "pass": true,
+      "shape": "968d70a1075a7c3e",
+      "text_length": 26,
+      "variant": "violin-plot"
+    },
+    "Visual Comparison Slider": {
+      "engine": "ImageMediaEngine",
+      "pass": true,
+      "shape": "a030531c0fed05ab",
+      "text_length": 30,
+      "variant": "visual-comparison-slider"
+    },
+    "Wafer Difference Map": {
+      "engine": "WaferFabEngine",
+      "pass": true,
+      "shape": "7489e036e2a84224",
+      "text_length": 28,
+      "variant": "wafer-difference-map"
+    },
+    "Wafer Map": {
+      "engine": "WaferFabEngine",
+      "pass": true,
+      "shape": "371c61b315a23853",
+      "text_length": 13,
+      "variant": "wafer-map"
+    },
+    "Wafer Overlay": {
+      "engine": "WaferFabEngine",
+      "pass": true,
+      "shape": "5e190eaca7c20a82",
+      "text_length": 17,
+      "variant": "wafer-overlay"
+    },
+    "Waterfall": {
+      "engine": "CoreChartEngine",
+      "pass": true,
+      "shape": "5c3de66127a7adb6",
+      "text_length": 24,
+      "variant": "waterfall"
+    },
+    "Weighted Decision Matrix": {
+      "engine": "MatrixEngine",
+      "pass": true,
+      "shape": "dfc307bf0dc5a462",
+      "text_length": 83,
+      "variant": "weighted-decision-matrix"
+    },
+    "Workstream Summary": {
+      "engine": "ProjectCompositeEngine",
+      "pass": true,
+      "shape": "8985c623c6190cba",
+      "text_length": 86,
+      "variant": "workstream-summary"
+    },
+    "Xbar-R Chart": {
+      "engine": "EngineeringChartEngine",
+      "pass": true,
+      "shape": "825a8cff711b326e",
+      "text_length": 46,
+      "variant": "xbar-r-chart"
+    },
+    "Zoom / Pan": {
+      "engine": "EditorInfrastructure",
+      "pass": true,
+      "shape": "9ee59e326b21f301",
+      "text_length": 29,
+      "variant": "zoom-pan"
+    },
+    "Zoom Region / Detail Inset": {
+      "engine": "ImageMediaEngine",
+      "pass": true,
+      "shape": "617026b5aa7524a4",
+      "text_length": 32,
+      "variant": "zoom-region-detail-inset"
+    }
+  },
+  "page_errors": [],
+  "pass": true,
+  "summary": {
+    "duplicate_groups": 0,
+    "passed": 248,
+    "total": 248,
+    "unique_normalized_shapes": 248
+  }
+}

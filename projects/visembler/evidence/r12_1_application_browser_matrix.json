@@ -1,0 +1,364 @@
+{
+  "checks": {
+    "bridge.save_ppt": {
+      "detail": [
+        "report.save_requested",
+        "ppt.export_requested"
+      ],
+      "pass": true
+    },
+    "catalog.17_engines": {
+      "detail": [
+        "ComparisonEngine",
+        "CoreChartEngine",
+        "DecisionCompositeEngine",
+        "DiagramEngine",
+        "EditorInfrastructure",
+        "EngineeringChartEngine",
+        "EvidenceCompositeEngine",
+        "ImageMediaEngine",
+        "InteractionLayer",
+        "MatrixEngine",
+        "MetricEngine",
+        "ProjectCompositeEngine",
+        "SmartLayoutEngine",
+        "TableEngine",
+        "TextEngine",
+        "TimelineEngine",
+        "WaferFabEngine"
+      ],
+      "pass": true
+    },
+    "catalog.248": {
+      "detail": 248,
+      "pass": true
+    },
+    "final.no_console_errors": {
+      "detail": [],
+      "pass": true
+    },
+    "final.no_page_errors": {
+      "detail": [],
+      "pass": true
+    },
+    "free.no_snap": {
+      "detail": {
+        "after": {
+          "element": "Key Takeaway",
+          "engine": "TextEngine",
+          "h": 130,
+          "id": "c2",
+          "locked": false,
+          "order": 1,
+          "title": "B",
+          "type": "text",
+          "w": 200,
+          "weight": 1,
+          "x": 232.99999930483875,
+          "y": 17.00002217564333,
+          "z": 2
+        },
+        "before": {
+          "element": "Key Takeaway",
+          "engine": "TextEngine",
+          "h": 130,
+          "id": "c2",
+          "locked": false,
+          "order": 1,
+          "title": "B",
+          "type": "text",
+          "w": 200,
+          "weight": 1,
+          "x": 228,
+          "y": 14,
+          "z": 2
+        }
+      },
+      "pass": true
+    },
+    "guided.peer_gap": {
+      "detail": {
+        "element": "Key Takeaway",
+        "engine": "TextEngine",
+        "h": 130,
+        "id": "c2",
+        "locked": false,
+        "order": 1,
+        "title": "B",
+        "type": "text",
+        "w": 200,
+        "weight": 1,
+        "x": 228,
+        "y": 14,
+        "z": 2
+      },
+      "pass": true
+    },
+    "image.clipboard": {
+      "detail": "data:image/png;base64,iVBORw0KGg",
+      "pass": true
+    },
+    "inspector.ComparisonEngine": {
+      "detail": {
+        "element": "Before/After KPI",
+        "selector": "#iBefore"
+      },
+      "pass": true
+    },
+    "inspector.CoreChartEngine": {
+      "detail": {
+        "element": "Line Chart",
+        "selector": "#iData"
+      },
+      "pass": true
+    },
+    "inspector.DecisionCompositeEngine": {
+      "detail": {
+        "element": "Decision Needed",
+        "selector": "#iStatement"
+      },
+      "pass": true
+    },
+    "inspector.DiagramEngine": {
+      "detail": {
+        "element": "Process Flow",
+        "selector": "#iNodes"
+      },
+      "pass": true
+    },
+    "inspector.EditorInfrastructure": {
+      "detail": {
+        "element": "Right Inspector",
+        "selector": "#iConfiguration"
+      },
+      "pass": true
+    },
+    "inspector.EngineeringChartEngine": {
+      "detail": {
+        "element": "SPC Control Chart",
+        "selector": "#iObservations"
+      },
+      "pass": true
+    },
+    "inspector.EvidenceCompositeEngine": {
+      "detail": {
+        "element": "Evidence Card",
+        "selector": "#iStatement"
+      },
+      "pass": true
+    },
+    "inspector.ImageMediaEngine": {
+      "detail": {
+        "element": "Image",
+        "selector": "#iImageFile"
+      },
+      "pass": true
+    },
+    "inspector.InteractionLayer": {
+      "detail": {
+        "element": "Cross-filter",
+        "selector": "#iBehavior"
+      },
+      "pass": true
+    },
+    "inspector.MatrixEngine": {
+      "detail": {
+        "element": "Decision Matrix",
+        "selector": "#iMatrix"
+      },
+      "pass": true
+    },
+    "inspector.MetricEngine": {
+      "detail": {
+        "element": "Hero KPI",
+        "selector": "#iValue"
+      },
+      "pass": true
+    },
+    "inspector.ProjectCompositeEngine": {
+      "detail": {
+        "element": "Project Card",
+        "selector": "#iStatement"
+      },
+      "pass": true
+    },
+    "inspector.SmartLayoutEngine": {
+      "detail": {
+        "element": "Smart Canvas",
+        "selector": "#iConfiguration"
+      },
+      "pass": true
+    },
+    "inspector.TableEngine": {
+      "detail": {
+        "element": "Clean Table",
+        "selector": "#iTable"
+      },
+      "pass": true
+    },
+    "inspector.TextEngine": {
+      "detail": {
+        "element": "Hero Title",
+        "selector": "#iText"
+      },
+      "pass": true
+    },
+    "inspector.TimelineEngine": {
+      "detail": {
+        "element": "Event Timeline",
+        "selector": "#iTimeline"
+      },
+      "pass": true
+    },
+    "inspector.WaferFabEngine": {
+      "detail": {
+        "element": "Wafer Map",
+        "selector": "#iTool"
+      },
+      "pass": true
+    },
+    "inspector.collapse_reclaims_width": {
+      "detail": {
+        "closed": 1060.109375,
+        "open": 906
+      },
+      "pass": true
+    },
+    "inspectors.17": {
+      "detail": 17,
+      "pass": true
+    },
+    "lifecycle.host_rebind": {
+      "detail": {
+        "editor_ready": true,
+        "model": {
+          "crossFilter": null,
+          "groups": {},
+          "items": [
+            {
+              "element": "Hero Title",
+              "engine": "TextEngine",
+              "h": 130,
+              "id": "c1",
+              "locked": false,
+              "order": 0,
+              "title": "A",
+              "type": "text",
+              "w": 200,
+              "weight": 1,
+              "x": 14,
+              "y": 14,
+              "z": 1
+            },
+            {
+              "element": "Key Takeaway",
+              "engine": "TextEngine",
+              "h": 130,
+              "id": "c2",
+              "locked": false,
+              "order": 1,
+              "title": "B",
+              "type": "text",
+              "w": 200,
+              "weight": 1,
+              "x": 232.99999930483875,
+              "y": 17.00002217564333,
+              "z": 2
+            }
+          ],
+          "layoutPreset": "editorial",
+          "mode": "free",
+          "nextId": 3,
+          "schema_version": 1
+        },
+        "pending": 0,
+        "report_id": "geometry",
+        "revision": 4
+      },
+      "pass": true
+    },
+    "pointer.no_high_frequency_bridge": {
+      "detail": [],
+      "pass": true
+    },
+    "preset.builtins": {
+      "detail": "Editorial Bento\nBalanced narrative and analytical hierarchy.\nApply\nExecutive\nPromote KPI, takeaway, comparison and decision.\nApply\nTechnical\nPromote diagram, table, timeline and engineering evidence.\nApply",
+      "pass": true
+    },
+    "preset.delete": {
+      "detail": "No personal presets yet.",
+      "pass": true
+    },
+    "preset.rename": {
+      "detail": "Personal \u00b7 editable\nLoad\nUpdate\nDelete",
+      "pass": true
+    },
+    "preset.save": {
+      "detail": "Personal \u00b7 editable\nLoad\nUpdate\nDelete",
+      "pass": true
+    },
+    "preset.update": {
+      "detail": null,
+      "pass": true
+    },
+    "preview.root_scoped": {
+      "detail": null,
+      "pass": true
+    },
+    "ready.blank": {
+      "detail": {
+        "editor_ready": true,
+        "model": {
+          "crossFilter": null,
+          "groups": {},
+          "items": [],
+          "layoutPreset": "editorial",
+          "mode": "smart",
+          "nextId": 1,
+          "schema_version": 1
+        },
+        "pending": 0,
+        "report_id": "r12-browser",
+        "revision": 1
+      },
+      "pass": true
+    },
+    "timeline.null_dates": {
+      "detail": [
+        {
+          "date": null,
+          "label": "Collect"
+        },
+        {
+          "date": "2026-08-28",
+          "label": "Analyze"
+        },
+        {
+          "date": null,
+          "label": "Decide"
+        }
+      ],
+      "pass": true
+    },
+    "typed.zero_missing_quoted": {
+      "detail": [
+        [
+          "A",
+          0
+        ],
+        [
+          "B",
+          null
+        ],
+        [
+          "C, quoted",
+          12
+        ]
+      ],
+      "pass": true
+    }
+  },
+  "console_errors": [],
+  "page_errors": [],
+  "pass": true
+}

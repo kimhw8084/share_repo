@@ -1,0 +1,26 @@
+{
+  "asset_graph_pass": true,
+  "browser_matrix": {
+    "checks": 38,
+    "console_errors": [],
+    "page_errors": [],
+    "pass": true
+  },
+  "confirmed_runtime_failure": "app.storage.tab accessed in /visualizer page builder before client connection",
+  "elements": 248,
+  "engines": 17,
+  "fix": "last-open report preference uses request-safe app.storage.user; no Visualizer page-builder tab_store access",
+  "frozen_vendor_files": 123,
+  "golden_connector_sha256": "d8ebd4378f01b7c52a7a4be57c578c22adf29b899cc08a370cf084881195343e",
+  "governance": {
+    "errors": 0,
+    "pass": true,
+    "warnings": 0
+  },
+  "python_tests_collected": 690,
+  "python_tests_status": "PASS",
+  "real_nicegui_target_gate": "setup_linux.sh runs live_app_http_smoke.py after installing nicegui==3.15.0; test_linux.sh additionally runs live_app_restart_smoke.py",
+  "revision": "R12.1_TAB_STORAGE_HOTFIX",
+  "source_contract_pass": true,
+  "wheel_source_parity": "PASS"
+}

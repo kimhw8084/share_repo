@@ -1,0 +1,49 @@
+{
+  "edges": [
+    {
+      "from": "/_cui_visualizer/assets/integrated_editor.mjs",
+      "spec": "../vendor/production_core/core/editor_store.mjs",
+      "to": "/_cui_visualizer/vendor/production_core/core/editor_store.mjs"
+    },
+    {
+      "from": "/_cui_visualizer/assets/integrated_editor.mjs",
+      "spec": "../vendor/production_core/core/runtime_registry.mjs",
+      "to": "/_cui_visualizer/vendor/production_core/core/runtime_registry.mjs"
+    },
+    {
+      "from": "/_cui_visualizer/assets/integrated_editor.mjs",
+      "spec": "./element_renderer.mjs",
+      "to": "/_cui_visualizer/assets/element_renderer.mjs"
+    },
+    {
+      "from": "/_cui_visualizer/assets/element_renderer.mjs",
+      "spec": "../vendor/production_core/core/universal_renderer.mjs",
+      "to": "/_cui_visualizer/vendor/production_core/core/universal_renderer.mjs"
+    },
+    {
+      "from": "/_cui_visualizer/vendor/production_core/core/universal_renderer.mjs",
+      "spec": "./runtime_registry.mjs",
+      "to": "/_cui_visualizer/vendor/production_core/core/runtime_registry.mjs"
+    }
+  ],
+  "http_urls": [
+    "/_cui_visualizer/assets/element_renderer.mjs",
+    "/_cui_visualizer/assets/integrated_editor.css",
+    "/_cui_visualizer/assets/integrated_editor.html",
+    "/_cui_visualizer/assets/integrated_editor.mjs",
+    "/_cui_visualizer/assets/tokens.css",
+    "/_cui_visualizer/vendor/production_core/core/editor_store.mjs",
+    "/_cui_visualizer/vendor/production_core/core/runtime_registry.mjs",
+    "/_cui_visualizer/vendor/production_core/core/universal_renderer.mjs"
+  ],
+  "missing": [],
+  "missing_files": [],
+  "modules": [
+    "/_cui_visualizer/assets/element_renderer.mjs",
+    "/_cui_visualizer/assets/integrated_editor.mjs",
+    "/_cui_visualizer/vendor/production_core/core/editor_store.mjs",
+    "/_cui_visualizer/vendor/production_core/core/runtime_registry.mjs",
+    "/_cui_visualizer/vendor/production_core/core/universal_renderer.mjs"
+  ],
+  "pass": true
+}

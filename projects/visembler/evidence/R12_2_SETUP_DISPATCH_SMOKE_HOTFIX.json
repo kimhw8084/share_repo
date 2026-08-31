@@ -1,0 +1,21 @@
+{
+  "revision": "R12.2_SETUP_DISPATCH_SMOKE_HOTFIX",
+  "observed_failure": "all runtime-smoke routes 200, then controlled SIGINT shutdown emitted CancelledError/KeyboardInterrupt on Python 3.13 + uvloop and setup aborted via set -e",
+  "root_cause": [
+    "root setup.sh dispatched macOS to legacy framework-lab setup_mac.sh",
+    "framework runtime smoke used SIGINT for intentional stop"
+  ],
+  "fixes": [
+    "root macOS installer replaced with Visualizer production setup",
+    "macOS and Linux product setup both run live_app_http_smoke.py against exact app.py",
+    "framework runtime smoke stop changed SIGINT -> SIGTERM",
+    "checksum verification portable across sha256sum/shasum",
+    "run_visualizer.sh points to canonical ./setup.sh"
+  ],
+  "python_tests": 695,
+  "governance": {
+    "errors": 0,
+    "warnings": 0
+  },
+  "wheel_source_parity": true
+}

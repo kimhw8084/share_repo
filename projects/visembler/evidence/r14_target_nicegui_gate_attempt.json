@@ -1,0 +1,6 @@
+{
+  "pass": false,
+  "failures": [
+    "NiceGUI import failed: No module named 'nicegui'"
+  ]
+}

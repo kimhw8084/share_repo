@@ -1,0 +1,9 @@
+{
+  "pass": true,
+  "authority_files": 123,
+  "vendor_files": 123,
+  "missing": [],
+  "extra": [],
+  "changed": [],
+  "golden_connector_sha256": "d8ebd4378f01b7c52a7a4be57c578c22adf29b899cc08a370cf084881195343e"
+}
